@@ -25,12 +25,16 @@ if len(arguments) == 3:
     firstMapResult = firstHost.filter(lambda l: "error" in l.lower()).map(removeExtraString).map(lambda l:(l,1))
     firstResult = firstMapResult.reduceByKey(add).sortBy(lambda l: l[1],ascending = False).take(5)
 
+    secondMapResult = secondHost.filter(lambda l: "error" in l.lower()).map(removeExtraString).map(lambda l:(l,1))
+    secondResult = secondMapResult.reduceByKey(add).sortBy(lambda l: l[1],ascending = False).take(5)
     
     print "* Q6: 5 most frequent error messages"            
     print "  + " + str(arguments[1]) + ":"
     for (key,value) in firstResult:
         print "    - ("+str(value)+", '"+str(key)+"')"
-            
+    print "  + " + str(arguments[2]) + ":"
+    for (key,value) in secondResult:
+        print "    - ("+str(value)+", '"+str(key)+"')"        
     
 else:
     print "Invalid arguments"
