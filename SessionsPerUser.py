@@ -30,18 +30,18 @@ if len(arguments) == 3:
     secondMapResult = secondHost.map(lambda l:l.split(":")).map(matchToUser).map(lambda l: (l, 1))
     secondResult = secondMapResult.reduceByKey(add).collect()
     
-    print "* Q3: unique user names"
+    print "* Q4: sessions per user"
     firstList=[]
     for (key, value) in firstResult:
         if key != 'False':
-            firstList.append(str(key)[:-1])
+            firstList.append((str(key)[:-1],value))
             
     print "  + " + str(arguments[1]) + ": " + str(firstList)
     
     secondList=[]
     for (key, value) in secondResult:
         if key != 'False':
-            secondList.append(str(key)[:-1])
+            secondList.append((str(key)[:-1],value))
     
     print "  + " + str(arguments[2]) + ": " + str(secondList)
     
