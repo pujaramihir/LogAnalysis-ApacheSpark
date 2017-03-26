@@ -12,9 +12,7 @@ while getopts ":q:" o; do
 					spark-submit SessionsOfUser.py $3 $4
 					;;
 				3)
-					echo $q
-					echo $3
-					echo $4
+					spark-submit UniqueUser.py $3 $4
 					;;
 				4)
 					echo $q

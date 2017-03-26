@@ -3,12 +3,14 @@ from operator import add
 import os
 import sys
 import re
+from pyspark.sql.functions import first
 
 def matchToUser(logString):
-    p = re.compile('( Starting Session [0-9]+ of user achille.)+')
+    p = re.compile('( Starting Session [0-9a-zA-Z]+ of user [a-zA-z0-9]+.)+')
     m = p.match(logString[3])
     if m:
-        return "True"
+        user = logString[3].split()
+        return user[5]
     else:
         return "False"
 
@@ -27,16 +29,20 @@ if len(arguments) == 3:
     secondMapResult = secondHost.map(lambda l:l.split(":")).map(matchToUser).map(lambda l: (l, 1))
     secondResult = secondMapResult.reduceByKey(add).collect()
     
-    
-    print "* Q2: sessions of user 'achille'"
+    print "* Q3: unique user names"
+    firstList=[]
     for (key, value) in firstResult:
-        if key == 'True':
-            print "  + " + str(arguments[1]) + ": " + str(value)
+        if key != 'False':
+            firstList.append(str(key)[:-1])
+            
+    print "  + " + str(arguments[1]) + ": " + str(firstList)
     
+    secondList=[]
     for (key, value) in secondResult:
-        if key == 'True':
-            print "  + " + str(arguments[2]) + ": " + str(value)
+        if key != 'False':
+            secondList.append(str(key)[:-1])
     
+    print "  + " + str(arguments[2]) + ": " + str(secondList)
     
 else:
     print "Invalid arguments"
