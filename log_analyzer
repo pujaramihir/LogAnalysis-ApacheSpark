@@ -27,9 +27,7 @@ while getopts ":q:" o; do
 					spark-submit UsersOnBothHost.py $3 $4
 					;;
 				8)
-					echo $q
-					echo $3
-					echo $4
+					spark-submit UserOnlyOnOneHost.py $3 $4
 					;;
 				9)
 					echo $q

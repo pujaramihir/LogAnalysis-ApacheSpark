@@ -40,9 +40,19 @@ if len(arguments) == 3:
         if key != 'False':
             secondList.append(str(key)[:-1])
     
-    print "* Q7: users who started a session on both hosts, i.e., on exactly 2 hosts."
-    print "  + : " + str(list(set(firstList).intersection(secondList)))
+    commonUsers = list(set(firstList).intersection(secondList))
     
+    users = []
     
+    for firstUser in firstList:
+        if firstUser not in commonUsers:
+            users.append((firstUser,str(arguments[1])))
+
+    for secondUser in secondList:
+        if secondUser not in commonUsers:
+            users.append((secondUser,str(arguments[2])))
+            
+    print "* Q8: users who started a session on exactly one host, with host name."
+    print "  + : " + str(users)    
 else:
     print "Invalid arguments"
