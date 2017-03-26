@@ -9,9 +9,7 @@ while getopts ":q:" o; do
 					spark-submit CountLines.py $3 $4
 					;;
 				2)
-					echo $q
-					echo $3
-					echo $4
+					spark-submit SessionsOfUser.py $3 $4
 					;;
 				3)
 					echo $q
