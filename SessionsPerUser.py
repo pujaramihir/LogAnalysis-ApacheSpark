@@ -3,7 +3,6 @@ from operator import add
 import os
 import sys
 import re
-from pyspark.sql.functions import first
 
 def matchToUser(logString):
     p = re.compile('( Starting Session [0-9a-zA-Z]+ of user [a-zA-z0-9]+.)+')

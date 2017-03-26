@@ -18,9 +18,7 @@ while getopts ":q:" o; do
 					spark-submit SessionsPerUser.py $3 $4
 					;;
 				5)
-					echo $q
-					echo $3
-					echo $4
+					spark-submit NumberOfErrors.py $3 $4
 					;;
 				6)
 					echo $q
