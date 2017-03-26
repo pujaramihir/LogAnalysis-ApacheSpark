@@ -1,0 +1,2352 @@
+Mar 20 03:20:01 iliad systemd: Started Session 1073 of user user-0.
+Mar 20 03:20:01 iliad systemd: Starting Session 1073 of user user-0.
+Mar 20 03:30:01 iliad systemd: Started Session 1074 of user user-0.
+Mar 20 03:30:01 iliad systemd: Starting Session 1074 of user user-0.
+Mar 20 03:36:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 03:36:01 iliad systemd: Stopping user-0.slice.
+Mar 20 03:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 03:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 03:40:01 iliad systemd: Started Session 1075 of user user-0.
+Mar 20 03:40:01 iliad systemd: Starting Session 1075 of user user-0.
+Mar 20 03:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 03:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 03:43:00 iliad chronyd[803]: Source 206.108.0.133 replaced with 167.114.204.238
+Mar 20 03:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 03:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 03:50:01 iliad systemd: Started Session 1076 of user user-0.
+Mar 20 03:50:01 iliad systemd: Starting Session 1076 of user user-0.
+Mar 20 03:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 03:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 04:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 04:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 04:00:01 iliad systemd: Started Session 1077 of user user-0.
+Mar 20 04:00:01 iliad systemd: Starting Session 1077 of user user-0.
+Mar 20 04:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 04:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 04:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 04:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 04:01:01 iliad systemd: Started Session 1078 of user user-0.
+Mar 20 04:01:01 iliad systemd: Starting Session 1078 of user user-0.
+Mar 20 04:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 04:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 04:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 04:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 04:10:01 iliad systemd: Started Session 1079 of user user-0.
+Mar 20 04:10:01 iliad systemd: Starting Session 1079 of user user-0.
+Mar 20 04:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 04:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 04:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 04:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 04:20:01 iliad systemd: Started Session 1080 of user user-0.
+Mar 20 04:20:01 iliad systemd: Starting Session 1080 of user user-0.
+Mar 20 04:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 04:20:01 iliad systemd: Stopping user-0.slice.
+Mar 20 04:24:11 iliad chronyd[803]: Source 208.73.56.29 replaced with 47.54.236.184
+Mar 20 04:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 04:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 04:30:01 iliad systemd: Started Session 1081 of user user-0.
+Mar 20 04:30:01 iliad systemd: Starting Session 1081 of user user-0.
+Mar 20 04:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 04:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 04:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 04:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 04:40:01 iliad systemd: Started Session 1082 of user user-0.
+Mar 20 04:40:01 iliad systemd: Starting Session 1082 of user user-0.
+Mar 20 04:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 04:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 04:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 04:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 04:50:01 iliad systemd: Started Session 1083 of user user-0.
+Mar 20 04:50:01 iliad systemd: Starting Session 1083 of user user-0.
+Mar 20 04:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 04:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 04:57:44 iliad chronyd[803]: Source 206.108.0.132 replaced with 206.186.121.125
+Mar 20 05:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 05:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 05:00:01 iliad systemd: Started Session 1084 of user user-0.
+Mar 20 05:00:01 iliad systemd: Starting Session 1084 of user user-0.
+Mar 20 05:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 05:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 05:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 05:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 05:01:01 iliad systemd: Started Session 1085 of user user-0.
+Mar 20 05:01:01 iliad systemd: Starting Session 1085 of user user-0.
+Mar 20 05:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 05:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 05:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 05:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 05:10:01 iliad systemd: Started Session 1086 of user user-0.
+Mar 20 05:10:01 iliad systemd: Starting Session 1086 of user user-0.
+Mar 20 05:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 05:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 05:12:28 iliad dhclient[1039]: DHCPREQUEST on enp0s31f6 to 132.205.96.229 port 67 (xid=0x954181e)
+Mar 20 05:12:28 iliad dhclient[1039]: DHCPACK from 132.205.96.229 (xid=0x954181e)
+Mar 20 05:12:28 iliad NetworkManager[909]: <info>  [1490001148.0984] dhcp4 (enp0s31f6):   address 123.32.18.2
+Mar 20 05:12:28 iliad NetworkManager[909]: <info>  [1490001148.0987] dhcp4 (enp0s31f6):   plen 24 (255.255.255.0)
+Mar 20 05:12:28 iliad NetworkManager[909]: <info>  [1490001148.0987] dhcp4 (enp0s31f6):   gateway 123.32.18.1
+Mar 20 05:12:28 iliad NetworkManager[909]: <info>  [1490001148.0987] dhcp4 (enp0s31f6):   server identifier 132.205.96.229
+Mar 20 05:12:28 iliad NetworkManager[909]: <info>  [1490001148.0987] dhcp4 (enp0s31f6):   lease time 43200
+Mar 20 05:12:28 iliad NetworkManager[909]: <info>  [1490001148.0987] dhcp4 (enp0s31f6):   hostname 'iliad.encs.concordia.ca'
+Mar 20 05:12:28 iliad NetworkManager[909]: <info>  [1490001148.0987] dhcp4 (enp0s31f6):   nameserver '132.205.96.93'
+Mar 20 05:12:28 iliad NetworkManager[909]: <info>  [1490001148.0987] dhcp4 (enp0s31f6):   nameserver '132.205.96.94'
+Mar 20 05:12:28 iliad NetworkManager[909]: <info>  [1490001148.0987] dhcp4 (enp0s31f6):   domain name 'encs.concordia.ca'
+Mar 20 05:12:28 iliad NetworkManager[909]: <info>  [1490001148.0987] dhcp4 (enp0s31f6):   domain name 'concordia.ca'
+Mar 20 05:12:28 iliad NetworkManager[909]: <info>  [1490001148.0987] dhcp (enp0s31f6):   domain search 'encs.concordia.ca.'
+Mar 20 05:12:28 iliad NetworkManager[909]: <info>  [1490001148.0987] dhcp (enp0s31f6):   domain search 'concordia.ca.'
+Mar 20 05:12:28 iliad NetworkManager[909]: <info>  [1490001148.0987] dhcp4 (enp0s31f6): state changed bound -> bound
+Mar 20 05:12:28 iliad dhclient[1039]: bound to 123.32.18.2 -- renewal in 16389 seconds.
+Mar 20 05:12:28 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 05:12:28 iliad dbus[801]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 05:12:28 iliad systemd: Starting Network Manager Script Dispatcher Service...
+Mar 20 05:12:28 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 05:12:28 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 05:12:28 iliad systemd: Started Network Manager Script Dispatcher Service.
+Mar 20 05:12:28 iliad nm-dispatcher: req:1 'dhcp4-change' [enp0s31f6]: new request (4 scripts)
+Mar 20 05:12:28 iliad nm-dispatcher: req:1 'dhcp4-change' [enp0s31f6]: start running ordered scripts...
+Mar 20 05:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 05:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 05:20:01 iliad systemd: Started Session 1087 of user user-0.
+Mar 20 05:20:01 iliad systemd: Starting Session 1087 of user user-0.
+Mar 20 05:20:02 iliad systemd: Removed slice user-0.slice.
+Mar 20 05:20:02 iliad systemd: Stopping user-0.slice.
+Mar 20 05:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 05:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 05:30:01 iliad systemd: Started Session 1088 of user user-0.
+Mar 20 05:30:01 iliad systemd: Starting Session 1088 of user user-0.
+Mar 20 05:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 05:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 05:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 05:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 05:40:01 iliad systemd: Started Session 1089 of user user-0.
+Mar 20 05:40:01 iliad systemd: Starting Session 1089 of user user-0.
+Mar 20 05:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 05:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 05:44:48 iliad chronyd[803]: Source 129.128.12.20 replaced with 159.203.31.244
+Mar 20 05:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 05:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 05:50:01 iliad systemd: Started Session 1090 of user user-0.
+Mar 20 05:50:01 iliad systemd: Starting Session 1090 of user user-0.
+Mar 20 05:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 05:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 06:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 06:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 06:00:01 iliad systemd: Started Session 1091 of user user-0.
+Mar 20 06:00:01 iliad systemd: Starting Session 1091 of user user-0.
+Mar 20 06:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 06:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 06:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 06:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 06:01:01 iliad systemd: Started Session 1092 of user user-0.
+Mar 20 06:01:01 iliad systemd: Starting Session 1092 of user user-0.
+Mar 20 06:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 06:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 06:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 06:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 06:10:01 iliad systemd: Started Session 1093 of user user-0.
+Mar 20 06:10:01 iliad systemd: Starting Session 1093 of user user-0.
+Mar 20 06:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 06:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 06:17:58 iliad chronyd[803]: Source 167.114.204.238 replaced with 174.137.63.116
+Mar 20 06:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 06:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 06:20:01 iliad systemd: Started Session 1094 of user user-0.
+Mar 20 06:20:01 iliad systemd: Starting Session 1094 of user user-0.
+Mar 20 06:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 06:20:01 iliad systemd: Stopping user-0.slice.
+Mar 20 06:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 06:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 06:30:01 iliad systemd: Started Session 1095 of user user-0.
+Mar 20 06:30:01 iliad systemd: Starting Session 1095 of user user-0.
+Mar 20 06:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 06:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 06:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 06:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 06:40:01 iliad systemd: Started Session 1096 of user user-0.
+Mar 20 06:40:01 iliad systemd: Starting Session 1096 of user user-0.
+Mar 20 06:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 06:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 06:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 06:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 06:50:01 iliad systemd: Started Session 1097 of user user-0.
+Mar 20 06:50:01 iliad systemd: Starting Session 1097 of user user-0.
+Mar 20 06:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 06:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 06:59:27 iliad chronyd[803]: Source 47.54.236.184 replaced with 192.99.2.8
+Mar 20 07:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 07:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 07:00:01 iliad systemd: Started Session 1098 of user user-0.
+Mar 20 07:00:01 iliad systemd: Starting Session 1098 of user user-0.
+Mar 20 07:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 07:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 07:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 07:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 07:01:01 iliad systemd: Started Session 1099 of user user-0.
+Mar 20 07:01:01 iliad systemd: Starting Session 1099 of user user-0.
+Mar 20 07:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 07:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 07:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 07:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 07:10:01 iliad systemd: Started Session 1100 of user user-0.
+Mar 20 07:10:01 iliad systemd: Starting Session 1100 of user user-0.
+Mar 20 07:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 07:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 07:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 07:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 07:20:01 iliad systemd: Started Session 1101 of user user-0.
+Mar 20 07:20:01 iliad systemd: Starting Session 1101 of user user-0.
+Mar 20 07:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 07:20:01 iliad systemd: Stopping user-0.slice.
+Mar 20 07:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 07:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 07:30:01 iliad systemd: Started Session 1102 of user user-0.
+Mar 20 07:30:01 iliad systemd: Starting Session 1102 of user user-0.
+Mar 20 07:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 07:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 07:32:37 iliad chronyd[803]: Source 206.186.121.125 replaced with 158.69.125.231
+Mar 20 07:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 07:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 07:40:01 iliad systemd: Started Session 1103 of user user-0.
+Mar 20 07:40:01 iliad systemd: Starting Session 1103 of user user-0.
+Mar 20 07:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 07:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 07:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 07:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 07:50:01 iliad systemd: Started Session 1104 of user user-0.
+Mar 20 07:50:01 iliad systemd: Starting Session 1104 of user user-0.
+Mar 20 07:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 07:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 08:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 08:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 08:00:01 iliad systemd: Started Session 1105 of user user-0.
+Mar 20 08:00:01 iliad systemd: Starting Session 1105 of user user-0.
+Mar 20 08:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 08:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 08:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 08:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 08:01:01 iliad systemd: Started Session 1106 of user user-0.
+Mar 20 08:01:01 iliad systemd: Starting Session 1106 of user user-0.
+Mar 20 08:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 08:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 08:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 08:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 08:10:01 iliad systemd: Started Session 1107 of user user-0.
+Mar 20 08:10:01 iliad systemd: Starting Session 1107 of user user-0.
+Mar 20 08:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 08:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 08:19:23 iliad chronyd[803]: Source 159.203.31.244 replaced with 67.215.197.149
+Mar 20 08:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 08:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 08:20:02 iliad systemd: Started Session 1108 of user user-0.
+Mar 20 08:20:02 iliad systemd: Starting Session 1108 of user user-0.
+Mar 20 08:20:02 iliad systemd: Removed slice user-0.slice.
+Mar 20 08:20:02 iliad systemd: Stopping user-0.slice.
+Mar 20 08:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 08:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 08:30:01 iliad systemd: Started Session 1109 of user user-0.
+Mar 20 08:30:01 iliad systemd: Starting Session 1109 of user user-0.
+Mar 20 08:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 08:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 08:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 08:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 08:40:01 iliad systemd: Started Session 1110 of user user-0.
+Mar 20 08:40:01 iliad systemd: Starting Session 1110 of user user-0.
+Mar 20 08:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 08:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 08:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 08:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 08:50:01 iliad systemd: Started Session 1111 of user user-0.
+Mar 20 08:50:01 iliad systemd: Starting Session 1111 of user user-0.
+Mar 20 08:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 08:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 08:53:22 iliad chronyd[803]: Source 174.137.63.116 replaced with 129.128.12.20
+Mar 20 09:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 09:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 09:00:01 iliad systemd: Started Session 1112 of user user-0.
+Mar 20 09:00:01 iliad systemd: Starting Session 1112 of user user-0.
+Mar 20 09:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 09:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 09:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 09:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 09:01:01 iliad systemd: Started Session 1113 of user user-0.
+Mar 20 09:01:01 iliad systemd: Starting Session 1113 of user user-0.
+Mar 20 09:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 09:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 09:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 09:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 09:10:01 iliad systemd: Started Session 1114 of user user-0.
+Mar 20 09:10:01 iliad systemd: Starting Session 1114 of user user-0.
+Mar 20 09:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 09:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 09:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 09:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 09:20:01 iliad systemd: Started Session 1115 of user user-0.
+Mar 20 09:20:01 iliad systemd: Starting Session 1115 of user user-0.
+Mar 20 09:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 09:20:01 iliad systemd: Stopping user-0.slice.
+Mar 20 09:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 09:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 09:30:01 iliad systemd: Started Session 1116 of user user-0.
+Mar 20 09:30:01 iliad systemd: Starting Session 1116 of user user-0.
+Mar 20 09:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 09:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 09:34:47 iliad chronyd[803]: Source 192.99.2.8 replaced with 144.217.241.147
+Mar 20 09:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 09:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 09:40:01 iliad systemd: Started Session 1117 of user user-0.
+Mar 20 09:40:01 iliad systemd: Starting Session 1117 of user user-0.
+Mar 20 09:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 09:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 09:45:37 iliad dhclient[1039]: DHCPREQUEST on enp0s31f6 to 132.205.96.229 port 67 (xid=0x954181e)
+Mar 20 09:45:37 iliad dhclient[1039]: DHCPACK from 132.205.96.229 (xid=0x954181e)
+Mar 20 09:45:37 iliad NetworkManager[909]: <info>  [1490017537.6101] dhcp4 (enp0s31f6):   address 123.32.18.2
+Mar 20 09:45:37 iliad NetworkManager[909]: <info>  [1490017537.6103] dhcp4 (enp0s31f6):   plen 24 (255.255.255.0)
+Mar 20 09:45:37 iliad NetworkManager[909]: <info>  [1490017537.6103] dhcp4 (enp0s31f6):   gateway 123.32.18.1
+Mar 20 09:45:37 iliad NetworkManager[909]: <info>  [1490017537.6104] dhcp4 (enp0s31f6):   server identifier 132.205.96.229
+Mar 20 09:45:37 iliad NetworkManager[909]: <info>  [1490017537.6104] dhcp4 (enp0s31f6):   lease time 43200
+Mar 20 09:45:37 iliad NetworkManager[909]: <info>  [1490017537.6104] dhcp4 (enp0s31f6):   hostname 'iliad.encs.concordia.ca'
+Mar 20 09:45:37 iliad NetworkManager[909]: <info>  [1490017537.6104] dhcp4 (enp0s31f6):   nameserver '132.205.96.93'
+Mar 20 09:45:37 iliad NetworkManager[909]: <info>  [1490017537.6104] dhcp4 (enp0s31f6):   nameserver '132.205.96.94'
+Mar 20 09:45:37 iliad NetworkManager[909]: <info>  [1490017537.6104] dhcp4 (enp0s31f6):   domain name 'encs.concordia.ca'
+Mar 20 09:45:37 iliad NetworkManager[909]: <info>  [1490017537.6104] dhcp4 (enp0s31f6):   domain name 'concordia.ca'
+Mar 20 09:45:37 iliad NetworkManager[909]: <info>  [1490017537.6104] dhcp (enp0s31f6):   domain search 'encs.concordia.ca.'
+Mar 20 09:45:37 iliad NetworkManager[909]: <info>  [1490017537.6104] dhcp (enp0s31f6):   domain search 'concordia.ca.'
+Mar 20 09:45:37 iliad NetworkManager[909]: <info>  [1490017537.6104] dhcp4 (enp0s31f6): state changed bound -> bound
+Mar 20 09:45:37 iliad dhclient[1039]: bound to 123.32.18.2 -- renewal in 20860 seconds.
+Mar 20 09:45:37 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 09:45:37 iliad dbus[801]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 09:45:37 iliad systemd: Starting Network Manager Script Dispatcher Service...
+Mar 20 09:45:37 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 09:45:37 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 09:45:37 iliad systemd: Started Network Manager Script Dispatcher Service.
+Mar 20 09:45:37 iliad nm-dispatcher: req:1 'dhcp4-change' [enp0s31f6]: new request (4 scripts)
+Mar 20 09:45:37 iliad nm-dispatcher: req:1 'dhcp4-change' [enp0s31f6]: start running ordered scripts...
+Mar 20 09:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 09:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 09:50:01 iliad systemd: Started Session 1118 of user user-0.
+Mar 20 09:50:01 iliad systemd: Starting Session 1118 of user user-0.
+Mar 20 09:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 09:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 10:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 10:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 10:00:01 iliad systemd: Started Session 1119 of user user-0.
+Mar 20 10:00:01 iliad systemd: Starting Session 1119 of user user-0.
+Mar 20 10:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 10:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 10:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 10:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 10:01:01 iliad systemd: Started Session 1120 of user user-0.
+Mar 20 10:01:01 iliad systemd: Starting Session 1120 of user user-0.
+Mar 20 10:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 10:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 10:07:50 iliad chronyd[803]: Source 158.69.125.231 replaced with 199.182.221.110
+Mar 20 10:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 10:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 10:10:01 iliad systemd: Started Session 1121 of user user-0.
+Mar 20 10:10:01 iliad systemd: Starting Session 1121 of user user-0.
+Mar 20 10:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 10:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 10:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 10:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 10:20:01 iliad systemd: Started Session 1122 of user user-0.
+Mar 20 10:20:01 iliad systemd: Starting Session 1122 of user user-0.
+Mar 20 10:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 10:20:01 iliad systemd: Stopping user-0.slice.
+Mar 20 10:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 10:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 10:30:01 iliad systemd: Started Session 1123 of user user-0.
+Mar 20 10:30:01 iliad systemd: Starting Session 1123 of user user-0.
+Mar 20 10:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 10:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 10:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 10:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 10:40:01 iliad systemd: Started Session 1124 of user user-0.
+Mar 20 10:40:01 iliad systemd: Starting Session 1124 of user user-0.
+Mar 20 10:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 10:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 10:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 10:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 10:50:01 iliad systemd: Started Session 1125 of user user-0.
+Mar 20 10:50:01 iliad systemd: Starting Session 1125 of user user-0.
+Mar 20 10:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 10:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 10:54:49 iliad chronyd[803]: Source 67.215.197.149 replaced with 167.114.204.238
+Mar 20 11:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 11:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 11:00:01 iliad systemd: Started Session 1126 of user user-0.
+Mar 20 11:00:01 iliad systemd: Starting Session 1126 of user user-0.
+Mar 20 11:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 11:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 11:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 11:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 11:01:01 iliad systemd: Started Session 1127 of user user-0.
+Mar 20 11:01:01 iliad systemd: Starting Session 1127 of user user-0.
+Mar 20 11:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 11:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 11:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 11:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 11:10:01 iliad systemd: Started Session 1128 of user user-0.
+Mar 20 11:10:01 iliad systemd: Starting Session 1128 of user user-0.
+Mar 20 11:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 11:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 11:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 11:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 11:20:01 iliad systemd: Started Session 1129 of user user-0.
+Mar 20 11:20:02 iliad systemd: Starting Session 1129 of user user-0.
+Mar 20 11:20:02 iliad systemd: Removed slice user-0.slice.
+Mar 20 11:20:02 iliad systemd: Stopping user-0.slice.
+Mar 20 11:28:26 iliad chronyd[803]: Source 129.128.12.20 replaced with 206.186.121.118
+Mar 20 11:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 11:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 11:30:01 iliad systemd: Started Session 1130 of user user-0.
+Mar 20 11:30:01 iliad systemd: Starting Session 1130 of user user-0.
+Mar 20 11:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 11:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 11:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 11:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 11:40:01 iliad systemd: Started Session 1131 of user user-0.
+Mar 20 11:40:01 iliad systemd: Starting Session 1131 of user user-0.
+Mar 20 11:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 11:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 11:50:01 iliad systemd: Starting Cleanup of Temporary Directories...
+Mar 20 11:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 11:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 11:50:01 iliad systemd: Started Session 1132 of user user-0.
+Mar 20 11:50:01 iliad systemd: Starting Session 1132 of user user-0.
+Mar 20 11:50:01 iliad systemd: Started Cleanup of Temporary Directories.
+Mar 20 11:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 11:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 12:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 12:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 12:00:01 iliad systemd: Started Session 1133 of user user-0.
+Mar 20 12:00:01 iliad systemd: Starting Session 1133 of user user-0.
+Mar 20 12:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 12:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 12:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 12:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 12:01:01 iliad systemd: Started Session 1134 of user user-0.
+Mar 20 12:01:01 iliad systemd: Starting Session 1134 of user user-0.
+Mar 20 12:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 12:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 12:09:05 iliad chronyd[803]: Source 144.217.241.147 replaced with 159.203.8.72
+Mar 20 12:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 12:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 12:10:01 iliad systemd: Started Session 1135 of user user-0.
+Mar 20 12:10:01 iliad systemd: Starting Session 1135 of user user-0.
+Mar 20 12:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 12:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 12:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 12:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 12:20:01 iliad systemd: Started Session 1136 of user user-0.
+Mar 20 12:20:01 iliad systemd: Starting Session 1136 of user user-0.
+Mar 20 12:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 12:20:01 iliad systemd: Stopping user-0.slice.
+Mar 20 12:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 12:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 12:30:01 iliad systemd: Started Session 1137 of user user-0.
+Mar 20 12:30:01 iliad systemd: Starting Session 1137 of user user-0.
+Mar 20 12:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 12:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 12:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 12:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 12:40:01 iliad systemd: Started Session 1138 of user user-0.
+Mar 20 12:40:01 iliad systemd: Starting Session 1138 of user user-0.
+Mar 20 12:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 12:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 12:43:12 iliad chronyd[803]: Source 199.182.221.110 replaced with 24.122.14.21
+Mar 20 12:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 12:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 12:50:01 iliad systemd: Started Session 1139 of user user-0.
+Mar 20 12:50:01 iliad systemd: Starting Session 1139 of user user-0.
+Mar 20 12:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 12:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 13:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 13:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 13:00:01 iliad systemd: Started Session 1140 of user user-0.
+Mar 20 13:00:01 iliad systemd: Starting Session 1140 of user user-0.
+Mar 20 13:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 13:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 13:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 13:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 13:01:01 iliad systemd: Started Session 1141 of user user-0.
+Mar 20 13:01:01 iliad systemd: Starting Session 1141 of user user-0.
+Mar 20 13:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 13:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 13:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 13:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 13:10:01 iliad systemd: Started Session 1142 of user user-0.
+Mar 20 13:10:01 iliad systemd: Starting Session 1142 of user user-0.
+Mar 20 13:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 13:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 13:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 13:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 13:20:01 iliad systemd: Started Session 1143 of user user-0.
+Mar 20 13:20:01 iliad systemd: Starting Session 1143 of user user-0.
+Mar 20 13:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 13:20:01 iliad systemd: Stopping user-0.slice.
+Mar 20 13:29:54 iliad chronyd[803]: Source 167.114.204.238 replaced with 158.69.125.231
+Mar 20 13:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 13:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 13:30:01 iliad systemd: Started Session 1144 of user user-0.
+Mar 20 13:30:01 iliad systemd: Starting Session 1144 of user user-0.
+Mar 20 13:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 13:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 13:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 13:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 13:40:01 iliad systemd: Started Session 1145 of user user-0.
+Mar 20 13:40:01 iliad systemd: Starting Session 1145 of user user-0.
+Mar 20 13:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 13:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 13:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 13:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 13:50:01 iliad systemd: Started Session 1146 of user user-0.
+Mar 20 13:50:01 iliad systemd: Starting Session 1146 of user user-0.
+Mar 20 13:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 13:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 14:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 14:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 14:00:01 iliad systemd: Started Session 1147 of user user-0.
+Mar 20 14:00:01 iliad systemd: Starting Session 1147 of user user-0.
+Mar 20 14:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 14:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 14:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 14:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 14:01:01 iliad systemd: Started Session 1148 of user user-0.
+Mar 20 14:01:01 iliad systemd: Starting Session 1148 of user user-0.
+Mar 20 14:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 14:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 14:03:34 iliad chronyd[803]: Source 206.186.121.118 replaced with 144.217.242.53
+Mar 20 14:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 14:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 14:10:01 iliad systemd: Started Session 1149 of user user-0.
+Mar 20 14:10:01 iliad systemd: Starting Session 1149 of user user-0.
+Mar 20 14:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 14:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 14:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 14:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 14:20:02 iliad systemd: Started Session 1150 of user user-0.
+Mar 20 14:20:02 iliad systemd: Starting Session 1150 of user user-0.
+Mar 20 14:20:02 iliad systemd: Removed slice user-0.slice.
+Mar 20 14:20:02 iliad systemd: Stopping user-0.slice.
+Mar 20 14:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 14:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 14:30:01 iliad systemd: Started Session 1151 of user user-0.
+Mar 20 14:30:01 iliad systemd: Starting Session 1151 of user user-0.
+Mar 20 14:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 14:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 14:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 14:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 14:40:01 iliad systemd: Started Session 1152 of user user-0.
+Mar 20 14:40:01 iliad systemd: Starting Session 1152 of user user-0.
+Mar 20 14:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 14:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 14:43:51 iliad chronyd[803]: Source 159.203.8.72 replaced with 208.80.96.70
+Mar 20 14:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 14:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 14:50:01 iliad systemd: Started Session 1153 of user user-0.
+Mar 20 14:50:01 iliad systemd: Starting Session 1153 of user user-0.
+Mar 20 14:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 14:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 15:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 15:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 15:00:01 iliad systemd: Started Session 1154 of user user-0.
+Mar 20 15:00:01 iliad systemd: Starting Session 1154 of user user-0.
+Mar 20 15:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 15:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 15:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 15:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 15:01:01 iliad systemd: Started Session 1155 of user user-0.
+Mar 20 15:01:01 iliad systemd: Starting Session 1155 of user user-0.
+Mar 20 15:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 15:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 15:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 15:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 15:10:01 iliad systemd: Started Session 1156 of user user-0.
+Mar 20 15:10:01 iliad systemd: Starting Session 1156 of user user-0.
+Mar 20 15:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 15:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 15:18:07 iliad chronyd[803]: Source 24.122.14.21 replaced with 199.182.221.110
+Mar 20 15:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 15:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 15:20:01 iliad systemd: Started Session 1157 of user user-0.
+Mar 20 15:20:01 iliad systemd: Starting Session 1157 of user user-0.
+Mar 20 15:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 15:20:01 iliad systemd: Stopping user-0.slice.
+Mar 20 15:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 15:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 15:30:01 iliad systemd: Started Session 1158 of user user-0.
+Mar 20 15:30:01 iliad systemd: Starting Session 1158 of user user-0.
+Mar 20 15:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 15:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 15:33:17 iliad dhclient[1039]: DHCPREQUEST on enp0s31f6 to 132.205.96.229 port 67 (xid=0x954181e)
+Mar 20 15:33:17 iliad dhclient[1039]: DHCPACK from 132.205.96.229 (xid=0x954181e)
+Mar 20 15:33:17 iliad NetworkManager[909]: <info>  [1490038397.3314] dhcp4 (enp0s31f6):   address 123.32.18.2
+Mar 20 15:33:17 iliad NetworkManager[909]: <info>  [1490038397.3317] dhcp4 (enp0s31f6):   plen 24 (255.255.255.0)
+Mar 20 15:33:17 iliad NetworkManager[909]: <info>  [1490038397.3317] dhcp4 (enp0s31f6):   gateway 123.32.18.1
+Mar 20 15:33:17 iliad NetworkManager[909]: <info>  [1490038397.3317] dhcp4 (enp0s31f6):   server identifier 132.205.96.229
+Mar 20 15:33:17 iliad NetworkManager[909]: <info>  [1490038397.3317] dhcp4 (enp0s31f6):   lease time 43200
+Mar 20 15:33:17 iliad NetworkManager[909]: <info>  [1490038397.3317] dhcp4 (enp0s31f6):   hostname 'iliad.encs.concordia.ca'
+Mar 20 15:33:17 iliad NetworkManager[909]: <info>  [1490038397.3317] dhcp4 (enp0s31f6):   nameserver '132.205.96.93'
+Mar 20 15:33:17 iliad NetworkManager[909]: <info>  [1490038397.3317] dhcp4 (enp0s31f6):   nameserver '132.205.96.94'
+Mar 20 15:33:17 iliad NetworkManager[909]: <info>  [1490038397.3317] dhcp4 (enp0s31f6):   domain name 'encs.concordia.ca'
+Mar 20 15:33:17 iliad NetworkManager[909]: <info>  [1490038397.3317] dhcp4 (enp0s31f6):   domain name 'concordia.ca'
+Mar 20 15:33:17 iliad NetworkManager[909]: <info>  [1490038397.3317] dhcp (enp0s31f6):   domain search 'encs.concordia.ca.'
+Mar 20 15:33:17 iliad NetworkManager[909]: <info>  [1490038397.3317] dhcp (enp0s31f6):   domain search 'concordia.ca.'
+Mar 20 15:33:17 iliad NetworkManager[909]: <info>  [1490038397.3318] dhcp4 (enp0s31f6): state changed bound -> bound
+Mar 20 15:33:17 iliad dhclient[1039]: bound to 123.32.18.2 -- renewal in 18384 seconds.
+Mar 20 15:33:17 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 15:33:17 iliad dbus[801]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 15:33:17 iliad systemd: Starting Network Manager Script Dispatcher Service...
+Mar 20 15:33:17 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 15:33:17 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 15:33:17 iliad systemd: Started Network Manager Script Dispatcher Service.
+Mar 20 15:33:17 iliad nm-dispatcher: req:1 'dhcp4-change' [enp0s31f6]: new request (4 scripts)
+Mar 20 15:33:17 iliad nm-dispatcher: req:1 'dhcp4-change' [enp0s31f6]: start running ordered scripts...
+Mar 20 15:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 15:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 15:40:01 iliad systemd: Started Session 1159 of user user-0.
+Mar 20 15:40:01 iliad systemd: Starting Session 1159 of user user-0.
+Mar 20 15:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 15:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 15:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 15:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 15:50:01 iliad systemd: Started Session 1160 of user user-0.
+Mar 20 15:50:01 iliad systemd: Starting Session 1160 of user user-0.
+Mar 20 15:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 15:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 16:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 16:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 16:00:01 iliad systemd: Started Session 1161 of user user-0.
+Mar 20 16:00:01 iliad systemd: Starting Session 1161 of user user-0.
+Mar 20 16:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 16:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 16:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 16:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 16:01:01 iliad systemd: Started Session 1162 of user user-0.
+Mar 20 16:01:01 iliad systemd: Starting Session 1162 of user user-0.
+Mar 20 16:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 16:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 16:02:58 iliad systemd-logind: New session 1163 of user user-4.
+Mar 20 16:02:58 iliad systemd: Started Session 1163 of user user-4.
+Mar 20 16:02:58 iliad systemd: Starting Session 1163 of user user-4.
+Mar 20 16:02:58 iliad dbus-daemon: dbus[801]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 20 16:02:58 iliad dbus[801]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 20 16:02:58 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 20 16:02:58 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 20 16:05:09 iliad chronyd[803]: Source 158.69.125.231 replaced with 208.81.1.244
+Mar 20 16:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 16:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 16:10:01 iliad systemd: Started Session 1164 of user user-0.
+Mar 20 16:10:01 iliad systemd: Starting Session 1164 of user user-0.
+Mar 20 16:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 16:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 16:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 16:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 16:20:01 iliad systemd: Started Session 1165 of user user-0.
+Mar 20 16:20:01 iliad systemd: Starting Session 1165 of user user-0.
+Mar 20 16:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 16:20:01 iliad systemd: Stopping user-0.slice.
+Mar 20 16:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 16:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 16:30:01 iliad systemd: Started Session 1166 of user user-0.
+Mar 20 16:30:01 iliad systemd: Starting Session 1166 of user user-0.
+Mar 20 16:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 16:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 16:38:45 iliad chronyd[803]: Source 144.217.242.53 replaced with 72.38.129.202
+Mar 20 16:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 16:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 16:40:01 iliad systemd: Started Session 1167 of user user-0.
+Mar 20 16:40:01 iliad systemd: Starting Session 1167 of user user-0.
+Mar 20 16:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 16:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 16:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 16:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 16:50:01 iliad systemd: Started Session 1168 of user user-0.
+Mar 20 16:50:01 iliad systemd: Starting Session 1168 of user user-0.
+Mar 20 16:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 16:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 17:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 17:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 17:00:01 iliad systemd: Started Session 1169 of user user-0.
+Mar 20 17:00:01 iliad systemd: Starting Session 1169 of user user-0.
+Mar 20 17:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 17:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 17:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 17:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 17:01:01 iliad systemd: Started Session 1170 of user user-0.
+Mar 20 17:01:01 iliad systemd: Starting Session 1170 of user user-0.
+Mar 20 17:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 17:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 17:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 17:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 17:10:01 iliad systemd: Started Session 1171 of user user-0.
+Mar 20 17:10:01 iliad systemd: Starting Session 1171 of user user-0.
+Mar 20 17:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 17:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 17:13:33 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Mar 20 17:13:33 iliad dbus[801]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Mar 20 17:13:33 iliad systemd: Starting Fingerprint Authentication Daemon...
+Mar 20 17:13:33 iliad dbus[801]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 20 17:13:33 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 20 17:13:33 iliad systemd: Started Fingerprint Authentication Daemon.
+Mar 20 17:13:33 iliad fprintd: Launching FprintObject
+Mar 20 17:13:33 iliad fprintd: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Mar 20 17:13:33 iliad fprintd: ** Message: entering main loop
+Mar 20 17:13:42 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Mar 20 17:13:42 iliad dbus[801]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Mar 20 17:13:42 iliad systemd: Starting Hostname Service...
+Mar 20 17:13:42 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 20 17:13:42 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 20 17:13:42 iliad systemd: Started Hostname Service.
+Mar 20 17:14:03 iliad fprintd: ** Message: No devices in use, exit
+Mar 20 17:18:38 iliad chronyd[803]: Source 208.80.96.70 replaced with 47.54.236.184
+Mar 20 17:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 17:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 17:20:01 iliad systemd: Started Session 1172 of user user-0.
+Mar 20 17:20:01 iliad systemd: Starting Session 1172 of user user-0.
+Mar 20 17:20:02 iliad systemd: Removed slice user-0.slice.
+Mar 20 17:20:02 iliad systemd: Stopping user-0.slice.
+Mar 20 17:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 17:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 17:30:01 iliad systemd: Started Session 1173 of user user-0.
+Mar 20 17:30:01 iliad systemd: Starting Session 1173 of user user-0.
+Mar 20 17:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 17:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 17:35:28 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Mar 20 17:35:28 iliad dbus[801]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Mar 20 17:35:28 iliad systemd: Starting Hostname Service...
+Mar 20 17:35:28 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 20 17:35:28 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 20 17:35:28 iliad systemd: Started Hostname Service.
+Mar 20 17:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 17:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 17:40:01 iliad systemd: Started Session 1174 of user user-0.
+Mar 20 17:40:01 iliad systemd: Starting Session 1174 of user user-0.
+Mar 20 17:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 17:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 17:47:02 iliad firefox.desktop: (process:20831): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
+Mar 20 17:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 17:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 17:50:01 iliad systemd: Started Session 1175 of user user-0.
+Mar 20 17:50:01 iliad systemd: Starting Session 1175 of user user-0.
+Mar 20 17:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 17:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 17:53:02 iliad chronyd[803]: Source 199.182.221.110 replaced with 206.248.144.162
+Mar 20 18:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 18:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 18:00:01 iliad systemd: Started Session 1176 of user user-0.
+Mar 20 18:00:01 iliad systemd: Starting Session 1176 of user user-0.
+Mar 20 18:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 18:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 18:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 18:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 18:01:01 iliad systemd: Started Session 1177 of user user-0.
+Mar 20 18:01:01 iliad systemd: Starting Session 1177 of user user-0.
+Mar 20 18:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 18:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 18:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 18:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 18:10:01 iliad systemd: Started Session 1178 of user user-0.
+Mar 20 18:10:01 iliad systemd: Starting Session 1178 of user user-0.
+Mar 20 18:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 18:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 18:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 18:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 18:20:01 iliad systemd: Started Session 1179 of user user-0.
+Mar 20 18:20:01 iliad systemd: Starting Session 1179 of user user-0.
+Mar 20 18:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 18:20:01 iliad systemd: Stopping user-0.slice.
+Mar 20 18:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 18:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 18:30:01 iliad systemd: Started Session 1180 of user user-0.
+Mar 20 18:30:01 iliad systemd: Starting Session 1180 of user user-0.
+Mar 20 18:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 18:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 18:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 18:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 18:40:01 iliad systemd: Started Session 1181 of user user-0.
+Mar 20 18:40:01 iliad systemd: Starting Session 1181 of user user-0.
+Mar 20 18:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 18:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 18:40:16 iliad chronyd[803]: Source 208.81.1.244 replaced with 192.95.25.79
+Mar 20 18:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 18:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 18:50:01 iliad systemd: Started Session 1182 of user user-0.
+Mar 20 18:50:01 iliad systemd: Starting Session 1182 of user user-0.
+Mar 20 18:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 18:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 18:57:18 iliad systemd-logind: Removed session 1163.
+Mar 20 19:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 19:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 19:00:01 iliad systemd: Started Session 1183 of user user-0.
+Mar 20 19:00:01 iliad systemd: Starting Session 1183 of user user-0.
+Mar 20 19:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 19:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 19:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 19:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 19:01:01 iliad systemd: Started Session 1184 of user user-0.
+Mar 20 19:01:01 iliad systemd: Starting Session 1184 of user user-0.
+Mar 20 19:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 19:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 19:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 19:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 19:10:01 iliad systemd: Started Session 1185 of user user-0.
+Mar 20 19:10:01 iliad systemd: Starting Session 1185 of user user-0.
+Mar 20 19:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 19:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 19:13:56 iliad chronyd[803]: Source 72.38.129.202 replaced with 159.203.31.244
+Mar 20 19:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 19:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 19:20:01 iliad systemd: Started Session 1186 of user user-0.
+Mar 20 19:20:01 iliad systemd: Starting Session 1186 of user user-0.
+Mar 20 19:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 19:20:01 iliad systemd: Stopping user-0.slice.
+Mar 20 19:29:46 iliad firefox.desktop: 1490052586480#011addons.update-checker#011WARN#011Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Mar 20 19:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 19:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 19:30:01 iliad systemd: Started Session 1187 of user user-0.
+Mar 20 19:30:01 iliad systemd: Starting Session 1187 of user user-0.
+Mar 20 19:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 19:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 19:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 19:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 19:40:01 iliad systemd: Started Session 1188 of user user-0.
+Mar 20 19:40:01 iliad systemd: Starting Session 1188 of user user-0.
+Mar 20 19:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 19:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 19:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 19:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 19:50:01 iliad systemd: Started Session 1189 of user user-0.
+Mar 20 19:50:01 iliad systemd: Starting Session 1189 of user user-0.
+Mar 20 19:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 19:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 19:53:28 iliad chronyd[803]: Source 47.54.236.184 replaced with 206.108.0.131
+Mar 20 20:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 20:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 20:00:01 iliad systemd: Started Session 1190 of user user-0.
+Mar 20 20:00:01 iliad systemd: Starting Session 1190 of user user-0.
+Mar 20 20:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 20:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 20:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 20:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 20:01:01 iliad systemd: Started Session 1191 of user user-0.
+Mar 20 20:01:01 iliad systemd: Starting Session 1191 of user user-0.
+Mar 20 20:01:02 iliad systemd: Removed slice user-0.slice.
+Mar 20 20:01:02 iliad systemd: Stopping user-0.slice.
+Mar 20 20:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 20:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 20:10:01 iliad systemd: Started Session 1192 of user user-0.
+Mar 20 20:10:01 iliad systemd: Starting Session 1192 of user user-0.
+Mar 20 20:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 20:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 20:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 20:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 20:20:01 iliad systemd: Started Session 1193 of user user-0.
+Mar 20 20:20:01 iliad systemd: Starting Session 1193 of user user-0.
+Mar 20 20:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 20:20:01 iliad systemd: Stopping user-0.slice.
+Mar 20 20:27:53 iliad chronyd[803]: Source 206.248.144.162 replaced with 158.69.170.128
+Mar 20 20:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 20:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 20:30:01 iliad systemd: Started Session 1194 of user user-0.
+Mar 20 20:30:01 iliad systemd: Starting Session 1194 of user user-0.
+Mar 20 20:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 20:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 20:39:41 iliad dhclient[1039]: DHCPREQUEST on enp0s31f6 to 132.205.96.229 port 67 (xid=0x954181e)
+Mar 20 20:39:41 iliad dhclient[1039]: DHCPACK from 132.205.96.229 (xid=0x954181e)
+Mar 20 20:39:41 iliad NetworkManager[909]: <info>  [1490056781.3094] dhcp4 (enp0s31f6):   address 123.32.18.2
+Mar 20 20:39:41 iliad NetworkManager[909]: <info>  [1490056781.3097] dhcp4 (enp0s31f6):   plen 24 (255.255.255.0)
+Mar 20 20:39:41 iliad NetworkManager[909]: <info>  [1490056781.3097] dhcp4 (enp0s31f6):   gateway 123.32.18.1
+Mar 20 20:39:41 iliad NetworkManager[909]: <info>  [1490056781.3097] dhcp4 (enp0s31f6):   server identifier 132.205.96.229
+Mar 20 20:39:41 iliad NetworkManager[909]: <info>  [1490056781.3097] dhcp4 (enp0s31f6):   lease time 43200
+Mar 20 20:39:41 iliad NetworkManager[909]: <info>  [1490056781.3097] dhcp4 (enp0s31f6):   hostname 'iliad.encs.concordia.ca'
+Mar 20 20:39:41 iliad NetworkManager[909]: <info>  [1490056781.3097] dhcp4 (enp0s31f6):   nameserver '132.205.96.93'
+Mar 20 20:39:41 iliad NetworkManager[909]: <info>  [1490056781.3097] dhcp4 (enp0s31f6):   nameserver '132.205.96.94'
+Mar 20 20:39:41 iliad NetworkManager[909]: <info>  [1490056781.3097] dhcp4 (enp0s31f6):   domain name 'encs.concordia.ca'
+Mar 20 20:39:41 iliad NetworkManager[909]: <info>  [1490056781.3097] dhcp4 (enp0s31f6):   domain name 'concordia.ca'
+Mar 20 20:39:41 iliad NetworkManager[909]: <info>  [1490056781.3097] dhcp (enp0s31f6):   domain search 'encs.concordia.ca.'
+Mar 20 20:39:41 iliad NetworkManager[909]: <info>  [1490056781.3097] dhcp (enp0s31f6):   domain search 'concordia.ca.'
+Mar 20 20:39:41 iliad NetworkManager[909]: <info>  [1490056781.3097] dhcp4 (enp0s31f6): state changed bound -> bound
+Mar 20 20:39:41 iliad dhclient[1039]: bound to 123.32.18.2 -- renewal in 19499 seconds.
+Mar 20 20:39:41 iliad dbus[801]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 20:39:41 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 20:39:41 iliad systemd: Starting Network Manager Script Dispatcher Service...
+Mar 20 20:39:41 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 20:39:41 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 20:39:41 iliad systemd: Started Network Manager Script Dispatcher Service.
+Mar 20 20:39:41 iliad nm-dispatcher: req:1 'dhcp4-change' [enp0s31f6]: new request (4 scripts)
+Mar 20 20:39:41 iliad nm-dispatcher: req:1 'dhcp4-change' [enp0s31f6]: start running ordered scripts...
+Mar 20 20:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 20:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 20:40:01 iliad systemd: Started Session 1195 of user user-0.
+Mar 20 20:40:01 iliad systemd: Starting Session 1195 of user user-0.
+Mar 20 20:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 20:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 20:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 20:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 20:50:01 iliad systemd: Started Session 1196 of user user-0.
+Mar 20 20:50:01 iliad systemd: Starting Session 1196 of user user-0.
+Mar 20 20:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 20:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 21:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 21:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 21:00:01 iliad systemd: Started Session 1197 of user user-0.
+Mar 20 21:00:01 iliad systemd: Starting Session 1197 of user user-0.
+Mar 20 21:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 21:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 21:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 21:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 21:01:01 iliad systemd: Started Session 1198 of user user-0.
+Mar 20 21:01:01 iliad systemd: Starting Session 1198 of user user-0.
+Mar 20 21:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 21:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 21:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 21:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 21:10:01 iliad systemd: Started Session 1199 of user user-0.
+Mar 20 21:10:01 iliad systemd: Starting Session 1199 of user user-0.
+Mar 20 21:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 21:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 21:15:27 iliad chronyd[803]: Source 192.95.25.79 replaced with 208.80.96.96
+Mar 20 21:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 21:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 21:20:01 iliad systemd: Started Session 1200 of user user-0.
+Mar 20 21:20:01 iliad systemd: Starting Session 1200 of user user-0.
+Mar 20 21:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 21:20:01 iliad systemd: Stopping user-0.slice.
+Mar 20 21:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 21:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 21:30:01 iliad systemd: Started Session 1201 of user user-0.
+Mar 20 21:30:01 iliad systemd: Starting Session 1201 of user user-0.
+Mar 20 21:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 21:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 21:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 21:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 21:40:01 iliad systemd: Started Session 1202 of user user-0.
+Mar 20 21:40:01 iliad systemd: Starting Session 1202 of user user-0.
+Mar 20 21:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 21:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 21:49:21 iliad chronyd[803]: Source 159.203.31.244 replaced with 199.182.221.110
+Mar 20 21:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 21:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 21:50:01 iliad systemd: Started Session 1203 of user user-0.
+Mar 20 21:50:01 iliad systemd: Starting Session 1203 of user user-0.
+Mar 20 21:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 21:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 22:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 22:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 22:00:01 iliad systemd: Started Session 1204 of user user-0.
+Mar 20 22:00:01 iliad systemd: Starting Session 1204 of user user-0.
+Mar 20 22:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 22:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 22:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 22:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 22:01:01 iliad systemd: Started Session 1205 of user user-0.
+Mar 20 22:01:01 iliad systemd: Starting Session 1205 of user user-0.
+Mar 20 22:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 22:01:01 iliad systemd: Stopping user-0.slice.
+Mar 20 22:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 22:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 22:10:01 iliad systemd: Started Session 1206 of user user-0.
+Mar 20 22:10:01 iliad systemd: Starting Session 1206 of user user-0.
+Mar 20 22:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 22:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 22:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 22:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 22:20:01 iliad systemd: Started Session 1207 of user user-0.
+Mar 20 22:20:01 iliad systemd: Starting Session 1207 of user user-0.
+Mar 20 22:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 22:20:01 iliad systemd: Stopping user-0.slice.
+Mar 20 22:28:14 iliad chronyd[803]: Source 206.108.0.131 replaced with 47.54.236.184
+Mar 20 22:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 22:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 22:30:01 iliad systemd: Started Session 1208 of user user-0.
+Mar 20 22:30:01 iliad systemd: Starting Session 1208 of user user-0.
+Mar 20 22:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 22:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 22:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 22:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 22:40:01 iliad systemd: Started Session 1209 of user user-0.
+Mar 20 22:40:01 iliad systemd: Starting Session 1209 of user user-0.
+Mar 20 22:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 22:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 22:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 22:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 22:50:01 iliad systemd: Started Session 1210 of user user-0.
+Mar 20 22:50:01 iliad systemd: Starting Session 1210 of user user-0.
+Mar 20 22:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 22:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 23:00:01 iliad systemd: Created slice user-0.slice.
+Mar 20 23:00:01 iliad systemd: Starting user-0.slice.
+Mar 20 23:00:01 iliad systemd: Started Session 1211 of user user-0.
+Mar 20 23:00:01 iliad systemd: Starting Session 1211 of user user-0.
+Mar 20 23:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 23:00:01 iliad systemd: Stopping user-0.slice.
+Mar 20 23:01:01 iliad systemd: Created slice user-0.slice.
+Mar 20 23:01:01 iliad systemd: Starting user-0.slice.
+Mar 20 23:01:01 iliad systemd: Started Session 1212 of user user-0.
+Mar 20 23:01:01 iliad systemd: Starting Session 1212 of user user-0.
+Mar 20 23:01:01 iliad auditd[773]: Audit daemon rotating log files
+Mar 20 23:01:02 iliad systemd: Removed slice user-0.slice.
+Mar 20 23:01:02 iliad systemd: Stopping user-0.slice.
+Mar 20 23:03:07 iliad chronyd[803]: Source 158.69.170.128 replaced with 129.128.12.20
+Mar 20 23:10:01 iliad systemd: Created slice user-0.slice.
+Mar 20 23:10:01 iliad systemd: Starting user-0.slice.
+Mar 20 23:10:01 iliad systemd: Started Session 1213 of user user-0.
+Mar 20 23:10:01 iliad systemd: Starting Session 1213 of user user-0.
+Mar 20 23:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 23:10:01 iliad systemd: Stopping user-0.slice.
+Mar 20 23:20:01 iliad systemd: Created slice user-0.slice.
+Mar 20 23:20:01 iliad systemd: Starting user-0.slice.
+Mar 20 23:20:01 iliad systemd: Started Session 1214 of user user-0.
+Mar 20 23:20:01 iliad systemd: Starting Session 1214 of user user-0.
+Mar 20 23:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 23:20:01 iliad systemd: Stopping user-0.slice.
+Mar 20 23:30:01 iliad systemd: Created slice user-0.slice.
+Mar 20 23:30:01 iliad systemd: Starting user-0.slice.
+Mar 20 23:30:01 iliad systemd: Started Session 1215 of user user-0.
+Mar 20 23:30:01 iliad systemd: Starting Session 1215 of user user-0.
+Mar 20 23:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 23:30:01 iliad systemd: Stopping user-0.slice.
+Mar 20 23:40:01 iliad systemd: Created slice user-0.slice.
+Mar 20 23:40:01 iliad systemd: Starting user-0.slice.
+Mar 20 23:40:01 iliad systemd: Started Session 1216 of user user-0.
+Mar 20 23:40:01 iliad systemd: Starting Session 1216 of user user-0.
+Mar 20 23:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 23:40:01 iliad systemd: Stopping user-0.slice.
+Mar 20 23:50:01 iliad systemd: Created slice user-0.slice.
+Mar 20 23:50:01 iliad systemd: Starting user-0.slice.
+Mar 20 23:50:01 iliad systemd: Started Session 1217 of user user-0.
+Mar 20 23:50:01 iliad systemd: Starting Session 1217 of user user-0.
+Mar 20 23:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 23:50:01 iliad systemd: Stopping user-0.slice.
+Mar 20 23:50:11 iliad chronyd[803]: Source 208.80.96.96 replaced with 198.100.147.178
+Mar 20 23:53:01 iliad systemd: Created slice user-0.slice.
+Mar 20 23:53:01 iliad systemd: Starting user-0.slice.
+Mar 20 23:53:01 iliad systemd: Started Session 1218 of user user-0.
+Mar 20 23:53:01 iliad systemd: Starting Session 1218 of user user-0.
+Mar 20 23:53:01 iliad systemd: Removed slice user-0.slice.
+Mar 20 23:53:01 iliad systemd: Stopping user-0.slice.
+Mar 21 00:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 00:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 00:00:01 iliad systemd: Started Session 1219 of user user-0.
+Mar 21 00:00:01 iliad systemd: Starting Session 1219 of user user-0.
+Mar 21 00:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 00:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 00:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 00:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 00:01:01 iliad systemd: Started Session 1220 of user user-0.
+Mar 21 00:01:01 iliad systemd: Starting Session 1220 of user user-0.
+Mar 21 00:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 00:01:01 iliad systemd: Stopping user-0.slice.
+Mar 21 00:10:01 iliad systemd: Created slice user-0.slice.
+Mar 21 00:10:01 iliad systemd: Starting user-0.slice.
+Mar 21 00:10:01 iliad systemd: Started Session 1221 of user user-0.
+Mar 21 00:10:01 iliad systemd: Starting Session 1221 of user user-0.
+Mar 21 00:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 00:10:01 iliad systemd: Stopping user-0.slice.
+Mar 21 00:20:01 iliad systemd: Created slice user-0.slice.
+Mar 21 00:20:01 iliad systemd: Starting user-0.slice.
+Mar 21 00:20:01 iliad systemd: Started Session 1222 of user user-0.
+Mar 21 00:20:01 iliad systemd: Starting Session 1222 of user user-0.
+Mar 21 00:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 00:20:01 iliad systemd: Stopping user-0.slice.
+Mar 21 00:24:03 iliad chronyd[803]: Source 199.182.221.110 replaced with 208.80.96.70
+Mar 21 00:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 00:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 00:30:01 iliad systemd: Started Session 1223 of user user-0.
+Mar 21 00:30:01 iliad systemd: Starting Session 1223 of user user-0.
+Mar 21 00:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 00:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 00:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 00:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 00:40:01 iliad systemd: Started Session 1224 of user user-0.
+Mar 21 00:40:01 iliad systemd: Starting Session 1224 of user user-0.
+Mar 21 00:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 00:40:01 iliad systemd: Stopping user-0.slice.
+Mar 21 00:50:01 iliad systemd: Created slice user-0.slice.
+Mar 21 00:50:01 iliad systemd: Starting user-0.slice.
+Mar 21 00:50:01 iliad systemd: Started Session 1225 of user user-0.
+Mar 21 00:50:01 iliad systemd: Starting Session 1225 of user user-0.
+Mar 21 00:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 00:50:01 iliad systemd: Stopping user-0.slice.
+Mar 21 01:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 01:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 01:00:01 iliad systemd: Started Session 1226 of user user-0.
+Mar 21 01:00:01 iliad systemd: Starting Session 1226 of user user-0.
+Mar 21 01:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 01:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 01:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 01:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 01:01:01 iliad systemd: Started Session 1227 of user user-0.
+Mar 21 01:01:01 iliad systemd: Starting Session 1227 of user user-0.
+Mar 21 01:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 01:01:01 iliad systemd: Stopping user-0.slice.
+Mar 21 01:03:45 iliad chronyd[803]: Source 47.54.236.184 replaced with 199.182.221.110
+Mar 21 01:10:01 iliad systemd: Created slice user-0.slice.
+Mar 21 01:10:01 iliad systemd: Starting user-0.slice.
+Mar 21 01:10:01 iliad systemd: Started Session 1228 of user user-0.
+Mar 21 01:10:01 iliad systemd: Starting Session 1228 of user user-0.
+Mar 21 01:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 01:10:01 iliad systemd: Stopping user-0.slice.
+Mar 21 01:20:01 iliad systemd: Created slice user-0.slice.
+Mar 21 01:20:01 iliad systemd: Starting user-0.slice.
+Mar 21 01:20:01 iliad systemd: Started Session 1229 of user user-0.
+Mar 21 01:20:01 iliad systemd: Starting Session 1229 of user user-0.
+Mar 21 01:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 01:20:01 iliad systemd: Stopping user-0.slice.
+Mar 21 01:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 01:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 01:30:01 iliad systemd: Started Session 1230 of user user-0.
+Mar 21 01:30:01 iliad systemd: Starting Session 1230 of user user-0.
+Mar 21 01:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 01:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 01:38:15 iliad chronyd[803]: Source 129.128.12.20 replaced with 208.81.1.244
+Mar 21 01:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 01:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 01:40:01 iliad systemd: Started Session 1231 of user user-0.
+Mar 21 01:40:01 iliad systemd: Starting Session 1231 of user user-0.
+Mar 21 01:40:02 iliad systemd: Removed slice user-0.slice.
+Mar 21 01:40:02 iliad systemd: Stopping user-0.slice.
+Mar 21 01:50:01 iliad systemd: Created slice user-0.slice.
+Mar 21 01:50:01 iliad systemd: Starting user-0.slice.
+Mar 21 01:50:01 iliad systemd: Started Session 1232 of user user-0.
+Mar 21 01:50:01 iliad systemd: Starting Session 1232 of user user-0.
+Mar 21 01:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 01:50:01 iliad systemd: Stopping user-0.slice.
+Mar 21 02:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 02:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 02:00:01 iliad systemd: Started Session 1233 of user user-0.
+Mar 21 02:00:01 iliad systemd: Starting Session 1233 of user user-0.
+Mar 21 02:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 02:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 02:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 02:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 02:01:01 iliad systemd: Started Session 1234 of user user-0.
+Mar 21 02:01:01 iliad systemd: Starting Session 1234 of user user-0.
+Mar 21 02:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 02:01:01 iliad systemd: Stopping user-0.slice.
+Mar 21 02:04:40 iliad dhclient[1039]: DHCPREQUEST on enp0s31f6 to 132.205.96.229 port 67 (xid=0x954181e)
+Mar 21 02:04:40 iliad dhclient[1039]: DHCPACK from 132.205.96.229 (xid=0x954181e)
+Mar 21 02:04:40 iliad NetworkManager[909]: <info>  [1490076280.6603] dhcp4 (enp0s31f6):   address 123.32.18.2
+Mar 21 02:04:40 iliad NetworkManager[909]: <info>  [1490076280.6605] dhcp4 (enp0s31f6):   plen 24 (255.255.255.0)
+Mar 21 02:04:40 iliad NetworkManager[909]: <info>  [1490076280.6605] dhcp4 (enp0s31f6):   gateway 123.32.18.1
+Mar 21 02:04:40 iliad NetworkManager[909]: <info>  [1490076280.6605] dhcp4 (enp0s31f6):   server identifier 132.205.96.229
+Mar 21 02:04:40 iliad NetworkManager[909]: <info>  [1490076280.6605] dhcp4 (enp0s31f6):   lease time 43200
+Mar 21 02:04:40 iliad NetworkManager[909]: <info>  [1490076280.6605] dhcp4 (enp0s31f6):   hostname 'iliad.encs.concordia.ca'
+Mar 21 02:04:40 iliad NetworkManager[909]: <info>  [1490076280.6606] dhcp4 (enp0s31f6):   nameserver '132.205.96.93'
+Mar 21 02:04:40 iliad NetworkManager[909]: <info>  [1490076280.6606] dhcp4 (enp0s31f6):   nameserver '132.205.96.94'
+Mar 21 02:04:40 iliad NetworkManager[909]: <info>  [1490076280.6606] dhcp4 (enp0s31f6):   domain name 'encs.concordia.ca'
+Mar 21 02:04:40 iliad NetworkManager[909]: <info>  [1490076280.6606] dhcp4 (enp0s31f6):   domain name 'concordia.ca'
+Mar 21 02:04:40 iliad NetworkManager[909]: <info>  [1490076280.6606] dhcp (enp0s31f6):   domain search 'encs.concordia.ca.'
+Mar 21 02:04:40 iliad NetworkManager[909]: <info>  [1490076280.6606] dhcp (enp0s31f6):   domain search 'concordia.ca.'
+Mar 21 02:04:40 iliad NetworkManager[909]: <info>  [1490076280.6606] dhcp4 (enp0s31f6): state changed bound -> bound
+Mar 21 02:04:40 iliad dhclient[1039]: bound to 123.32.18.2 -- renewal in 18789 seconds.
+Mar 21 02:04:40 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 21 02:04:40 iliad dbus[801]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 21 02:04:40 iliad systemd: Starting Network Manager Script Dispatcher Service...
+Mar 21 02:04:40 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 21 02:04:40 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 21 02:04:40 iliad systemd: Started Network Manager Script Dispatcher Service.
+Mar 21 02:04:40 iliad nm-dispatcher: req:1 'dhcp4-change' [enp0s31f6]: new request (4 scripts)
+Mar 21 02:04:40 iliad nm-dispatcher: req:1 'dhcp4-change' [enp0s31f6]: start running ordered scripts...
+Mar 21 02:10:01 iliad systemd: Created slice user-0.slice.
+Mar 21 02:10:01 iliad systemd: Starting user-0.slice.
+Mar 21 02:10:01 iliad systemd: Started Session 1235 of user user-0.
+Mar 21 02:10:01 iliad systemd: Starting Session 1235 of user user-0.
+Mar 21 02:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 02:10:01 iliad systemd: Stopping user-0.slice.
+Mar 21 02:20:01 iliad systemd: Created slice user-0.slice.
+Mar 21 02:20:01 iliad systemd: Starting user-0.slice.
+Mar 21 02:20:01 iliad systemd: Started Session 1236 of user user-0.
+Mar 21 02:20:01 iliad systemd: Starting Session 1236 of user user-0.
+Mar 21 02:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 02:20:01 iliad systemd: Stopping user-0.slice.
+Mar 21 02:25:16 iliad chronyd[803]: Source 198.100.147.178 replaced with 158.69.170.128
+Mar 21 02:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 02:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 02:30:01 iliad systemd: Started Session 1237 of user user-0.
+Mar 21 02:30:01 iliad systemd: Starting Session 1237 of user user-0.
+Mar 21 02:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 02:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 02:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 02:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 02:40:01 iliad systemd: Started Session 1238 of user user-0.
+Mar 21 02:40:01 iliad systemd: Starting Session 1238 of user user-0.
+Mar 21 02:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 02:40:01 iliad systemd: Stopping user-0.slice.
+Mar 21 02:50:01 iliad systemd: Created slice user-0.slice.
+Mar 21 02:50:01 iliad systemd: Starting user-0.slice.
+Mar 21 02:50:01 iliad systemd: Started Session 1239 of user user-0.
+Mar 21 02:50:01 iliad systemd: Starting Session 1239 of user user-0.
+Mar 21 02:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 02:50:01 iliad systemd: Stopping user-0.slice.
+Mar 21 02:59:02 iliad chronyd[803]: Source 208.80.96.70 replaced with 144.217.241.147
+Mar 21 03:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 03:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 03:00:01 iliad systemd: Started Session 1240 of user user-0.
+Mar 21 03:00:01 iliad systemd: Starting Session 1240 of user user-0.
+Mar 21 03:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 03:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 03:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 03:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 03:01:01 iliad systemd: Started Session 1241 of user user-0.
+Mar 21 03:01:01 iliad systemd: Starting Session 1241 of user user-0.
+Mar 21 03:10:01 iliad systemd: Started Session 1242 of user user-0.
+Mar 21 03:10:01 iliad systemd: Starting Session 1242 of user user-0.
+Mar 21 03:20:01 iliad systemd: Started Session 1243 of user user-0.
+Mar 21 03:20:01 iliad systemd: Starting Session 1243 of user user-0.
+Mar 21 03:20:02 iliad systemd: Removed slice user-0.slice.
+Mar 21 03:20:02 iliad systemd: Stopping user-0.slice.
+Mar 21 03:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 03:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 03:30:01 iliad systemd: Started Session 1244 of user user-0.
+Mar 21 03:30:01 iliad systemd: Starting Session 1244 of user user-0.
+Mar 21 03:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 03:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 03:39:25 iliad chronyd[803]: Source 199.182.221.110 replaced with 144.217.242.53
+Mar 21 03:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 03:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 03:40:01 iliad systemd: Started Session 1245 of user user-0.
+Mar 21 03:40:01 iliad systemd: Starting Session 1245 of user user-0.
+Mar 21 03:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 03:40:01 iliad systemd: Stopping user-0.slice.
+Mar 21 03:50:01 iliad systemd: Created slice user-0.slice.
+Mar 21 03:50:01 iliad systemd: Starting user-0.slice.
+Mar 21 03:50:01 iliad systemd: Started Session 1246 of user user-0.
+Mar 21 03:50:01 iliad systemd: Starting Session 1246 of user user-0.
+Mar 21 03:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 03:50:01 iliad systemd: Stopping user-0.slice.
+Mar 21 04:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 04:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 04:00:01 iliad systemd: Started Session 1247 of user user-0.
+Mar 21 04:00:01 iliad systemd: Starting Session 1247 of user user-0.
+Mar 21 04:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 04:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 04:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 04:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 04:01:01 iliad systemd: Started Session 1248 of user user-0.
+Mar 21 04:01:01 iliad systemd: Starting Session 1248 of user user-0.
+Mar 21 04:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 04:01:01 iliad systemd: Stopping user-0.slice.
+Mar 21 04:10:01 iliad systemd: Created slice user-0.slice.
+Mar 21 04:10:01 iliad systemd: Starting user-0.slice.
+Mar 21 04:10:01 iliad systemd: Started Session 1249 of user user-0.
+Mar 21 04:10:01 iliad systemd: Starting Session 1249 of user user-0.
+Mar 21 04:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 04:10:01 iliad systemd: Stopping user-0.slice.
+Mar 21 04:12:49 iliad chronyd[803]: Source 208.81.1.244 replaced with 206.108.0.131
+Mar 21 04:20:01 iliad systemd: Created slice user-0.slice.
+Mar 21 04:20:01 iliad systemd: Starting user-0.slice.
+Mar 21 04:20:01 iliad systemd: Started Session 1250 of user user-0.
+Mar 21 04:20:01 iliad systemd: Starting Session 1250 of user user-0.
+Mar 21 04:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 04:20:01 iliad systemd: Stopping user-0.slice.
+Mar 21 04:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 04:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 04:30:01 iliad systemd: Started Session 1251 of user user-0.
+Mar 21 04:30:01 iliad systemd: Starting Session 1251 of user user-0.
+Mar 21 04:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 04:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 04:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 04:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 04:40:02 iliad systemd: Started Session 1252 of user user-0.
+Mar 21 04:40:02 iliad systemd: Starting Session 1252 of user user-0.
+Mar 21 04:40:02 iliad systemd: Removed slice user-0.slice.
+Mar 21 04:40:02 iliad systemd: Stopping user-0.slice.
+Mar 21 04:50:01 iliad systemd: Created slice user-0.slice.
+Mar 21 04:50:01 iliad systemd: Starting user-0.slice.
+Mar 21 04:50:01 iliad systemd: Started Session 1253 of user user-0.
+Mar 21 04:50:01 iliad systemd: Starting Session 1253 of user user-0.
+Mar 21 04:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 04:50:01 iliad systemd: Stopping user-0.slice.
+Mar 21 05:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 05:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 05:00:01 iliad systemd: Started Session 1254 of user user-0.
+Mar 21 05:00:01 iliad systemd: Starting Session 1254 of user user-0.
+Mar 21 05:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 05:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 05:00:19 iliad chronyd[803]: Source 158.69.170.128 replaced with 167.114.204.238
+Mar 21 05:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 05:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 05:01:01 iliad systemd: Started Session 1255 of user user-0.
+Mar 21 05:01:01 iliad systemd: Starting Session 1255 of user user-0.
+Mar 21 05:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 05:01:01 iliad systemd: Stopping user-0.slice.
+Mar 21 05:10:01 iliad systemd: Created slice user-0.slice.
+Mar 21 05:10:01 iliad systemd: Starting user-0.slice.
+Mar 21 05:10:01 iliad systemd: Started Session 1256 of user user-0.
+Mar 21 05:10:01 iliad systemd: Starting Session 1256 of user user-0.
+Mar 21 05:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 05:10:01 iliad systemd: Stopping user-0.slice.
+Mar 21 05:20:01 iliad systemd: Created slice user-0.slice.
+Mar 21 05:20:01 iliad systemd: Starting user-0.slice.
+Mar 21 05:20:01 iliad systemd: Started Session 1257 of user user-0.
+Mar 21 05:20:01 iliad systemd: Starting Session 1257 of user user-0.
+Mar 21 05:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 05:20:01 iliad systemd: Stopping user-0.slice.
+Mar 21 05:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 05:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 05:30:01 iliad systemd: Started Session 1258 of user user-0.
+Mar 21 05:30:01 iliad systemd: Starting Session 1258 of user user-0.
+Mar 21 05:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 05:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 05:34:27 iliad chronyd[803]: Source 144.217.241.147 replaced with 47.54.236.184
+Mar 21 05:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 05:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 05:40:01 iliad systemd: Started Session 1259 of user user-0.
+Mar 21 05:40:01 iliad systemd: Starting Session 1259 of user user-0.
+Mar 21 05:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 05:40:01 iliad systemd: Stopping user-0.slice.
+Mar 21 05:50:01 iliad systemd: Created slice user-0.slice.
+Mar 21 05:50:01 iliad systemd: Starting user-0.slice.
+Mar 21 05:50:01 iliad systemd: Started Session 1260 of user user-0.
+Mar 21 05:50:01 iliad systemd: Starting Session 1260 of user user-0.
+Mar 21 05:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 05:50:01 iliad systemd: Stopping user-0.slice.
+Mar 21 06:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 06:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 06:00:01 iliad systemd: Started Session 1261 of user user-0.
+Mar 21 06:00:01 iliad systemd: Starting Session 1261 of user user-0.
+Mar 21 06:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 06:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 06:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 06:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 06:01:01 iliad systemd: Started Session 1262 of user user-0.
+Mar 21 06:01:01 iliad systemd: Starting Session 1262 of user user-0.
+Mar 21 06:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 06:01:01 iliad systemd: Stopping user-0.slice.
+Mar 21 06:10:01 iliad systemd: Created slice user-0.slice.
+Mar 21 06:10:01 iliad systemd: Starting user-0.slice.
+Mar 21 06:10:01 iliad systemd: Started Session 1263 of user user-0.
+Mar 21 06:10:01 iliad systemd: Starting Session 1263 of user user-0.
+Mar 21 06:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 06:10:01 iliad systemd: Stopping user-0.slice.
+Mar 21 06:14:33 iliad chronyd[803]: Source 144.217.242.53 replaced with 192.95.25.79
+Mar 21 06:20:01 iliad systemd: Created slice user-0.slice.
+Mar 21 06:20:01 iliad systemd: Starting user-0.slice.
+Mar 21 06:20:01 iliad systemd: Started Session 1264 of user user-0.
+Mar 21 06:20:01 iliad systemd: Starting Session 1264 of user user-0.
+Mar 21 06:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 06:20:01 iliad systemd: Stopping user-0.slice.
+Mar 21 06:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 06:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 06:30:01 iliad systemd: Started Session 1265 of user user-0.
+Mar 21 06:30:01 iliad systemd: Starting Session 1265 of user user-0.
+Mar 21 06:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 06:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 06:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 06:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 06:40:01 iliad systemd: Started Session 1266 of user user-0.
+Mar 21 06:40:01 iliad systemd: Starting Session 1266 of user user-0.
+Mar 21 06:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 06:40:01 iliad systemd: Stopping user-0.slice.
+Mar 21 06:47:50 iliad chronyd[803]: Source 206.108.0.131 replaced with 199.19.167.36
+Mar 21 06:50:01 iliad systemd: Created slice user-0.slice.
+Mar 21 06:50:01 iliad systemd: Starting user-0.slice.
+Mar 21 06:50:01 iliad systemd: Started Session 1267 of user user-0.
+Mar 21 06:50:01 iliad systemd: Starting Session 1267 of user user-0.
+Mar 21 06:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 06:50:01 iliad systemd: Stopping user-0.slice.
+Mar 21 07:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 07:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 07:00:01 iliad systemd: Started Session 1268 of user user-0.
+Mar 21 07:00:01 iliad systemd: Starting Session 1268 of user user-0.
+Mar 21 07:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 07:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 07:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 07:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 07:01:01 iliad systemd: Started Session 1269 of user user-0.
+Mar 21 07:01:01 iliad systemd: Starting Session 1269 of user user-0.
+Mar 21 07:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 07:01:01 iliad systemd: Stopping user-0.slice.
+Mar 21 07:10:01 iliad systemd: Created slice user-0.slice.
+Mar 21 07:10:01 iliad systemd: Starting user-0.slice.
+Mar 21 07:10:01 iliad systemd: Started Session 1270 of user user-0.
+Mar 21 07:10:01 iliad systemd: Starting Session 1270 of user user-0.
+Mar 21 07:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 07:10:01 iliad systemd: Stopping user-0.slice.
+Mar 21 07:17:49 iliad dhclient[1039]: DHCPREQUEST on enp0s31f6 to 132.205.96.229 port 67 (xid=0x954181e)
+Mar 21 07:17:49 iliad dhclient[1039]: DHCPACK from 132.205.96.229 (xid=0x954181e)
+Mar 21 07:17:49 iliad NetworkManager[909]: <info>  [1490095069.0786] dhcp4 (enp0s31f6):   address 123.32.18.2
+Mar 21 07:17:49 iliad NetworkManager[909]: <info>  [1490095069.0794] dhcp4 (enp0s31f6):   plen 24 (255.255.255.0)
+Mar 21 07:17:49 iliad NetworkManager[909]: <info>  [1490095069.0794] dhcp4 (enp0s31f6):   gateway 123.32.18.1
+Mar 21 07:17:49 iliad NetworkManager[909]: <info>  [1490095069.0794] dhcp4 (enp0s31f6):   server identifier 132.205.96.229
+Mar 21 07:17:49 iliad NetworkManager[909]: <info>  [1490095069.0795] dhcp4 (enp0s31f6):   lease time 43200
+Mar 21 07:17:49 iliad NetworkManager[909]: <info>  [1490095069.0795] dhcp4 (enp0s31f6):   hostname 'iliad.encs.concordia.ca'
+Mar 21 07:17:49 iliad NetworkManager[909]: <info>  [1490095069.0795] dhcp4 (enp0s31f6):   nameserver '132.205.96.93'
+Mar 21 07:17:49 iliad NetworkManager[909]: <info>  [1490095069.0795] dhcp4 (enp0s31f6):   nameserver '132.205.96.94'
+Mar 21 07:17:49 iliad NetworkManager[909]: <info>  [1490095069.0795] dhcp4 (enp0s31f6):   domain name 'encs.concordia.ca'
+Mar 21 07:17:49 iliad NetworkManager[909]: <info>  [1490095069.0795] dhcp4 (enp0s31f6):   domain name 'concordia.ca'
+Mar 21 07:17:49 iliad NetworkManager[909]: <info>  [1490095069.0796] dhcp (enp0s31f6):   domain search 'encs.concordia.ca.'
+Mar 21 07:17:49 iliad NetworkManager[909]: <info>  [1490095069.0796] dhcp (enp0s31f6):   domain search 'concordia.ca.'
+Mar 21 07:17:49 iliad NetworkManager[909]: <info>  [1490095069.0796] dhcp4 (enp0s31f6): state changed bound -> bound
+Mar 21 07:17:49 iliad dhclient[1039]: bound to 123.32.18.2 -- renewal in 17976 seconds.
+Mar 21 07:17:49 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 21 07:17:49 iliad dbus[801]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 21 07:17:49 iliad systemd: Starting Network Manager Script Dispatcher Service...
+Mar 21 07:17:49 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 21 07:17:49 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 21 07:17:49 iliad systemd: Started Network Manager Script Dispatcher Service.
+Mar 21 07:17:49 iliad nm-dispatcher: req:1 'dhcp4-change' [enp0s31f6]: new request (4 scripts)
+Mar 21 07:17:49 iliad nm-dispatcher: req:1 'dhcp4-change' [enp0s31f6]: start running ordered scripts...
+Mar 21 07:20:01 iliad systemd: Created slice user-0.slice.
+Mar 21 07:20:01 iliad systemd: Starting user-0.slice.
+Mar 21 07:20:01 iliad systemd: Started Session 1271 of user user-0.
+Mar 21 07:20:01 iliad systemd: Starting Session 1271 of user user-0.
+Mar 21 07:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 07:20:01 iliad systemd: Stopping user-0.slice.
+Mar 21 07:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 07:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 07:30:01 iliad systemd: Started Session 1272 of user user-0.
+Mar 21 07:30:01 iliad systemd: Starting Session 1272 of user user-0.
+Mar 21 07:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 07:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 07:35:59 iliad chronyd[803]: Source 167.114.204.238 replaced with 128.100.56.135
+Mar 21 07:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 07:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 07:40:02 iliad systemd: Started Session 1273 of user user-0.
+Mar 21 07:40:02 iliad systemd: Starting Session 1273 of user user-0.
+Mar 21 07:40:02 iliad systemd: Removed slice user-0.slice.
+Mar 21 07:40:02 iliad systemd: Stopping user-0.slice.
+Mar 21 07:50:01 iliad systemd: Created slice user-0.slice.
+Mar 21 07:50:01 iliad systemd: Starting user-0.slice.
+Mar 21 07:50:01 iliad systemd: Started Session 1274 of user user-0.
+Mar 21 07:50:01 iliad systemd: Starting Session 1274 of user user-0.
+Mar 21 07:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 07:50:01 iliad systemd: Stopping user-0.slice.
+Mar 21 08:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 08:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 08:00:01 iliad systemd: Started Session 1275 of user user-0.
+Mar 21 08:00:01 iliad systemd: Starting Session 1275 of user user-0.
+Mar 21 08:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 08:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 08:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 08:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 08:01:01 iliad systemd: Started Session 1276 of user user-0.
+Mar 21 08:01:01 iliad systemd: Starting Session 1276 of user user-0.
+Mar 21 08:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 08:01:01 iliad systemd: Stopping user-0.slice.
+Mar 21 08:09:50 iliad chronyd[803]: Source 47.54.236.184 replaced with 192.95.27.155
+Mar 21 08:10:01 iliad systemd: Created slice user-0.slice.
+Mar 21 08:10:01 iliad systemd: Starting user-0.slice.
+Mar 21 08:10:01 iliad systemd: Started Session 1277 of user user-0.
+Mar 21 08:10:01 iliad systemd: Starting Session 1277 of user user-0.
+Mar 21 08:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 08:10:01 iliad systemd: Stopping user-0.slice.
+Mar 21 08:20:01 iliad systemd: Created slice user-0.slice.
+Mar 21 08:20:01 iliad systemd: Starting user-0.slice.
+Mar 21 08:20:01 iliad systemd: Started Session 1278 of user user-0.
+Mar 21 08:20:01 iliad systemd: Starting Session 1278 of user user-0.
+Mar 21 08:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 08:20:01 iliad systemd: Stopping user-0.slice.
+Mar 21 08:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 08:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 08:30:01 iliad systemd: Started Session 1279 of user user-0.
+Mar 21 08:30:01 iliad systemd: Starting Session 1279 of user user-0.
+Mar 21 08:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 08:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 08:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 08:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 08:40:01 iliad systemd: Started Session 1280 of user user-0.
+Mar 21 08:40:01 iliad systemd: Starting Session 1280 of user user-0.
+Mar 21 08:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 08:40:01 iliad systemd: Stopping user-0.slice.
+Mar 21 08:50:01 iliad systemd: Created slice user-0.slice.
+Mar 21 08:50:01 iliad systemd: Starting user-0.slice.
+Mar 21 08:50:01 iliad systemd: Started Session 1281 of user user-0.
+Mar 21 08:50:01 iliad systemd: Starting Session 1281 of user user-0.
+Mar 21 08:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 08:50:01 iliad systemd: Stopping user-0.slice.
+Mar 21 08:50:05 iliad chronyd[803]: Source 192.95.25.79 replaced with 199.182.221.110
+Mar 21 09:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 09:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 09:00:01 iliad systemd: Started Session 1282 of user user-0.
+Mar 21 09:00:01 iliad systemd: Starting Session 1282 of user user-0.
+Mar 21 09:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 09:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 09:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 09:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 09:01:01 iliad systemd: Started Session 1283 of user user-0.
+Mar 21 09:01:01 iliad systemd: Starting Session 1283 of user user-0.
+Mar 21 09:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 09:01:01 iliad systemd: Stopping user-0.slice.
+Mar 21 09:10:01 iliad systemd: Created slice user-0.slice.
+Mar 21 09:10:01 iliad systemd: Starting user-0.slice.
+Mar 21 09:10:01 iliad systemd: Started Session 1284 of user user-0.
+Mar 21 09:10:01 iliad systemd: Starting Session 1284 of user user-0.
+Mar 21 09:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 09:10:01 iliad systemd: Stopping user-0.slice.
+Mar 21 09:20:01 iliad systemd: Created slice user-0.slice.
+Mar 21 09:20:01 iliad systemd: Starting user-0.slice.
+Mar 21 09:20:01 iliad systemd: Started Session 1285 of user user-0.
+Mar 21 09:20:01 iliad systemd: Starting Session 1285 of user user-0.
+Mar 21 09:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 09:20:01 iliad systemd: Stopping user-0.slice.
+Mar 21 09:22:46 iliad chronyd[803]: Source 199.19.167.36 replaced with 144.217.241.147
+Mar 21 09:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 09:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 09:30:01 iliad systemd: Started Session 1286 of user user-0.
+Mar 21 09:30:01 iliad systemd: Starting Session 1286 of user user-0.
+Mar 21 09:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 09:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 09:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 09:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 09:40:01 iliad systemd: Started Session 1287 of user user-0.
+Mar 21 09:40:01 iliad systemd: Starting Session 1287 of user user-0.
+Mar 21 09:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 09:40:01 iliad systemd: Stopping user-0.slice.
+Mar 21 09:50:01 iliad systemd: Created slice user-0.slice.
+Mar 21 09:50:01 iliad systemd: Starting user-0.slice.
+Mar 21 09:50:01 iliad systemd: Started Session 1288 of user user-0.
+Mar 21 09:50:01 iliad systemd: Starting Session 1288 of user user-0.
+Mar 21 09:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 09:50:01 iliad systemd: Stopping user-0.slice.
+Mar 21 10:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 10:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 10:00:01 iliad systemd: Started Session 1289 of user user-0.
+Mar 21 10:00:01 iliad systemd: Starting Session 1289 of user user-0.
+Mar 21 10:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 10:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 10:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 10:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 10:01:01 iliad systemd: Started Session 1290 of user user-0.
+Mar 21 10:01:01 iliad systemd: Starting Session 1290 of user user-0.
+Mar 21 10:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 10:01:01 iliad systemd: Stopping user-0.slice.
+Mar 21 10:10:01 iliad systemd: Created slice user-0.slice.
+Mar 21 10:10:01 iliad systemd: Starting user-0.slice.
+Mar 21 10:10:01 iliad systemd: Started Session 1291 of user user-0.
+Mar 21 10:10:01 iliad systemd: Starting Session 1291 of user user-0.
+Mar 21 10:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 10:10:01 iliad systemd: Stopping user-0.slice.
+Mar 21 10:11:13 iliad chronyd[803]: Source 128.100.56.135 replaced with 199.19.167.36
+Mar 21 10:20:01 iliad systemd: Created slice user-0.slice.
+Mar 21 10:20:01 iliad systemd: Starting user-0.slice.
+Mar 21 10:20:01 iliad systemd: Started Session 1292 of user user-0.
+Mar 21 10:20:01 iliad systemd: Starting Session 1292 of user user-0.
+Mar 21 10:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 10:20:01 iliad systemd: Stopping user-0.slice.
+Mar 21 10:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 10:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 10:30:01 iliad systemd: Started Session 1293 of user user-0.
+Mar 21 10:30:01 iliad systemd: Starting Session 1293 of user user-0.
+Mar 21 10:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 10:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 10:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 10:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 10:40:01 iliad systemd: Started Session 1294 of user user-0.
+Mar 21 10:40:01 iliad systemd: Starting Session 1294 of user user-0.
+Mar 21 10:40:02 iliad systemd: Removed slice user-0.slice.
+Mar 21 10:40:02 iliad systemd: Stopping user-0.slice.
+Mar 21 10:45:04 iliad chronyd[803]: Source 192.95.27.155 replaced with 184.71.200.50
+Mar 21 10:50:01 iliad systemd: Created slice user-0.slice.
+Mar 21 10:50:01 iliad systemd: Starting user-0.slice.
+Mar 21 10:50:01 iliad systemd: Started Session 1295 of user user-0.
+Mar 21 10:50:01 iliad systemd: Starting Session 1295 of user user-0.
+Mar 21 10:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 10:50:01 iliad systemd: Stopping user-0.slice.
+Mar 21 11:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 11:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 11:00:01 iliad systemd: Started Session 1296 of user user-0.
+Mar 21 11:00:01 iliad systemd: Starting Session 1296 of user user-0.
+Mar 21 11:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 11:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 11:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 11:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 11:01:01 iliad systemd: Started Session 1297 of user user-0.
+Mar 21 11:01:01 iliad systemd: Starting Session 1297 of user user-0.
+Mar 21 11:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 11:01:01 iliad systemd: Stopping user-0.slice.
+Mar 21 11:10:01 iliad systemd: Created slice user-0.slice.
+Mar 21 11:10:01 iliad systemd: Starting user-0.slice.
+Mar 21 11:10:01 iliad systemd: Started Session 1298 of user user-0.
+Mar 21 11:10:01 iliad systemd: Starting Session 1298 of user user-0.
+Mar 21 11:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 11:10:01 iliad systemd: Stopping user-0.slice.
+Mar 21 11:20:01 iliad systemd: Created slice user-0.slice.
+Mar 21 11:20:01 iliad systemd: Starting user-0.slice.
+Mar 21 11:20:01 iliad systemd: Started Session 1299 of user user-0.
+Mar 21 11:20:01 iliad systemd: Starting Session 1299 of user user-0.
+Mar 21 11:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 11:20:01 iliad systemd: Stopping user-0.slice.
+Mar 21 11:24:49 iliad chronyd[803]: Source 199.182.221.110 replaced with 167.114.204.238
+Mar 21 11:26:28 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Mar 21 11:26:28 iliad dbus[801]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Mar 21 11:26:28 iliad systemd: Starting Fingerprint Authentication Daemon...
+Mar 21 11:26:28 iliad dbus[801]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 21 11:26:28 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 21 11:26:28 iliad systemd: Started Fingerprint Authentication Daemon.
+Mar 21 11:26:28 iliad fprintd: Launching FprintObject
+Mar 21 11:26:28 iliad fprintd: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Mar 21 11:26:28 iliad fprintd: ** Message: entering main loop
+Mar 21 11:26:37 iliad dbus[801]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Mar 21 11:26:37 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Mar 21 11:26:37 iliad systemd: Starting Hostname Service...
+Mar 21 11:26:37 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 21 11:26:37 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 21 11:26:37 iliad systemd: Started Hostname Service.
+Mar 21 11:26:59 iliad fprintd: ** Message: No devices in use, exit
+Mar 21 11:29:14 iliad firefox.desktop: (process:938): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
+Mar 21 11:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 11:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 11:30:01 iliad systemd: Started Session 1300 of user user-0.
+Mar 21 11:30:01 iliad systemd: Starting Session 1300 of user user-0.
+Mar 21 11:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 11:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 11:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 11:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 11:40:01 iliad systemd: Started Session 1301 of user user-0.
+Mar 21 11:40:01 iliad systemd: Starting Session 1301 of user user-0.
+Mar 21 11:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 11:40:01 iliad systemd: Stopping user-0.slice.
+Mar 21 11:50:01 iliad systemd: Starting Cleanup of Temporary Directories...
+Mar 21 11:50:01 iliad systemd: Created slice user-0.slice.
+Mar 21 11:50:01 iliad systemd: Starting user-0.slice.
+Mar 21 11:50:01 iliad systemd: Started Session 1302 of user user-0.
+Mar 21 11:50:01 iliad systemd: Starting Session 1302 of user user-0.
+Mar 21 11:50:01 iliad systemd: Started Cleanup of Temporary Directories.
+Mar 21 11:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 11:50:01 iliad systemd: Stopping user-0.slice.
+Mar 21 11:57:43 iliad chronyd[803]: Source 144.217.241.147 replaced with 206.108.0.132
+Mar 21 12:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 12:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 12:00:01 iliad systemd: Started Session 1303 of user user-0.
+Mar 21 12:00:01 iliad systemd: Starting Session 1303 of user user-0.
+Mar 21 12:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 12:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 12:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 12:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 12:01:01 iliad systemd: Started Session 1304 of user user-0.
+Mar 21 12:01:01 iliad systemd: Starting Session 1304 of user user-0.
+Mar 21 12:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 12:01:01 iliad systemd: Stopping user-0.slice.
+Mar 21 12:02:48 iliad dbus-daemon: dbus[801]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 21 12:02:48 iliad dbus[801]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 21 12:02:48 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 21 12:02:48 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 21 12:04:47 iliad firefox.desktop: (process:1894): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
+Mar 21 12:08:15 iliad systemd-logind: New session 1305 of user user-4.
+Mar 21 12:08:15 iliad systemd: Started Session 1305 of user user-4.
+Mar 21 12:08:15 iliad systemd: Starting Session 1305 of user user-4.
+Mar 21 12:08:15 iliad dbus-daemon: dbus[801]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 21 12:08:15 iliad dbus[801]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 21 12:08:15 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 21 12:08:15 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 21 12:10:01 iliad systemd: Created slice user-0.slice.
+Mar 21 12:10:01 iliad systemd: Starting user-0.slice.
+Mar 21 12:10:01 iliad systemd: Started Session 1306 of user user-0.
+Mar 21 12:10:01 iliad systemd: Starting Session 1306 of user user-0.
+Mar 21 12:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 12:10:01 iliad systemd: Stopping user-0.slice.
+Mar 21 12:10:04 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:10:04 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:10:04 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:10:04 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:10:04 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:10:04 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:10:05 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:10:05 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:10:05 iliad kernel: device veth73679ce entered promiscuous mode
+Mar 21 12:10:05 iliad kernel: IPv6: ADDRCONF(NETDEV_UP): veth73679ce: link is not ready
+Mar 21 12:10:05 iliad NetworkManager[909]: <info>  [1490112605.0097] manager: (veth9c1efa7): new Veth device (/org/freedesktop/NetworkManager/Devices/688)
+Mar 21 12:10:05 iliad NetworkManager[909]: <info>  [1490112605.0109] manager: (veth73679ce): new Veth device (/org/freedesktop/NetworkManager/Devices/689)
+Mar 21 12:10:05 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:05 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:10:05 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:05 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:10:05 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:10:05 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:10:05 iliad avahi-daemon[837]: Withdrawing workstation service for veth9c1efa7.
+Mar 21 12:10:05 iliad NetworkManager[909]: <info>  [1490112605.0884] device (veth9c1efa7): driver 'veth' does not support carrier detection.
+Mar 21 12:10:05 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:05 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:10:05 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:05 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:10:05 iliad kernel: IPv6: ADDRCONF(NETDEV_CHANGE): veth73679ce: link becomes ready
+Mar 21 12:10:05 iliad kernel: docker0: port 1(veth73679ce) entered forwarding state
+Mar 21 12:10:05 iliad kernel: docker0: port 1(veth73679ce) entered forwarding state
+Mar 21 12:10:05 iliad NetworkManager[909]: <info>  [1490112605.1008] device (veth73679ce): link connected
+Mar 21 12:10:05 iliad NetworkManager[909]: <info>  [1490112605.1011] device (docker0): link connected
+Mar 21 12:10:06 iliad avahi-daemon[837]: Registering new address record for fe80::7407:e8ff:fe8b:17de on veth73679ce.*.
+Mar 21 12:10:19 iliad kernel: docker0: port 1(veth73679ce) entered disabled state
+Mar 21 12:10:19 iliad avahi-daemon[837]: Withdrawing address record for fe80::7407:e8ff:fe8b:17de on veth73679ce.
+Mar 21 12:10:19 iliad NetworkManager[909]: <info>  [1490112619.9431] manager: (veth9c1efa7): new Veth device (/org/freedesktop/NetworkManager/Devices/690)
+Mar 21 12:10:19 iliad kernel: docker0: port 1(veth73679ce) entered disabled state
+Mar 21 12:10:19 iliad avahi-daemon[837]: Withdrawing workstation service for veth9c1efa7.
+Mar 21 12:10:19 iliad kernel: device veth73679ce left promiscuous mode
+Mar 21 12:10:19 iliad kernel: docker0: port 1(veth73679ce) entered disabled state
+Mar 21 12:10:19 iliad avahi-daemon[837]: Withdrawing workstation service for veth73679ce.
+Mar 21 12:10:19 iliad journal: ethtool ioctl error: No such device
+Mar 21 12:10:19 iliad NetworkManager[909]: <info>  [1490112619.9615] device (veth9c1efa7): driver 'veth' does not support carrier detection.
+Mar 21 12:10:19 iliad NetworkManager[909]: <info>  [1490112619.9622] device (veth73679ce): driver 'veth' does not support carrier detection.
+Mar 21 12:10:19 iliad journal: ethtool ioctl error: No such device
+Mar 21 12:10:19 iliad journal: ethtool ioctl error: No such device
+Mar 21 12:10:19 iliad journal: ethtool ioctl error: No such device
+Mar 21 12:10:19 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: async_got_type: could not read properties for /org/freedesktop/NetworkManager/Devices/690: No such interface 'org.freedesktop.DBus.Properties' on object at path /org/freedesktop/NetworkManager/Devices/690
+Mar 21 12:10:19 iliad journal: ethtool ioctl error: No such device
+Mar 21 12:10:19 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:19 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: async_got_type: could not read properties for /org/freedesktop/NetworkManager/Devices/689: No such interface 'org.freedesktop.DBus.Properties' on object at path /org/freedesktop/NetworkManager/Devices/689
+Mar 21 12:10:19 iliad journal: ethtool ioctl error: No such device
+Mar 21 12:10:19 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:19 iliad journal: ethtool ioctl error: No such device
+Mar 21 12:10:19 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: async_got_type: could not read properties for /org/freedesktop/NetworkManager/Devices/689: No such interface 'org.freedesktop.DBus.Properties' on object at path /org/freedesktop/NetworkManager/Devices/689
+Mar 21 12:10:19 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: async_got_type: could not read properties for /org/freedesktop/NetworkManager/Devices/690: No such interface 'org.freedesktop.DBus.Properties' on object at path /org/freedesktop/NetworkManager/Devices/690
+Mar 21 12:10:19 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:19 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:20 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:10:20 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:10:20 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:10:20 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:10:20 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:10:21 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:10:21 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:10:21 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:10:23 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:10:23 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:10:24 iliad systemd-udevd: inotify_add_watch(7, /dev/dm-4, 10) failed: No such file or directory
+Mar 21 12:10:24 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:10:24 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:10:24 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:10:24 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:10:24 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:10:24 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:10:24 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:10:24 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:10:24 iliad kernel: device veth0f5797d entered promiscuous mode
+Mar 21 12:10:24 iliad kernel: IPv6: ADDRCONF(NETDEV_UP): veth0f5797d: link is not ready
+Mar 21 12:10:24 iliad NetworkManager[909]: <info>  [1490112624.6915] manager: (veth874ada9): new Veth device (/org/freedesktop/NetworkManager/Devices/691)
+Mar 21 12:10:24 iliad NetworkManager[909]: <info>  [1490112624.6928] manager: (veth0f5797d): new Veth device (/org/freedesktop/NetworkManager/Devices/692)
+Mar 21 12:10:24 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:24 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:10:24 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:10:24 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:24 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:10:24 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:10:24 iliad avahi-daemon[837]: Withdrawing workstation service for veth874ada9.
+Mar 21 12:10:24 iliad kernel: IPv6: ADDRCONF(NETDEV_CHANGE): veth0f5797d: link becomes ready
+Mar 21 12:10:24 iliad kernel: docker0: port 1(veth0f5797d) entered forwarding state
+Mar 21 12:10:24 iliad kernel: docker0: port 1(veth0f5797d) entered forwarding state
+Mar 21 12:10:24 iliad NetworkManager[909]: <info>  [1490112624.7593] device (veth874ada9): driver 'veth' does not support carrier detection.
+Mar 21 12:10:24 iliad NetworkManager[909]: <info>  [1490112624.7599] device (veth0f5797d): link connected
+Mar 21 12:10:24 iliad NetworkManager[909]: <info>  [1490112624.7602] device (docker0): link connected
+Mar 21 12:10:24 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:24 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:10:24 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:24 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:10:26 iliad avahi-daemon[837]: Registering new address record for fe80::8b8:1aff:fec4:f038 on veth0f5797d.*.
+Mar 21 12:10:27 iliad kernel: docker0: port 1(veth0f5797d) entered disabled state
+Mar 21 12:10:27 iliad NetworkManager[909]: <info>  [1490112627.2668] manager: (veth874ada9): new Veth device (/org/freedesktop/NetworkManager/Devices/693)
+Mar 21 12:10:27 iliad kernel: docker0: port 1(veth0f5797d) entered disabled state
+Mar 21 12:10:27 iliad avahi-daemon[837]: Withdrawing address record for fe80::8b8:1aff:fec4:f038 on veth0f5797d.
+Mar 21 12:10:27 iliad avahi-daemon[837]: Withdrawing workstation service for veth874ada9.
+Mar 21 12:10:27 iliad avahi-daemon[837]: Withdrawing workstation service for veth0f5797d.
+Mar 21 12:10:27 iliad kernel: device veth0f5797d left promiscuous mode
+Mar 21 12:10:27 iliad kernel: docker0: port 1(veth0f5797d) entered disabled state
+Mar 21 12:10:27 iliad NetworkManager[909]: <info>  [1490112627.2750] device (veth874ada9): driver 'veth' does not support carrier detection.
+Mar 21 12:10:27 iliad NetworkManager[909]: <info>  [1490112627.2753] device (veth0f5797d): driver 'veth' does not support carrier detection.
+Mar 21 12:10:27 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:27 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:10:27 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:10:27 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: async_got_type: could not read properties for /org/freedesktop/NetworkManager/Devices/692: No such interface 'org.freedesktop.DBus.Properties' on object at path /org/freedesktop/NetworkManager/Devices/692
+Mar 21 12:10:27 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: async_got_type: could not read properties for /org/freedesktop/NetworkManager/Devices/693: No such interface 'org.freedesktop.DBus.Properties' on object at path /org/freedesktop/NetworkManager/Devices/693
+Mar 21 12:10:27 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:27 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:27 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:10:27 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:10:27 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:10:27 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:10:27 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:10:27 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:10:28 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:10:28 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:10:28 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:10:28 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:10:28 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:10:28 iliad systemd-udevd: inotify_add_watch(7, /dev/dm-4, 10) failed: No such file or directory
+Mar 21 12:10:29 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:10:29 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:10:29 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:10:29 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:10:29 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:10:29 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:10:29 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:10:29 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:10:29 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:10:29 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:10:30 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:10:30 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:10:30 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:10:30 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:10:30 iliad dockerd: time="2017-03-21T12:10:30.645767373-04:00" level=info msg="Layer sha256:5da324626bd7764fc5fe308251c5eeaecfc1390a7a24bf68adb6fbc0ba70c421 cleaned up"
+Mar 21 12:10:30 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:15:11 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:15:11 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:15:11 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:15:11 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:15:11 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:15:11 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:15:11 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:15:11 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:15:11 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:15:11 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:15:13 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:15:13 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:15:13 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:15:13 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:15:14 iliad systemd-udevd: inotify_add_watch(7, /dev/dm-5, 10) failed: No such file or directory
+Mar 21 12:15:14 iliad dockerd: time="2017-03-21T12:15:14.454819785-04:00" level=info msg="Layer sha256:9d7f21d562c1d768ea9d30222e5f9addcfa96f37c181ae8c8e25ecb787575bdf cleaned up"
+Mar 21 12:15:14 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:15:16 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:15:16 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:15:16 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:15:16 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:15:16 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:15:16 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:15:16 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:15:16 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:15:16 iliad kernel: device vethea296e6 entered promiscuous mode
+Mar 21 12:15:16 iliad kernel: IPv6: ADDRCONF(NETDEV_UP): vethea296e6: link is not ready
+Mar 21 12:15:16 iliad NetworkManager[909]: <info>  [1490112916.3419] manager: (veth1414103): new Veth device (/org/freedesktop/NetworkManager/Devices/694)
+Mar 21 12:15:16 iliad NetworkManager[909]: <info>  [1490112916.3430] manager: (vethea296e6): new Veth device (/org/freedesktop/NetworkManager/Devices/695)
+Mar 21 12:15:16 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:16 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:16 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:16 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:16 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:16 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:16 iliad avahi-daemon[837]: Withdrawing workstation service for veth1414103.
+Mar 21 12:15:16 iliad kernel: IPv6: ADDRCONF(NETDEV_CHANGE): vethea296e6: link becomes ready
+Mar 21 12:15:16 iliad kernel: docker0: port 1(vethea296e6) entered forwarding state
+Mar 21 12:15:16 iliad kernel: docker0: port 1(vethea296e6) entered forwarding state
+Mar 21 12:15:16 iliad NetworkManager[909]: <info>  [1490112916.4150] device (veth1414103): driver 'veth' does not support carrier detection.
+Mar 21 12:15:16 iliad NetworkManager[909]: <info>  [1490112916.4153] device (vethea296e6): link connected
+Mar 21 12:15:16 iliad NetworkManager[909]: <info>  [1490112916.4154] device (docker0): link connected
+Mar 21 12:15:16 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:16 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:16 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:16 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:17 iliad avahi-daemon[837]: Registering new address record for fe80::b820:1dff:fe13:b5fc on vethea296e6.*.
+Mar 21 12:15:31 iliad kernel: docker0: port 1(vethea296e6) entered forwarding state
+Mar 21 12:15:36 iliad kernel: docker0: port 1(vethea296e6) entered disabled state
+Mar 21 12:15:36 iliad NetworkManager[909]: <info>  [1490112936.2257] manager: (veth1414103): new Veth device (/org/freedesktop/NetworkManager/Devices/696)
+Mar 21 12:15:36 iliad kernel: docker0: port 1(vethea296e6) entered disabled state
+Mar 21 12:15:36 iliad avahi-daemon[837]: Withdrawing address record for fe80::b820:1dff:fe13:b5fc on vethea296e6.
+Mar 21 12:15:36 iliad avahi-daemon[837]: Withdrawing workstation service for veth1414103.
+Mar 21 12:15:36 iliad avahi-daemon[837]: Withdrawing workstation service for vethea296e6.
+Mar 21 12:15:36 iliad kernel: device vethea296e6 left promiscuous mode
+Mar 21 12:15:36 iliad kernel: docker0: port 1(vethea296e6) entered disabled state
+Mar 21 12:15:36 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:36 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:36 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:36 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:36 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:36 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:36 iliad NetworkManager[909]: <info>  [1490112936.2315] device (veth1414103): driver 'veth' does not support carrier detection.
+Mar 21 12:15:36 iliad NetworkManager[909]: <info>  [1490112936.2316] device (vethea296e6): driver 'veth' does not support carrier detection.
+Mar 21 12:15:36 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:36 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:37 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:15:37 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:15:37 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:15:37 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:15:37 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:15:38 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:15:38 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:15:38 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:15:41 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:15:41 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:15:42 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:15:42 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:15:42 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:15:42 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:15:42 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:15:42 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:15:42 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:15:42 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:15:42 iliad kernel: device veth3047e86 entered promiscuous mode
+Mar 21 12:15:42 iliad kernel: IPv6: ADDRCONF(NETDEV_UP): veth3047e86: link is not ready
+Mar 21 12:15:42 iliad kernel: docker0: port 1(veth3047e86) entered forwarding state
+Mar 21 12:15:42 iliad kernel: docker0: port 1(veth3047e86) entered forwarding state
+Mar 21 12:15:42 iliad kernel: docker0: port 1(veth3047e86) entered disabled state
+Mar 21 12:15:42 iliad NetworkManager[909]: <info>  [1490112942.9872] manager: (vethff76684): new Veth device (/org/freedesktop/NetworkManager/Devices/697)
+Mar 21 12:15:42 iliad NetworkManager[909]: <info>  [1490112942.9883] manager: (veth3047e86): new Veth device (/org/freedesktop/NetworkManager/Devices/698)
+Mar 21 12:15:42 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:42 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:42 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:42 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:42 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:42 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:43 iliad avahi-daemon[837]: Withdrawing workstation service for vethff76684.
+Mar 21 12:15:43 iliad kernel: IPv6: ADDRCONF(NETDEV_CHANGE): veth3047e86: link becomes ready
+Mar 21 12:15:43 iliad kernel: docker0: port 1(veth3047e86) entered forwarding state
+Mar 21 12:15:43 iliad kernel: docker0: port 1(veth3047e86) entered forwarding state
+Mar 21 12:15:43 iliad NetworkManager[909]: <info>  [1490112943.0587] device (vethff76684): driver 'veth' does not support carrier detection.
+Mar 21 12:15:43 iliad NetworkManager[909]: <info>  [1490112943.0588] device (veth3047e86): link connected
+Mar 21 12:15:43 iliad NetworkManager[909]: <info>  [1490112943.0590] device (docker0): link connected
+Mar 21 12:15:43 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:43 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:43 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:43 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:44 iliad avahi-daemon[837]: Registering new address record for fe80::d47a:6ff:fe37:c735 on veth3047e86.*.
+Mar 21 12:15:50 iliad kernel: docker0: port 1(veth3047e86) entered disabled state
+Mar 21 12:15:50 iliad NetworkManager[909]: <info>  [1490112950.8311] manager: (vethff76684): new Veth device (/org/freedesktop/NetworkManager/Devices/699)
+Mar 21 12:15:50 iliad avahi-daemon[837]: Withdrawing address record for fe80::d47a:6ff:fe37:c735 on veth3047e86.
+Mar 21 12:15:50 iliad kernel: docker0: port 1(veth3047e86) entered disabled state
+Mar 21 12:15:50 iliad avahi-daemon[837]: Withdrawing workstation service for vethff76684.
+Mar 21 12:15:50 iliad avahi-daemon[837]: Withdrawing workstation service for veth3047e86.
+Mar 21 12:15:50 iliad kernel: device veth3047e86 left promiscuous mode
+Mar 21 12:15:50 iliad kernel: docker0: port 1(veth3047e86) entered disabled state
+Mar 21 12:15:50 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:50 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:50 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:50 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:50 iliad NetworkManager[909]: <info>  [1490112950.8409] device (vethff76684): driver 'veth' does not support carrier detection.
+Mar 21 12:15:50 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:50 iliad NetworkManager[909]: <info>  [1490112950.8411] device (veth3047e86): driver 'veth' does not support carrier detection.
+Mar 21 12:15:50 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:50 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:50 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:51 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:15:51 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:15:51 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:15:51 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:15:51 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:15:52 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:15:52 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:15:52 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:15:53 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:15:53 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:15:55 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:15:55 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:15:55 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:15:55 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:15:55 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:15:55 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:15:55 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:15:55 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:15:55 iliad kernel: device veth34faa16 entered promiscuous mode
+Mar 21 12:15:55 iliad kernel: IPv6: ADDRCONF(NETDEV_UP): veth34faa16: link is not ready
+Mar 21 12:15:55 iliad NetworkManager[909]: <info>  [1490112955.5398] manager: (vetha1c480b): new Veth device (/org/freedesktop/NetworkManager/Devices/700)
+Mar 21 12:15:55 iliad NetworkManager[909]: <info>  [1490112955.5408] manager: (veth34faa16): new Veth device (/org/freedesktop/NetworkManager/Devices/701)
+Mar 21 12:15:55 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:55 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:55 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:55 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:55 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:55 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:55 iliad avahi-daemon[837]: Withdrawing workstation service for vetha1c480b.
+Mar 21 12:15:55 iliad kernel: IPv6: ADDRCONF(NETDEV_CHANGE): veth34faa16: link becomes ready
+Mar 21 12:15:55 iliad kernel: docker0: port 1(veth34faa16) entered forwarding state
+Mar 21 12:15:55 iliad kernel: docker0: port 1(veth34faa16) entered forwarding state
+Mar 21 12:15:55 iliad NetworkManager[909]: <info>  [1490112955.6050] device (vetha1c480b): driver 'veth' does not support carrier detection.
+Mar 21 12:15:55 iliad NetworkManager[909]: <info>  [1490112955.6055] device (veth34faa16): link connected
+Mar 21 12:15:55 iliad NetworkManager[909]: <info>  [1490112955.6058] device (docker0): link connected
+Mar 21 12:15:55 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:55 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:55 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:55 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:57 iliad avahi-daemon[837]: Registering new address record for fe80::acb1:13ff:fe4c:bf03 on veth34faa16.*.
+Mar 21 12:15:58 iliad kernel: docker0: port 1(veth34faa16) entered disabled state
+Mar 21 12:15:58 iliad NetworkManager[909]: <info>  [1490112958.2178] manager: (vetha1c480b): new Veth device (/org/freedesktop/NetworkManager/Devices/702)
+Mar 21 12:15:58 iliad avahi-daemon[837]: Withdrawing address record for fe80::acb1:13ff:fe4c:bf03 on veth34faa16.
+Mar 21 12:15:58 iliad kernel: docker0: port 1(veth34faa16) entered disabled state
+Mar 21 12:15:58 iliad avahi-daemon[837]: Withdrawing workstation service for vetha1c480b.
+Mar 21 12:15:58 iliad kernel: device veth34faa16 left promiscuous mode
+Mar 21 12:15:58 iliad kernel: docker0: port 1(veth34faa16) entered disabled state
+Mar 21 12:15:58 iliad avahi-daemon[837]: Withdrawing workstation service for veth34faa16.
+Mar 21 12:15:58 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:58 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:58 iliad NetworkManager[909]: <info>  [1490112958.2239] device (vetha1c480b): driver 'veth' does not support carrier detection.
+Mar 21 12:15:58 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:58 iliad NetworkManager[909]: <info>  [1490112958.2240] device (veth34faa16): driver 'veth' does not support carrier detection.
+Mar 21 12:15:58 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:58 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:58 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:15:58 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:58 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:15:58 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:15:58 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:15:58 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:15:58 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:15:58 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:15:59 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:15:59 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:15:59 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:15:59 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:15:59 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:16:01 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:16:01 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:16:01 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:16:01 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:16:01 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:16:01 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:16:01 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:16:01 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:16:01 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:16:01 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:16:02 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:16:02 iliad kernel: XFS (dm-5): Mounting V4 Filesystem
+Mar 21 12:16:02 iliad kernel: XFS (dm-5): Ending clean mount
+Mar 21 12:16:02 iliad kernel: XFS (dm-5): Unmounting Filesystem
+Mar 21 12:16:03 iliad dockerd: time="2017-03-21T12:16:03.665624121-04:00" level=info msg="Layer sha256:72dfbaa93f8b8005385bb7abf0dfcbd26cfb47ac31e2f56d200faa30820e41b0 cleaned up"
+Mar 21 12:16:03 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:17:25 iliad dhclient[1039]: DHCPREQUEST on enp0s31f6 to 132.205.96.229 port 67 (xid=0x954181e)
+Mar 21 12:17:25 iliad dhclient[1039]: DHCPACK from 132.205.96.229 (xid=0x954181e)
+Mar 21 12:17:25 iliad NetworkManager[909]: <info>  [1490113045.1606] dhcp4 (enp0s31f6):   address 123.32.18.2
+Mar 21 12:17:25 iliad NetworkManager[909]: <info>  [1490113045.1606] dhcp4 (enp0s31f6):   plen 24 (255.255.255.0)
+Mar 21 12:17:25 iliad NetworkManager[909]: <info>  [1490113045.1606] dhcp4 (enp0s31f6):   gateway 123.32.18.1
+Mar 21 12:17:25 iliad NetworkManager[909]: <info>  [1490113045.1606] dhcp4 (enp0s31f6):   server identifier 132.205.96.229
+Mar 21 12:17:25 iliad NetworkManager[909]: <info>  [1490113045.1606] dhcp4 (enp0s31f6):   lease time 43200
+Mar 21 12:17:25 iliad NetworkManager[909]: <info>  [1490113045.1606] dhcp4 (enp0s31f6):   hostname 'iliad.encs.concordia.ca'
+Mar 21 12:17:25 iliad NetworkManager[909]: <info>  [1490113045.1607] dhcp4 (enp0s31f6):   nameserver '132.205.96.93'
+Mar 21 12:17:25 iliad NetworkManager[909]: <info>  [1490113045.1607] dhcp4 (enp0s31f6):   nameserver '132.205.96.94'
+Mar 21 12:17:25 iliad NetworkManager[909]: <info>  [1490113045.1607] dhcp4 (enp0s31f6):   domain name 'encs.concordia.ca'
+Mar 21 12:17:25 iliad NetworkManager[909]: <info>  [1490113045.1607] dhcp4 (enp0s31f6):   domain name 'concordia.ca'
+Mar 21 12:17:25 iliad NetworkManager[909]: <info>  [1490113045.1607] dhcp (enp0s31f6):   domain search 'encs.concordia.ca.'
+Mar 21 12:17:25 iliad NetworkManager[909]: <info>  [1490113045.1607] dhcp (enp0s31f6):   domain search 'concordia.ca.'
+Mar 21 12:17:25 iliad NetworkManager[909]: <info>  [1490113045.1607] dhcp4 (enp0s31f6): state changed bound -> bound
+Mar 21 12:17:25 iliad dhclient[1039]: bound to 123.32.18.2 -- renewal in 17261 seconds.
+Mar 21 12:17:25 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 21 12:17:25 iliad dbus[801]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 21 12:17:25 iliad systemd: Starting Network Manager Script Dispatcher Service...
+Mar 21 12:17:25 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 21 12:17:25 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 21 12:17:25 iliad systemd: Started Network Manager Script Dispatcher Service.
+Mar 21 12:17:25 iliad nm-dispatcher: req:1 'dhcp4-change' [enp0s31f6]: new request (4 scripts)
+Mar 21 12:17:25 iliad nm-dispatcher: req:1 'dhcp4-change' [enp0s31f6]: start running ordered scripts...
+Mar 21 12:17:48 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:17:48 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:17:48 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:17:48 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:17:48 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:17:48 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:17:48 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 12:17:48 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 12:17:48 iliad kernel: device veth95b14e0 entered promiscuous mode
+Mar 21 12:17:48 iliad kernel: IPv6: ADDRCONF(NETDEV_UP): veth95b14e0: link is not ready
+Mar 21 12:17:48 iliad NetworkManager[909]: <info>  [1490113068.3028] manager: (veth438d675): new Veth device (/org/freedesktop/NetworkManager/Devices/703)
+Mar 21 12:17:48 iliad NetworkManager[909]: <info>  [1490113068.3038] manager: (veth95b14e0): new Veth device (/org/freedesktop/NetworkManager/Devices/704)
+Mar 21 12:17:48 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:17:48 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:17:48 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:17:48 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:17:48 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:17:48 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:17:48 iliad avahi-daemon[837]: Withdrawing workstation service for veth438d675.
+Mar 21 12:17:48 iliad kernel: IPv6: ADDRCONF(NETDEV_CHANGE): veth95b14e0: link becomes ready
+Mar 21 12:17:48 iliad kernel: docker0: port 1(veth95b14e0) entered forwarding state
+Mar 21 12:17:48 iliad kernel: docker0: port 1(veth95b14e0) entered forwarding state
+Mar 21 12:17:48 iliad NetworkManager[909]: <info>  [1490113068.3718] device (veth438d675): driver 'veth' does not support carrier detection.
+Mar 21 12:17:48 iliad NetworkManager[909]: <info>  [1490113068.3720] device (veth95b14e0): link connected
+Mar 21 12:17:48 iliad NetworkManager[909]: <info>  [1490113068.3722] device (docker0): link connected
+Mar 21 12:17:48 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:17:48 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:17:48 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:17:48 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:17:50 iliad avahi-daemon[837]: Registering new address record for fe80::e885:feff:fe91:af7c on veth95b14e0.*.
+Mar 21 12:18:00 iliad kernel: docker0: port 1(veth95b14e0) entered disabled state
+Mar 21 12:18:00 iliad NetworkManager[909]: <info>  [1490113080.1167] manager: (veth438d675): new Veth device (/org/freedesktop/NetworkManager/Devices/705)
+Mar 21 12:18:00 iliad avahi-daemon[837]: Withdrawing address record for fe80::e885:feff:fe91:af7c on veth95b14e0.
+Mar 21 12:18:00 iliad kernel: docker0: port 1(veth95b14e0) entered disabled state
+Mar 21 12:18:00 iliad avahi-daemon[837]: Withdrawing workstation service for veth438d675.
+Mar 21 12:18:00 iliad kernel: device veth95b14e0 left promiscuous mode
+Mar 21 12:18:00 iliad kernel: docker0: port 1(veth95b14e0) entered disabled state
+Mar 21 12:18:00 iliad avahi-daemon[837]: Withdrawing workstation service for veth95b14e0.
+Mar 21 12:18:00 iliad NetworkManager[909]: <info>  [1490113080.1346] device (veth438d675): driver 'veth' does not support carrier detection.
+Mar 21 12:18:00 iliad NetworkManager[909]: <info>  [1490113080.1352] device (veth95b14e0): driver 'veth' does not support carrier detection.
+Mar 21 12:18:00 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:18:00 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:18:00 iliad journal: Failed to open file '/sys/class/net/veth438d675/operstate': No such file or directory
+Mar 21 12:18:00 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:18:00 iliad journal: unable to read: /sys/class/net/veth438d675/operstate: No such file or directory
+Mar 21 12:18:00 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:18:00 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:18:00 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 12:18:00 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:18:00 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 12:18:00 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 12:20:01 iliad systemd: Created slice user-0.slice.
+Mar 21 12:20:01 iliad systemd: Starting user-0.slice.
+Mar 21 12:20:01 iliad systemd: Started Session 1307 of user user-0.
+Mar 21 12:20:01 iliad systemd: Starting Session 1307 of user user-0.
+Mar 21 12:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 12:20:01 iliad systemd: Stopping user-0.slice.
+Mar 21 12:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 12:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 12:30:01 iliad systemd: Started Session 1308 of user user-0.
+Mar 21 12:30:01 iliad systemd: Starting Session 1308 of user user-0.
+Mar 21 12:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 12:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 12:34:19 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Mar 21 12:34:19 iliad dbus[801]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Mar 21 12:34:19 iliad systemd: Starting Fingerprint Authentication Daemon...
+Mar 21 12:34:19 iliad dbus[801]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 21 12:34:19 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 21 12:34:19 iliad systemd: Started Fingerprint Authentication Daemon.
+Mar 21 12:34:19 iliad fprintd: Launching FprintObject
+Mar 21 12:34:19 iliad fprintd: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Mar 21 12:34:19 iliad fprintd: ** Message: entering main loop
+Mar 21 12:34:27 iliad dbus[801]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Mar 21 12:34:27 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Mar 21 12:34:27 iliad systemd: Starting Hostname Service...
+Mar 21 12:34:27 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 21 12:34:27 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 21 12:34:27 iliad systemd: Started Hostname Service.
+Mar 21 12:34:50 iliad fprintd: ** Message: No devices in use, exit
+Mar 21 12:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 12:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 12:40:01 iliad systemd: Started Session 1309 of user user-0.
+Mar 21 12:40:01 iliad systemd: Starting Session 1309 of user user-0.
+Mar 21 12:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 12:40:01 iliad systemd: Stopping user-0.slice.
+Mar 21 12:46:39 iliad chronyd[803]: Source 199.19.167.36 replaced with 158.69.125.231
+Mar 21 12:50:01 iliad systemd: Created slice user-0.slice.
+Mar 21 12:50:01 iliad systemd: Starting user-0.slice.
+Mar 21 12:50:01 iliad systemd: Started Session 1310 of user user-0.
+Mar 21 12:50:01 iliad systemd: Starting Session 1310 of user user-0.
+Mar 21 12:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 12:50:01 iliad systemd: Stopping user-0.slice.
+Mar 21 13:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 13:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 13:00:01 iliad systemd: Started Session 1311 of user user-0.
+Mar 21 13:00:01 iliad systemd: Starting Session 1311 of user user-0.
+Mar 21 13:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 13:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 13:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 13:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 13:01:01 iliad systemd: Started Session 1312 of user user-0.
+Mar 21 13:01:01 iliad systemd: Starting Session 1312 of user user-0.
+Mar 21 13:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 13:01:01 iliad systemd: Stopping user-0.slice.
+Mar 21 13:10:01 iliad systemd: Created slice user-0.slice.
+Mar 21 13:10:01 iliad systemd: Starting user-0.slice.
+Mar 21 13:10:01 iliad systemd: Started Session 1313 of user user-0.
+Mar 21 13:10:01 iliad systemd: Starting Session 1313 of user user-0.
+Mar 21 13:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 13:10:01 iliad systemd: Stopping user-0.slice.
+Mar 21 13:19:54 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Mar 21 13:19:54 iliad dbus[801]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Mar 21 13:19:54 iliad systemd: Starting Fingerprint Authentication Daemon...
+Mar 21 13:19:54 iliad dbus[801]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 21 13:19:54 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 21 13:19:54 iliad systemd: Started Fingerprint Authentication Daemon.
+Mar 21 13:19:54 iliad fprintd: Launching FprintObject
+Mar 21 13:19:54 iliad fprintd: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Mar 21 13:19:54 iliad fprintd: ** Message: entering main loop
+Mar 21 13:19:58 iliad chronyd[803]: Source 184.71.200.50 replaced with 208.80.96.70
+Mar 21 13:20:02 iliad systemd: Created slice user-0.slice.
+Mar 21 13:20:02 iliad systemd: Starting user-0.slice.
+Mar 21 13:20:02 iliad systemd: Started Session 1314 of user user-0.
+Mar 21 13:20:02 iliad systemd: Starting Session 1314 of user user-0.
+Mar 21 13:20:02 iliad systemd: Removed slice user-0.slice.
+Mar 21 13:20:02 iliad systemd: Stopping user-0.slice.
+Mar 21 13:20:04 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Mar 21 13:20:04 iliad dbus[801]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Mar 21 13:20:04 iliad systemd: Starting Hostname Service...
+Mar 21 13:20:04 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 21 13:20:04 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 21 13:20:04 iliad systemd: Started Hostname Service.
+Mar 21 13:20:25 iliad fprintd: ** Message: No devices in use, exit
+Mar 21 13:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 13:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 13:30:01 iliad systemd: Started Session 1315 of user user-0.
+Mar 21 13:30:01 iliad systemd: Starting Session 1315 of user user-0.
+Mar 21 13:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 13:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 13:39:11 iliad firefox.desktop: (process:5540): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
+Mar 21 13:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 13:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 13:40:01 iliad systemd: Started Session 1316 of user user-0.
+Mar 21 13:40:01 iliad systemd: Starting Session 1316 of user user-0.
+Mar 21 13:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 13:40:01 iliad systemd: Stopping user-0.slice.
+Mar 21 13:50:01 iliad systemd: Created slice user-0.slice.
+Mar 21 13:50:01 iliad systemd: Starting user-0.slice.
+Mar 21 13:50:01 iliad systemd: Started Session 1317 of user user-0.
+Mar 21 13:50:01 iliad systemd: Starting Session 1317 of user user-0.
+Mar 21 13:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 13:50:01 iliad systemd: Stopping user-0.slice.
+Mar 21 13:59:49 iliad chronyd[803]: Source 167.114.204.238 replaced with 198.245.51.213
+Mar 21 14:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 14:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 14:00:01 iliad systemd: Started Session 1318 of user user-0.
+Mar 21 14:00:01 iliad systemd: Starting Session 1318 of user user-0.
+Mar 21 14:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 14:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 14:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 14:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 14:01:01 iliad systemd: Started Session 1319 of user user-0.
+Mar 21 14:01:01 iliad systemd: Starting Session 1319 of user user-0.
+Mar 21 14:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 14:01:01 iliad systemd: Stopping user-0.slice.
+Mar 21 14:10:01 iliad systemd: Created slice user-0.slice.
+Mar 21 14:10:01 iliad systemd: Starting user-0.slice.
+Mar 21 14:10:01 iliad systemd: Started Session 1320 of user user-0.
+Mar 21 14:10:01 iliad systemd: Starting Session 1320 of user user-0.
+Mar 21 14:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 14:10:01 iliad systemd: Stopping user-0.slice.
+Mar 21 14:20:01 iliad systemd: Created slice user-0.slice.
+Mar 21 14:20:01 iliad systemd: Starting user-0.slice.
+Mar 21 14:20:01 iliad systemd: Started Session 1321 of user user-0.
+Mar 21 14:20:01 iliad systemd: Starting Session 1321 of user user-0.
+Mar 21 14:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 14:20:01 iliad systemd: Stopping user-0.slice.
+Mar 21 14:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 14:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 14:30:01 iliad systemd: Started Session 1322 of user user-0.
+Mar 21 14:30:01 iliad systemd: Starting Session 1322 of user user-0.
+Mar 21 14:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 14:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 14:32:47 iliad chronyd[803]: Source 206.108.0.132 replaced with 192.95.27.155
+Mar 21 14:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 14:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 14:40:01 iliad systemd: Started Session 1323 of user user-0.
+Mar 21 14:40:01 iliad systemd: Starting Session 1323 of user user-0.
+Mar 21 14:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 14:40:01 iliad systemd: Stopping user-0.slice.
+Mar 21 14:50:01 iliad systemd: Created slice user-0.slice.
+Mar 21 14:50:01 iliad systemd: Starting user-0.slice.
+Mar 21 14:50:01 iliad systemd: Started Session 1324 of user user-0.
+Mar 21 14:50:01 iliad systemd: Starting Session 1324 of user user-0.
+Mar 21 14:50:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 14:50:01 iliad systemd: Stopping user-0.slice.
+Mar 21 15:00:01 iliad systemd: Created slice user-0.slice.
+Mar 21 15:00:01 iliad systemd: Starting user-0.slice.
+Mar 21 15:00:01 iliad systemd: Started Session 1325 of user user-0.
+Mar 21 15:00:01 iliad systemd: Starting Session 1325 of user user-0.
+Mar 21 15:00:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 15:00:01 iliad systemd: Stopping user-0.slice.
+Mar 21 15:01:01 iliad systemd: Created slice user-0.slice.
+Mar 21 15:01:01 iliad systemd: Starting user-0.slice.
+Mar 21 15:01:01 iliad systemd: Started Session 1326 of user user-0.
+Mar 21 15:01:01 iliad systemd: Starting Session 1326 of user user-0.
+Mar 21 15:01:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 15:01:01 iliad systemd: Stopping user-0.slice.
+Mar 21 15:10:01 iliad systemd: Created slice user-0.slice.
+Mar 21 15:10:01 iliad systemd: Starting user-0.slice.
+Mar 21 15:10:01 iliad systemd: Started Session 1327 of user user-0.
+Mar 21 15:10:01 iliad systemd: Starting Session 1327 of user user-0.
+Mar 21 15:10:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 15:10:01 iliad systemd: Stopping user-0.slice.
+Mar 21 15:20:01 iliad systemd: Created slice user-0.slice.
+Mar 21 15:20:01 iliad systemd: Starting user-0.slice.
+Mar 21 15:20:01 iliad systemd: Started Session 1328 of user user-0.
+Mar 21 15:20:01 iliad systemd: Starting Session 1328 of user user-0.
+Mar 21 15:20:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 15:20:01 iliad systemd: Stopping user-0.slice.
+Mar 21 15:22:13 iliad chronyd[803]: Source 158.69.125.231 replaced with 174.142.10.100
+Mar 21 15:26:45 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Mar 21 15:26:45 iliad dbus[801]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Mar 21 15:26:45 iliad systemd: Starting Fingerprint Authentication Daemon...
+Mar 21 15:26:45 iliad dbus[801]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 21 15:26:45 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 21 15:26:45 iliad systemd: Started Fingerprint Authentication Daemon.
+Mar 21 15:26:45 iliad fprintd: Launching FprintObject
+Mar 21 15:26:45 iliad fprintd: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Mar 21 15:26:45 iliad fprintd: ** Message: entering main loop
+Mar 21 15:27:15 iliad fprintd: ** Message: No devices in use, exit
+Mar 21 15:30:01 iliad systemd: Created slice user-0.slice.
+Mar 21 15:30:01 iliad systemd: Starting user-0.slice.
+Mar 21 15:30:01 iliad systemd: Started Session 1329 of user user-0.
+Mar 21 15:30:01 iliad systemd: Starting Session 1329 of user user-0.
+Mar 21 15:30:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 15:30:01 iliad systemd: Stopping user-0.slice.
+Mar 21 15:40:01 iliad systemd: Created slice user-0.slice.
+Mar 21 15:40:01 iliad systemd: Starting user-0.slice.
+Mar 21 15:40:01 iliad systemd: Started Session 1330 of user user-0.
+Mar 21 15:40:01 iliad systemd: Starting Session 1330 of user user-0.
+Mar 21 15:40:01 iliad systemd: Removed slice user-0.slice.
+Mar 21 15:40:01 iliad systemd: Stopping user-0.slice.
+Mar 21 15:42:25 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Mar 21 15:42:25 iliad dbus[801]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Mar 21 15:42:25 iliad systemd: Starting Fingerprint Authentication Daemon...
+Mar 21 15:42:25 iliad dbus[801]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 21 15:42:25 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 21 15:42:25 iliad systemd: Started Fingerprint Authentication Daemon.
+Mar 21 15:42:25 iliad fprintd: Launching FprintObject
+Mar 21 15:42:25 iliad fprintd: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Mar 21 15:42:25 iliad fprintd: ** Message: entering main loop
+Mar 21 15:42:30 iliad dbus[801]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Mar 21 15:42:30 iliad dbus-daemon: dbus[801]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Mar 21 15:42:30 iliad systemd: Starting Hostname Service...
+Mar 21 15:42:30 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 21 15:42:30 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 21 15:42:30 iliad systemd: Started Hostname Service.
+Mar 21 15:42:55 iliad fprintd: ** Message: No devices in use, exit
+Mar 21 15:43:11 iliad systemd: Created slice user-0.slice.
+Mar 21 15:43:11 iliad systemd: Starting user-0.slice.
+Mar 21 15:43:11 iliad systemd-logind: New session 1331 of user user-0.
+Mar 21 15:43:11 iliad systemd: Started Session 1331 of user user-0.
+Mar 21 15:43:11 iliad systemd: Starting Session 1331 of user user-0.
+Mar 21 15:43:11 iliad dbus-daemon: dbus[801]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 21 15:43:11 iliad dbus[801]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 21 15:43:11 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 21 15:43:11 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 21 15:44:02 iliad systemd-logind: Removed session 1331.
+Mar 21 15:44:02 iliad systemd: Removed slice user-0.slice.
+Mar 21 15:44:02 iliad systemd: Stopping user-0.slice.
+Mar 21 15:44:05 iliad systemd: Created slice user-0.slice.
+Mar 21 15:44:05 iliad systemd: Starting user-0.slice.
+Mar 21 15:44:05 iliad systemd-logind: New session 1332 of user user-0.
+Mar 21 15:44:05 iliad systemd: Started Session 1332 of user user-0.
+Mar 21 15:44:05 iliad systemd: Starting Session 1332 of user user-0.
+Mar 21 15:45:52 iliad systemd-logind: Removed session 1332.
+Mar 21 15:45:52 iliad systemd: Removed slice user-0.slice.
+Mar 21 15:45:52 iliad systemd: Stopping user-0.slice.
+Mar 21 15:46:23 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 15:46:23 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 15:46:23 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 15:46:23 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 15:46:23 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 15:46:23 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 15:46:23 iliad kernel: XFS (dm-4): Mounting V4 Filesystem
+Mar 21 15:46:23 iliad kernel: XFS (dm-4): Ending clean mount
+Mar 21 15:46:23 iliad kernel: device vethb25eba9 entered promiscuous mode
+Mar 21 15:46:23 iliad kernel: IPv6: ADDRCONF(NETDEV_UP): vethb25eba9: link is not ready
+Mar 21 15:46:23 iliad NetworkManager[909]: <info>  [1490125583.2889] manager: (veth45ff7e2): new Veth device (/org/freedesktop/NetworkManager/Devices/706)
+Mar 21 15:46:23 iliad NetworkManager[909]: <info>  [1490125583.2901] manager: (vethb25eba9): new Veth device (/org/freedesktop/NetworkManager/Devices/707)
+Mar 21 15:46:23 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 15:46:23 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 15:46:23 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 15:46:23 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 15:46:23 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 15:46:23 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 15:46:23 iliad avahi-daemon[837]: Withdrawing workstation service for veth45ff7e2.
+Mar 21 15:46:23 iliad kernel: IPv6: ADDRCONF(NETDEV_CHANGE): vethb25eba9: link becomes ready
+Mar 21 15:46:23 iliad kernel: docker0: port 1(vethb25eba9) entered forwarding state
+Mar 21 15:46:23 iliad kernel: docker0: port 1(vethb25eba9) entered forwarding state
+Mar 21 15:46:23 iliad NetworkManager[909]: <info>  [1490125583.3684] device (veth45ff7e2): driver 'veth' does not support carrier detection.
+Mar 21 15:46:23 iliad NetworkManager[909]: <info>  [1490125583.3693] device (vethb25eba9): link connected
+Mar 21 15:46:23 iliad NetworkManager[909]: <info>  [1490125583.3697] device (docker0): link connected
+Mar 21 15:46:23 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 15:46:23 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 15:46:23 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 15:46:23 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 15:46:24 iliad avahi-daemon[837]: Registering new address record for fe80::24d9:ceff:fe50:22c9 on vethb25eba9.*.
+Mar 21 15:46:34 iliad kernel: docker0: port 1(vethb25eba9) entered disabled state
+Mar 21 15:46:34 iliad NetworkManager[909]: <info>  [1490125594.5227] manager: (veth45ff7e2): new Veth device (/org/freedesktop/NetworkManager/Devices/708)
+Mar 21 15:46:34 iliad avahi-daemon[837]: Withdrawing address record for fe80::24d9:ceff:fe50:22c9 on vethb25eba9.
+Mar 21 15:46:34 iliad kernel: docker0: port 1(vethb25eba9) entered disabled state
+Mar 21 15:46:34 iliad avahi-daemon[837]: Withdrawing workstation service for veth45ff7e2.
+Mar 21 15:46:34 iliad avahi-daemon[837]: Withdrawing workstation service for vethb25eba9.
+Mar 21 15:46:34 iliad kernel: device vethb25eba9 left promiscuous mode
+Mar 21 15:46:34 iliad kernel: docker0: port 1(vethb25eba9) entered disabled state
+Mar 21 15:46:34 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 15:46:34 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 15:46:34 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 15:46:34 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 15:46:34 iliad NetworkManager[909]: <info>  [1490125594.5287] device (veth45ff7e2): driver 'veth' does not support carrier detection.
+Mar 21 15:46:34 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 15:46:34 iliad NetworkManager[909]: <info>  [1490125594.5289] device (vethb25eba9): driver 'veth' does not support carrier detection.
+Mar 21 15:46:34 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 20
+Mar 21 15:46:34 iliad gnome-session: (gnome-settings-daemon:972): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 15:46:34 iliad gnome-session: (gnome-shell:994): libnm-glib-WARNING **: Unknown device type 16
+Mar 21 15:46:34 iliad kernel: XFS (dm-4): Unmounting Filesystem
+Mar 21 15:46:55 iliad systemd: Created slice user-0.slice.
+Mar 21 15:46:55 iliad systemd: Starting user-0.slice.
+Mar 21 15:46:55 iliad systemd-logind: New session 1333 of user user-0.
+Mar 21 15:46:55 iliad systemd: Started Session 1333 of user user-0.
+Mar 21 15:46:55 iliad systemd: Starting Session 1333 of user user-0.
+Mar 21 15:46:55 iliad dbus-daemon: dbus[801]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 21 15:46:55 iliad dbus[801]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 21 15:46:55 iliad dbus[801]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 21 15:46:55 iliad dbus-daemon: dbus[801]: [system] Successfully activated service 'org.freedesktop.problems'

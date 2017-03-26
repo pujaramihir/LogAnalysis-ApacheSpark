@@ -1,14 +1,60 @@
 #!/bin/bash
  
-while getopts ":q:::" opt; do
-  case $opt in
-    q)
-    	echo ${OPTARG} 
-    	echo $3
-    	echo $4     
-      ;;
-    \?)
-      echo "Invalid option: -$OPTARG" >&2
-      ;;
-  esac
+while getopts ":q:" o; do
+	case $o in
+		q)
+			q=${OPTARG}
+			case $q in
+				1)
+					spark-submit CountLines.py $3 $4
+					;;
+				2)
+					echo $q
+					echo $3
+					echo $4
+					;;
+				3)
+					echo $q
+					echo $3
+					echo $4
+					;;
+				4)
+					echo $q
+					echo $3
+					echo $4
+					;;
+				5)
+					echo $q
+					echo $3
+					echo $4
+					;;
+				6)
+					echo $q
+					echo $3
+					echo $4
+					;;
+				7)
+					echo $q
+					echo $3
+					echo $4
+					;;
+				8)
+					echo $q
+					echo $3
+					echo $4
+					;;
+				9)
+					echo $q
+					echo $3
+					echo $4
+					;;
+				*)
+					echo "question not found!!!"
+					;;
+			esac      
+			;;
+		\?)
+			echo "Invalid option: -$OPTARG" >&2
+			;;
+	esac
 done

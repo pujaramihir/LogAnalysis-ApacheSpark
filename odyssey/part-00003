@@ -1,0 +1,1838 @@
+Mar 20 03:33:01 odyssey rsyslogd: [origin software="rsyslogd" swVersion="7.4.7" x-pid="829" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Mar 20 03:33:02 odyssey systemd: Removed slice user-0.slice.
+Mar 20 03:33:02 odyssey systemd: Stopping user-0.slice.
+Mar 20 03:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 03:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 03:40:01 odyssey systemd: Started Session 1663 of user achille.
+Mar 20 03:40:01 odyssey systemd: Starting Session 1663 of user achille.
+Mar 20 03:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 03:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 03:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 03:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 03:50:01 odyssey systemd: Started Session 1664 of user achille.
+Mar 20 03:50:01 odyssey systemd: Starting Session 1664 of user achille.
+Mar 20 03:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 03:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 03:55:36 odyssey chronyd[834]: Source 206.108.0.133 replaced with 167.114.204.238
+Mar 20 04:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 04:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 04:00:01 odyssey systemd: Started Session 1665 of user achille.
+Mar 20 04:00:01 odyssey systemd: Starting Session 1665 of user achille.
+Mar 20 04:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 04:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 04:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 04:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 04:01:01 odyssey systemd: Started Session 1666 of user achille.
+Mar 20 04:01:01 odyssey systemd: Starting Session 1666 of user achille.
+Mar 20 04:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 04:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 04:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 04:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 04:10:01 odyssey systemd: Started Session 1667 of user achille.
+Mar 20 04:10:01 odyssey systemd: Starting Session 1667 of user achille.
+Mar 20 04:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 04:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 04:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 04:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 04:20:01 odyssey systemd: Started Session 1668 of user achille.
+Mar 20 04:20:01 odyssey systemd: Starting Session 1668 of user achille.
+Mar 20 04:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 04:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 04:21:05 odyssey systemd-logind: Removed session 1614.
+Mar 20 04:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 04:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 04:30:01 odyssey systemd: Started Session 1669 of user achille.
+Mar 20 04:30:01 odyssey systemd: Starting Session 1669 of user achille.
+Mar 20 04:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 04:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 04:39:00 odyssey chronyd[834]: Source 47.54.236.184 replaced with 158.69.125.231
+Mar 20 04:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 04:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 04:40:01 odyssey systemd: Started Session 1670 of user achille.
+Mar 20 04:40:01 odyssey systemd: Starting Session 1670 of user achille.
+Mar 20 04:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 04:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 04:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 04:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 04:50:01 odyssey systemd: Started Session 1671 of user achille.
+Mar 20 04:50:01 odyssey systemd: Starting Session 1671 of user achille.
+Mar 20 04:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 04:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 05:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 05:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 05:00:01 odyssey systemd: Started Session 1672 of user achille.
+Mar 20 05:00:01 odyssey systemd: Starting Session 1672 of user achille.
+Mar 20 05:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 05:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 05:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 05:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 05:01:01 odyssey systemd: Started Session 1673 of user achille.
+Mar 20 05:01:01 odyssey systemd: Starting Session 1673 of user achille.
+Mar 20 05:01:02 odyssey systemd: Removed slice user-0.slice.
+Mar 20 05:01:02 odyssey systemd: Stopping user-0.slice.
+Mar 20 05:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 05:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 05:10:01 odyssey systemd: Started Session 1674 of user achille.
+Mar 20 05:10:01 odyssey systemd: Starting Session 1674 of user achille.
+Mar 20 05:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 05:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 05:16:07 odyssey chronyd[834]: Source 198.245.51.213 replaced with 199.182.221.110
+Mar 20 05:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 05:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 05:20:01 odyssey systemd: Started Session 1675 of user achille.
+Mar 20 05:20:01 odyssey systemd: Starting Session 1675 of user achille.
+Mar 20 05:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 05:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 05:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 05:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 05:30:01 odyssey systemd: Started Session 1676 of user achille.
+Mar 20 05:30:01 odyssey systemd: Starting Session 1676 of user achille.
+Mar 20 05:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 05:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 05:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 05:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 05:40:01 odyssey systemd: Started Session 1677 of user achille.
+Mar 20 05:40:01 odyssey systemd: Starting Session 1677 of user achille.
+Mar 20 05:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 05:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 05:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 05:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 05:50:01 odyssey systemd: Started Session 1678 of user achille.
+Mar 20 05:50:01 odyssey systemd: Starting Session 1678 of user achille.
+Mar 20 05:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 05:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 05:56:34 odyssey chronyd[834]: Source 144.217.241.147 replaced with 192.95.27.155
+Mar 20 06:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 06:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 06:00:01 odyssey systemd: Started Session 1679 of user achille.
+Mar 20 06:00:01 odyssey systemd: Starting Session 1679 of user achille.
+Mar 20 06:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 06:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 06:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 06:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 06:01:01 odyssey systemd: Started Session 1680 of user achille.
+Mar 20 06:01:01 odyssey systemd: Starting Session 1680 of user achille.
+Mar 20 06:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 06:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 06:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 06:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 06:10:01 odyssey systemd: Started Session 1681 of user achille.
+Mar 20 06:10:01 odyssey systemd: Starting Session 1681 of user achille.
+Mar 20 06:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 06:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 06:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 06:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 06:20:01 odyssey systemd: Started Session 1682 of user achille.
+Mar 20 06:20:01 odyssey systemd: Starting Session 1682 of user achille.
+Mar 20 06:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 06:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 06:27:43 odyssey dhclient[1273]: DHCPREQUEST on enp0s31f6 to 132.205.96.229 port 67 (xid=0x6a7e10e3)
+Mar 20 06:27:43 odyssey dhclient[1273]: DHCPACK from 132.205.96.229 (xid=0x6a7e10e3)
+Mar 20 06:27:43 odyssey NetworkManager[955]: <info>    address 123.32.18.31
+Mar 20 06:27:43 odyssey NetworkManager[955]: <info>    plen 24 (255.255.255.0)
+Mar 20 06:27:43 odyssey NetworkManager[955]: <info>    gateway 123.32.18.1
+Mar 20 06:27:43 odyssey NetworkManager[955]: <info>    server identifier 132.205.96.229
+Mar 20 06:27:43 odyssey dhclient[1273]: bound to 123.32.18.31 -- renewal in 16396 seconds.
+Mar 20 06:27:43 odyssey NetworkManager[955]: <info>    lease time 43200
+Mar 20 06:27:43 odyssey NetworkManager[955]: <info>    hostname 'odyssey.encs.concordia.ca'
+Mar 20 06:27:43 odyssey NetworkManager[955]: <info>    nameserver '132.205.96.93'
+Mar 20 06:27:43 odyssey NetworkManager[955]: <info>    nameserver '132.205.96.94'
+Mar 20 06:27:43 odyssey NetworkManager[955]: <info>    domain name 'encs.concordia.ca'
+Mar 20 06:27:43 odyssey NetworkManager[955]: <info>    domain name 'concordia.ca'
+Mar 20 06:27:43 odyssey NetworkManager[955]: <info>    domain search 'encs.concordia.ca.'
+Mar 20 06:27:43 odyssey NetworkManager[955]: <info>    domain search 'concordia.ca.'
+Mar 20 06:27:43 odyssey NetworkManager[955]: <info>  (enp0s31f6): DHCPv4 state changed bound -> bound
+Mar 20 06:27:43 odyssey dbus-daemon: dbus[810]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 06:27:43 odyssey dbus[810]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 06:27:43 odyssey systemd: Starting Network Manager Script Dispatcher Service...
+Mar 20 06:27:43 odyssey dbus[810]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 06:27:43 odyssey systemd: Started Network Manager Script Dispatcher Service.
+Mar 20 06:27:43 odyssey dbus-daemon: dbus[810]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 06:27:43 odyssey nm-dispatcher: Dispatching action 'dhcp4-change' for enp0s31f6
+Mar 20 06:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 06:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 06:30:01 odyssey systemd: Started Session 1683 of user achille.
+Mar 20 06:30:01 odyssey systemd: Starting Session 1683 of user achille.
+Mar 20 06:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 06:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 06:30:50 odyssey chronyd[834]: Source 167.114.204.238 replaced with 206.186.121.125
+Mar 20 06:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 06:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 06:40:01 odyssey systemd: Started Session 1684 of user achille.
+Mar 20 06:40:01 odyssey systemd: Starting Session 1684 of user achille.
+Mar 20 06:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 06:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 06:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 06:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 06:50:01 odyssey systemd: Started Session 1685 of user achille.
+Mar 20 06:50:01 odyssey systemd: Starting Session 1685 of user achille.
+Mar 20 06:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 06:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 07:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 07:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 07:00:01 odyssey systemd: Started Session 1686 of user achille.
+Mar 20 07:00:01 odyssey systemd: Starting Session 1686 of user achille.
+Mar 20 07:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 07:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 07:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 07:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 07:01:01 odyssey systemd: Started Session 1687 of user achille.
+Mar 20 07:01:01 odyssey systemd: Starting Session 1687 of user achille.
+Mar 20 07:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 07:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 07:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 07:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 07:10:01 odyssey systemd: Started Session 1688 of user achille.
+Mar 20 07:10:01 odyssey systemd: Starting Session 1688 of user achille.
+Mar 20 07:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 07:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 07:14:10 odyssey chronyd[834]: Source 158.69.125.231 replaced with 70.79.92.55
+Mar 20 07:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 07:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 07:20:01 odyssey systemd: Started Session 1689 of user achille.
+Mar 20 07:20:01 odyssey systemd: Starting Session 1689 of user achille.
+Mar 20 07:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 07:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 07:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 07:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 07:30:01 odyssey systemd: Started Session 1690 of user achille.
+Mar 20 07:30:01 odyssey systemd: Starting Session 1690 of user achille.
+Mar 20 07:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 07:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 07:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 07:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 07:40:01 odyssey systemd: Started Session 1691 of user achille.
+Mar 20 07:40:01 odyssey systemd: Starting Session 1691 of user achille.
+Mar 20 07:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 07:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 07:42:37 odyssey systemd-logind: New session 1692 of user ares.
+Mar 20 07:42:37 odyssey systemd: Started Session 1692 of user ares.
+Mar 20 07:42:37 odyssey systemd: Starting Session 1692 of user ares.
+Mar 20 07:42:37 odyssey dbus-daemon: dbus[810]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 20 07:42:37 odyssey dbus[810]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 20 07:42:37 odyssey dbus[810]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 20 07:42:37 odyssey dbus-daemon: dbus[810]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 20 07:46:15 odyssey python: detected unhandled Python exception in 'reconstruct_bb.py'
+Mar 20 07:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 07:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 07:50:01 odyssey systemd: Started Session 1693 of user achille.
+Mar 20 07:50:01 odyssey systemd: Starting Session 1693 of user achille.
+Mar 20 07:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 07:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 07:51:31 odyssey chronyd[834]: Source 199.182.221.110 replaced with 159.203.31.244
+Mar 20 08:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 08:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 08:00:01 odyssey systemd: Started Session 1694 of user achille.
+Mar 20 08:00:01 odyssey systemd: Starting Session 1694 of user achille.
+Mar 20 08:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 08:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 08:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 08:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 08:01:01 odyssey systemd: Started Session 1695 of user achille.
+Mar 20 08:01:01 odyssey systemd: Starting Session 1695 of user achille.
+Mar 20 08:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 08:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 08:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 08:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 08:10:01 odyssey systemd: Started Session 1696 of user achille.
+Mar 20 08:10:01 odyssey systemd: Starting Session 1696 of user achille.
+Mar 20 08:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 08:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 08:20:02 odyssey systemd: Created slice user-0.slice.
+Mar 20 08:20:02 odyssey systemd: Starting user-0.slice.
+Mar 20 08:20:02 odyssey systemd: Started Session 1697 of user achille.
+Mar 20 08:20:02 odyssey systemd: Starting Session 1697 of user achille.
+Mar 20 08:20:02 odyssey systemd: Removed slice user-0.slice.
+Mar 20 08:20:02 odyssey systemd: Stopping user-0.slice.
+Mar 20 08:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 08:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 08:30:01 odyssey systemd: Started Session 1698 of user achille.
+Mar 20 08:30:01 odyssey systemd: Starting Session 1698 of user achille.
+Mar 20 08:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 08:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 08:31:58 odyssey chronyd[834]: Source 192.95.27.155 replaced with 129.128.12.20
+Mar 20 08:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 08:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 08:40:01 odyssey systemd: Started Session 1699 of user achille.
+Mar 20 08:40:01 odyssey systemd: Starting Session 1699 of user achille.
+Mar 20 08:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 08:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 08:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 08:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 08:50:01 odyssey systemd: Started Session 1700 of user achille.
+Mar 20 08:50:01 odyssey systemd: Starting Session 1700 of user achille.
+Mar 20 08:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 08:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 09:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 09:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 09:00:01 odyssey systemd: Started Session 1701 of user achille.
+Mar 20 09:00:01 odyssey systemd: Starting Session 1701 of user achille.
+Mar 20 09:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 09:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 09:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 09:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 09:01:01 odyssey systemd: Started Session 1702 of user achille.
+Mar 20 09:01:01 odyssey systemd: Starting Session 1702 of user achille.
+Mar 20 09:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 09:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 09:05:34 odyssey chronyd[834]: Source 206.186.121.125 replaced with 208.80.96.96
+Mar 20 09:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 09:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 09:10:01 odyssey systemd: Started Session 1703 of user achille.
+Mar 20 09:10:01 odyssey systemd: Starting Session 1703 of user achille.
+Mar 20 09:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 09:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 09:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 09:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 09:20:01 odyssey systemd: Started Session 1704 of user achille.
+Mar 20 09:20:01 odyssey systemd: Starting Session 1704 of user achille.
+Mar 20 09:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 09:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 09:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 09:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 09:30:01 odyssey systemd: Started Session 1705 of user achille.
+Mar 20 09:30:01 odyssey systemd: Starting Session 1705 of user achille.
+Mar 20 09:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 09:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 09:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 09:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 09:40:01 odyssey systemd: Started Session 1706 of user achille.
+Mar 20 09:40:01 odyssey systemd: Starting Session 1706 of user achille.
+Mar 20 09:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 09:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 09:49:43 odyssey chronyd[834]: Source 70.79.92.55 replaced with 208.81.1.244
+Mar 20 09:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 09:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 09:50:01 odyssey systemd: Started Session 1707 of user achille.
+Mar 20 09:50:01 odyssey systemd: Starting Session 1707 of user achille.
+Mar 20 09:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 09:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 10:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 10:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 10:00:01 odyssey systemd: Started Session 1708 of user achille.
+Mar 20 10:00:01 odyssey systemd: Starting Session 1708 of user achille.
+Mar 20 10:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 10:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 10:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 10:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 10:01:01 odyssey systemd: Started Session 1709 of user achille.
+Mar 20 10:01:01 odyssey systemd: Starting Session 1709 of user achille.
+Mar 20 10:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 10:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 10:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 10:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 10:10:01 odyssey systemd: Started Session 1710 of user achille.
+Mar 20 10:10:01 odyssey systemd: Starting Session 1710 of user achille.
+Mar 20 10:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 10:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 10:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 10:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 10:20:01 odyssey systemd: Started Session 1711 of user achille.
+Mar 20 10:20:01 odyssey systemd: Starting Session 1711 of user achille.
+Mar 20 10:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 10:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 10:25:56 odyssey chronyd[834]: Source 159.203.31.244 replaced with 192.99.34.87
+Mar 20 10:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 10:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 10:30:01 odyssey systemd: Started Session 1712 of user achille.
+Mar 20 10:30:01 odyssey systemd: Starting Session 1712 of user achille.
+Mar 20 10:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 10:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 10:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 10:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 10:40:01 odyssey systemd: Started Session 1713 of user achille.
+Mar 20 10:40:01 odyssey systemd: Starting Session 1713 of user achille.
+Mar 20 10:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 10:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 10:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 10:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 10:50:01 odyssey systemd: Started Session 1714 of user achille.
+Mar 20 10:50:01 odyssey systemd: Starting Session 1714 of user achille.
+Mar 20 10:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 10:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 10:58:53 odyssey systemd: Created slice user-0.slice.
+Mar 20 10:58:53 odyssey systemd: Starting user-0.slice.
+Mar 20 10:58:53 odyssey systemd-logind: New session 1715 of user achille.
+Mar 20 10:58:53 odyssey systemd: Started Session 1715 of user achille.
+Mar 20 10:58:53 odyssey systemd: Starting Session 1715 of user achille.
+Mar 20 10:58:53 odyssey systemd-logind: Removed session 1715.
+Mar 20 10:58:53 odyssey systemd: Removed slice user-0.slice.
+Mar 20 10:58:53 odyssey systemd: Stopping user-0.slice.
+Mar 20 10:58:53 odyssey systemd: Created slice user-0.slice.
+Mar 20 10:58:53 odyssey systemd: Starting user-0.slice.
+Mar 20 10:58:53 odyssey systemd-logind: New session 1716 of user achille.
+Mar 20 10:58:53 odyssey systemd: Started Session 1716 of user achille.
+Mar 20 10:58:53 odyssey systemd: Starting Session 1716 of user achille.
+Mar 20 10:58:53 odyssey systemd-logind: Removed session 1716.
+Mar 20 10:58:53 odyssey systemd: Removed slice user-0.slice.
+Mar 20 10:58:53 odyssey systemd: Stopping user-0.slice.
+Mar 20 10:58:53 odyssey systemd: Created slice user-0.slice.
+Mar 20 10:58:53 odyssey systemd: Starting user-0.slice.
+Mar 20 10:58:53 odyssey systemd-logind: New session 1717 of user achille.
+Mar 20 10:58:53 odyssey systemd: Started Session 1717 of user achille.
+Mar 20 10:58:53 odyssey systemd: Starting Session 1717 of user achille.
+Mar 20 10:58:53 odyssey systemd-logind: New session 1718 of user achille.
+Mar 20 10:58:53 odyssey systemd: Started Session 1718 of user achille.
+Mar 20 10:58:53 odyssey systemd: Starting Session 1718 of user achille.
+Mar 20 11:00:01 odyssey systemd: Started Session 1719 of user achille.
+Mar 20 11:00:01 odyssey systemd: Starting Session 1719 of user achille.
+Mar 20 11:00:59 odyssey dhclient[1273]: DHCPREQUEST on enp0s31f6 to 132.205.96.229 port 67 (xid=0x6a7e10e3)
+Mar 20 11:00:59 odyssey dhclient[1273]: DHCPACK from 132.205.96.229 (xid=0x6a7e10e3)
+Mar 20 11:00:59 odyssey NetworkManager[955]: <info>    address 123.32.18.31
+Mar 20 11:00:59 odyssey NetworkManager[955]: <info>    plen 24 (255.255.255.0)
+Mar 20 11:00:59 odyssey NetworkManager[955]: <info>    gateway 123.32.18.1
+Mar 20 11:00:59 odyssey NetworkManager[955]: <info>    server identifier 132.205.96.229
+Mar 20 11:00:59 odyssey NetworkManager[955]: <info>    lease time 43200
+Mar 20 11:00:59 odyssey NetworkManager[955]: <info>    hostname 'odyssey.encs.concordia.ca'
+Mar 20 11:00:59 odyssey NetworkManager[955]: <info>    nameserver '132.205.96.93'
+Mar 20 11:00:59 odyssey NetworkManager[955]: <info>    nameserver '132.205.96.94'
+Mar 20 11:00:59 odyssey NetworkManager[955]: <info>    domain name 'encs.concordia.ca'
+Mar 20 11:00:59 odyssey dhclient[1273]: bound to 123.32.18.31 -- renewal in 18545 seconds.
+Mar 20 11:00:59 odyssey NetworkManager[955]: <info>    domain name 'concordia.ca'
+Mar 20 11:00:59 odyssey NetworkManager[955]: <info>    domain search 'encs.concordia.ca.'
+Mar 20 11:00:59 odyssey NetworkManager[955]: <info>    domain search 'concordia.ca.'
+Mar 20 11:00:59 odyssey NetworkManager[955]: <info>  (enp0s31f6): DHCPv4 state changed bound -> bound
+Mar 20 11:00:59 odyssey dbus-daemon: dbus[810]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 11:00:59 odyssey dbus[810]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 11:00:59 odyssey systemd: Starting Network Manager Script Dispatcher Service...
+Mar 20 11:00:59 odyssey dbus[810]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 11:00:59 odyssey systemd: Started Network Manager Script Dispatcher Service.
+Mar 20 11:00:59 odyssey dbus-daemon: dbus[810]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 11:00:59 odyssey nm-dispatcher: Dispatching action 'dhcp4-change' for enp0s31f6
+Mar 20 11:01:01 odyssey systemd: Started Session 1720 of user achille.
+Mar 20 11:01:01 odyssey systemd: Starting Session 1720 of user achille.
+Mar 20 11:01:20 odyssey systemd-logind: Removed session 1718.
+Mar 20 11:01:20 odyssey systemd-logind: New session 1721 of user achille.
+Mar 20 11:01:20 odyssey systemd: Started Session 1721 of user achille.
+Mar 20 11:01:20 odyssey systemd: Starting Session 1721 of user achille.
+Mar 20 11:01:30 odyssey systemd-logind: Removed session 1721.
+Mar 20 11:01:30 odyssey systemd-logind: New session 1722 of user achille.
+Mar 20 11:01:30 odyssey systemd: Started Session 1722 of user achille.
+Mar 20 11:01:30 odyssey systemd: Starting Session 1722 of user achille.
+Mar 20 11:02:03 odyssey systemd-logind: Removed session 1722.
+Mar 20 11:02:03 odyssey systemd-logind: New session 1723 of user achille.
+Mar 20 11:02:03 odyssey systemd: Started Session 1723 of user achille.
+Mar 20 11:02:03 odyssey systemd: Starting Session 1723 of user achille.
+Mar 20 11:02:24 odyssey systemd-logind: Removed session 1723.
+Mar 20 11:02:26 odyssey systemd-logind: Removed session 1717.
+Mar 20 11:02:26 odyssey systemd: Removed slice user-0.slice.
+Mar 20 11:02:26 odyssey systemd: Stopping user-0.slice.
+Mar 20 11:06:48 odyssey chronyd[834]: Source 129.128.12.20 replaced with 128.100.100.128
+Mar 20 11:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 11:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 11:10:01 odyssey systemd: Started Session 1724 of user achille.
+Mar 20 11:10:01 odyssey systemd: Starting Session 1724 of user achille.
+Mar 20 11:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 11:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 11:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 11:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 11:20:01 odyssey systemd: Started Session 1725 of user achille.
+Mar 20 11:20:01 odyssey systemd: Starting Session 1725 of user achille.
+Mar 20 11:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 11:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 11:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 11:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 11:30:01 odyssey systemd: Started Session 1726 of user achille.
+Mar 20 11:30:01 odyssey systemd: Starting Session 1726 of user achille.
+Mar 20 11:30:02 odyssey systemd: Removed slice user-0.slice.
+Mar 20 11:30:02 odyssey systemd: Stopping user-0.slice.
+Mar 20 11:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 11:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 11:40:01 odyssey systemd: Started Session 1727 of user achille.
+Mar 20 11:40:01 odyssey systemd: Starting Session 1727 of user achille.
+Mar 20 11:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 11:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 11:40:53 odyssey chronyd[834]: Source 208.80.96.96 replaced with 184.71.200.50
+Mar 20 11:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 11:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 11:50:01 odyssey systemd: Started Session 1728 of user achille.
+Mar 20 11:50:01 odyssey systemd: Starting Session 1728 of user achille.
+Mar 20 11:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 11:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 12:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 12:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 12:00:01 odyssey systemd: Started Session 1729 of user achille.
+Mar 20 12:00:01 odyssey systemd: Starting Session 1729 of user achille.
+Mar 20 12:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 12:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 12:00:24 odyssey firefox.desktop: 1490025624971#011addons.update-checker#011WARN#011Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Mar 20 12:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 12:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 12:01:01 odyssey systemd: Started Session 1730 of user achille.
+Mar 20 12:01:01 odyssey systemd: Starting Session 1730 of user achille.
+Mar 20 12:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 12:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 12:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 12:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 12:10:01 odyssey systemd: Started Session 1731 of user achille.
+Mar 20 12:10:01 odyssey systemd: Starting Session 1731 of user achille.
+Mar 20 12:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 12:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 12:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 12:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 12:20:01 odyssey systemd: Started Session 1732 of user achille.
+Mar 20 12:20:01 odyssey systemd: Starting Session 1732 of user achille.
+Mar 20 12:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 12:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 12:24:15 odyssey chronyd[834]: Source 208.81.1.244 replaced with 67.215.197.149
+Mar 20 12:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 12:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 12:30:01 odyssey systemd: Started Session 1733 of user achille.
+Mar 20 12:30:01 odyssey systemd: Starting Session 1733 of user achille.
+Mar 20 12:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 12:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 12:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 12:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 12:40:01 odyssey systemd: Started Session 1734 of user achille.
+Mar 20 12:40:01 odyssey systemd: Starting Session 1734 of user achille.
+Mar 20 12:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 12:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 12:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 12:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 12:50:01 odyssey systemd: Started Session 1735 of user achille.
+Mar 20 12:50:01 odyssey systemd: Starting Session 1735 of user achille.
+Mar 20 12:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 12:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 13:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 13:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 13:00:01 odyssey systemd: Started Session 1736 of user achille.
+Mar 20 13:00:01 odyssey systemd: Starting Session 1736 of user achille.
+Mar 20 13:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 13:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 13:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 13:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 13:01:01 odyssey systemd: Started Session 1737 of user achille.
+Mar 20 13:01:01 odyssey systemd: Starting Session 1737 of user achille.
+Mar 20 13:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 13:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 13:01:35 odyssey chronyd[834]: Source 192.99.34.87 replaced with 69.165.222.176
+Mar 20 13:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 13:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 13:10:01 odyssey systemd: Started Session 1738 of user achille.
+Mar 20 13:10:01 odyssey systemd: Starting Session 1738 of user achille.
+Mar 20 13:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 13:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 13:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 13:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 13:20:01 odyssey systemd: Started Session 1739 of user achille.
+Mar 20 13:20:01 odyssey systemd: Starting Session 1739 of user achille.
+Mar 20 13:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 13:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 13:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 13:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 13:30:01 odyssey systemd: Started Session 1740 of user achille.
+Mar 20 13:30:01 odyssey systemd: Starting Session 1740 of user achille.
+Mar 20 13:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 13:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 13:39:25 odyssey systemd: Starting Cleanup of Temporary Directories...
+Mar 20 13:39:25 odyssey systemd: Started Cleanup of Temporary Directories.
+Mar 20 13:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 13:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 13:40:01 odyssey systemd: Started Session 1741 of user achille.
+Mar 20 13:40:01 odyssey systemd: Starting Session 1741 of user achille.
+Mar 20 13:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 13:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 13:41:51 odyssey chronyd[834]: Source 128.100.100.128 replaced with 129.128.12.20
+Mar 20 13:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 13:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 13:50:01 odyssey systemd: Started Session 1742 of user achille.
+Mar 20 13:50:01 odyssey systemd: Starting Session 1742 of user achille.
+Mar 20 13:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 13:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 14:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 14:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 14:00:01 odyssey systemd: Started Session 1743 of user achille.
+Mar 20 14:00:01 odyssey systemd: Starting Session 1743 of user achille.
+Mar 20 14:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 14:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 14:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 14:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 14:01:01 odyssey systemd: Started Session 1744 of user achille.
+Mar 20 14:01:01 odyssey systemd: Starting Session 1744 of user achille.
+Mar 20 14:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 14:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 14:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 14:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 14:10:01 odyssey systemd: Started Session 1745 of user achille.
+Mar 20 14:10:01 odyssey systemd: Starting Session 1745 of user achille.
+Mar 20 14:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 14:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 14:16:23 odyssey chronyd[834]: Source 184.71.200.50 replaced with 208.81.1.244
+Mar 20 14:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 14:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 14:20:01 odyssey systemd: Started Session 1746 of user achille.
+Mar 20 14:20:01 odyssey systemd: Starting Session 1746 of user achille.
+Mar 20 14:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 14:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 14:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 14:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 14:30:01 odyssey systemd: Started Session 1747 of user achille.
+Mar 20 14:30:01 odyssey systemd: Starting Session 1747 of user achille.
+Mar 20 14:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 14:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 14:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 14:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 14:40:01 odyssey systemd: Started Session 1748 of user achille.
+Mar 20 14:40:01 odyssey systemd: Starting Session 1748 of user achille.
+Mar 20 14:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 14:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 14:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 14:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 14:50:02 odyssey systemd: Started Session 1749 of user achille.
+Mar 20 14:50:02 odyssey systemd: Starting Session 1749 of user achille.
+Mar 20 14:50:02 odyssey systemd: Removed slice user-0.slice.
+Mar 20 14:50:02 odyssey systemd: Stopping user-0.slice.
+Mar 20 14:59:34 odyssey chronyd[834]: Source 67.215.197.149 replaced with 144.217.242.53
+Mar 20 15:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 15:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 15:00:01 odyssey systemd: Started Session 1750 of user achille.
+Mar 20 15:00:01 odyssey systemd: Starting Session 1750 of user achille.
+Mar 20 15:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 15:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 15:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 15:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 15:01:01 odyssey systemd: Started Session 1751 of user achille.
+Mar 20 15:01:01 odyssey systemd: Starting Session 1751 of user achille.
+Mar 20 15:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 15:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 15:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 15:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 15:10:01 odyssey systemd: Started Session 1752 of user achille.
+Mar 20 15:10:01 odyssey systemd: Starting Session 1752 of user achille.
+Mar 20 15:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 15:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 15:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 15:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 15:20:01 odyssey systemd: Started Session 1753 of user achille.
+Mar 20 15:20:01 odyssey systemd: Starting Session 1753 of user achille.
+Mar 20 15:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 15:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 15:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 15:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 15:30:01 odyssey systemd: Started Session 1754 of user achille.
+Mar 20 15:30:01 odyssey systemd: Starting Session 1754 of user achille.
+Mar 20 15:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 15:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 15:36:40 odyssey chronyd[834]: Source 69.165.222.176 replaced with 96.23.156.218
+Mar 20 15:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 15:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 15:40:01 odyssey systemd: Started Session 1755 of user achille.
+Mar 20 15:40:01 odyssey systemd: Starting Session 1755 of user achille.
+Mar 20 15:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 15:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 15:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 15:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 15:50:01 odyssey systemd: Started Session 1756 of user achille.
+Mar 20 15:50:01 odyssey systemd: Starting Session 1756 of user achille.
+Mar 20 15:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 15:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 16:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 16:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 16:00:01 odyssey systemd: Started Session 1757 of user achille.
+Mar 20 16:00:01 odyssey systemd: Starting Session 1757 of user achille.
+Mar 20 16:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 16:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 16:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 16:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 16:01:01 odyssey systemd: Started Session 1758 of user achille.
+Mar 20 16:01:01 odyssey systemd: Starting Session 1758 of user achille.
+Mar 20 16:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 16:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 16:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 16:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 16:10:01 odyssey systemd: Started Session 1759 of user achille.
+Mar 20 16:10:01 odyssey systemd: Starting Session 1759 of user achille.
+Mar 20 16:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 16:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 16:10:04 odyssey dhclient[1273]: DHCPREQUEST on enp0s31f6 to 132.205.96.229 port 67 (xid=0x6a7e10e3)
+Mar 20 16:10:04 odyssey dhclient[1273]: DHCPACK from 132.205.96.229 (xid=0x6a7e10e3)
+Mar 20 16:10:04 odyssey NetworkManager[955]: <info>    address 123.32.18.31
+Mar 20 16:10:04 odyssey dhclient[1273]: bound to 123.32.18.31 -- renewal in 16435 seconds.
+Mar 20 16:10:04 odyssey NetworkManager[955]: <info>    plen 24 (255.255.255.0)
+Mar 20 16:10:04 odyssey NetworkManager[955]: <info>    gateway 123.32.18.1
+Mar 20 16:10:04 odyssey NetworkManager[955]: <info>    server identifier 132.205.96.229
+Mar 20 16:10:04 odyssey NetworkManager[955]: <info>    lease time 43200
+Mar 20 16:10:04 odyssey NetworkManager[955]: <info>    hostname 'odyssey.encs.concordia.ca'
+Mar 20 16:10:04 odyssey NetworkManager[955]: <info>    nameserver '132.205.96.93'
+Mar 20 16:10:04 odyssey NetworkManager[955]: <info>    nameserver '132.205.96.94'
+Mar 20 16:10:04 odyssey NetworkManager[955]: <info>    domain name 'encs.concordia.ca'
+Mar 20 16:10:04 odyssey NetworkManager[955]: <info>    domain name 'concordia.ca'
+Mar 20 16:10:04 odyssey NetworkManager[955]: <info>    domain search 'encs.concordia.ca.'
+Mar 20 16:10:04 odyssey NetworkManager[955]: <info>    domain search 'concordia.ca.'
+Mar 20 16:10:04 odyssey NetworkManager[955]: <info>  (enp0s31f6): DHCPv4 state changed bound -> bound
+Mar 20 16:10:04 odyssey dbus-daemon: dbus[810]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 16:10:04 odyssey dbus[810]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 16:10:04 odyssey systemd: Starting Network Manager Script Dispatcher Service...
+Mar 20 16:10:04 odyssey dbus[810]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 16:10:04 odyssey systemd: Started Network Manager Script Dispatcher Service.
+Mar 20 16:10:04 odyssey dbus-daemon: dbus[810]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 16:10:04 odyssey nm-dispatcher: Dispatching action 'dhcp4-change' for enp0s31f6
+Mar 20 16:17:19 odyssey chronyd[834]: Source 129.128.12.20 replaced with 69.87.223.252
+Mar 20 16:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 16:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 16:20:01 odyssey systemd: Started Session 1760 of user achille.
+Mar 20 16:20:01 odyssey systemd: Starting Session 1760 of user achille.
+Mar 20 16:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 16:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 16:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 16:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 16:30:01 odyssey systemd: Started Session 1761 of user achille.
+Mar 20 16:30:01 odyssey systemd: Starting Session 1761 of user achille.
+Mar 20 16:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 16:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 16:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 16:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 16:40:01 odyssey systemd: Started Session 1762 of user achille.
+Mar 20 16:40:01 odyssey systemd: Starting Session 1762 of user achille.
+Mar 20 16:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 16:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 16:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 16:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 16:50:01 odyssey systemd: Started Session 1763 of user achille.
+Mar 20 16:50:01 odyssey systemd: Starting Session 1763 of user achille.
+Mar 20 16:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 16:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 16:51:54 odyssey chronyd[834]: Source 208.81.1.244 replaced with 129.128.12.20
+Mar 20 17:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 17:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 17:00:01 odyssey systemd: Started Session 1764 of user achille.
+Mar 20 17:00:01 odyssey systemd: Starting Session 1764 of user achille.
+Mar 20 17:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 17:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 17:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 17:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 17:01:01 odyssey systemd: Started Session 1765 of user achille.
+Mar 20 17:01:01 odyssey systemd: Starting Session 1765 of user achille.
+Mar 20 17:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 17:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 17:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 17:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 17:10:01 odyssey systemd: Started Session 1766 of user achille.
+Mar 20 17:10:01 odyssey systemd: Starting Session 1766 of user achille.
+Mar 20 17:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 17:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 17:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 17:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 17:20:01 odyssey systemd: Started Session 1767 of user achille.
+Mar 20 17:20:01 odyssey systemd: Starting Session 1767 of user achille.
+Mar 20 17:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 17:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 17:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 17:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 17:30:01 odyssey systemd: Started Session 1768 of user achille.
+Mar 20 17:30:01 odyssey systemd: Starting Session 1768 of user achille.
+Mar 20 17:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 17:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 17:34:49 odyssey chronyd[834]: Source 144.217.242.53 replaced with 70.79.92.55
+Mar 20 17:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 17:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 17:40:01 odyssey systemd: Started Session 1769 of user achille.
+Mar 20 17:40:01 odyssey systemd: Starting Session 1769 of user achille.
+Mar 20 17:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 17:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 17:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 17:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 17:50:01 odyssey systemd: Started Session 1770 of user achille.
+Mar 20 17:50:01 odyssey systemd: Starting Session 1770 of user achille.
+Mar 20 17:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 17:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 18:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 18:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 18:00:01 odyssey systemd: Started Session 1771 of user achille.
+Mar 20 18:00:01 odyssey systemd: Starting Session 1771 of user achille.
+Mar 20 18:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 18:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 18:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 18:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 18:01:01 odyssey systemd: Started Session 1772 of user achille.
+Mar 20 18:01:01 odyssey systemd: Starting Session 1772 of user achille.
+Mar 20 18:01:02 odyssey systemd: Removed slice user-0.slice.
+Mar 20 18:01:02 odyssey systemd: Stopping user-0.slice.
+Mar 20 18:06:35 odyssey systemd-logind: New session 1773 of user ares.
+Mar 20 18:06:35 odyssey systemd: Started Session 1773 of user ares.
+Mar 20 18:06:35 odyssey systemd: Starting Session 1773 of user ares.
+Mar 20 18:06:35 odyssey dbus-daemon: dbus[810]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 20 18:06:35 odyssey dbus[810]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 20 18:06:35 odyssey dbus[810]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 20 18:06:35 odyssey dbus-daemon: dbus[810]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 20 18:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 18:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 18:10:01 odyssey systemd: Started Session 1774 of user achille.
+Mar 20 18:10:01 odyssey systemd: Starting Session 1774 of user achille.
+Mar 20 18:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 18:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 18:12:05 odyssey chronyd[834]: Source 96.23.156.218 replaced with 47.54.236.184
+Mar 20 18:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 18:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 18:20:01 odyssey systemd: Started Session 1775 of user achille.
+Mar 20 18:20:01 odyssey systemd: Starting Session 1775 of user achille.
+Mar 20 18:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 18:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 18:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 18:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 18:30:01 odyssey systemd: Started Session 1776 of user achille.
+Mar 20 18:30:01 odyssey systemd: Starting Session 1776 of user achille.
+Mar 20 18:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 18:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 18:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 18:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 18:40:01 odyssey systemd: Started Session 1777 of user achille.
+Mar 20 18:40:01 odyssey systemd: Starting Session 1777 of user achille.
+Mar 20 18:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 18:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 18:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 18:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 18:50:01 odyssey systemd: Started Session 1778 of user achille.
+Mar 20 18:50:01 odyssey systemd: Starting Session 1778 of user achille.
+Mar 20 18:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 18:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 18:52:25 odyssey chronyd[834]: Source 69.87.223.252 replaced with 198.50.135.212
+Mar 20 19:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 19:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 19:00:01 odyssey systemd: Started Session 1779 of user achille.
+Mar 20 19:00:01 odyssey systemd: Starting Session 1779 of user achille.
+Mar 20 19:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 19:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 19:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 19:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 19:01:01 odyssey systemd: Started Session 1780 of user achille.
+Mar 20 19:01:01 odyssey systemd: Starting Session 1780 of user achille.
+Mar 20 19:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 19:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 19:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 19:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 19:10:01 odyssey systemd: Started Session 1781 of user achille.
+Mar 20 19:10:01 odyssey systemd: Starting Session 1781 of user achille.
+Mar 20 19:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 19:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 19:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 19:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 19:20:01 odyssey systemd: Started Session 1782 of user achille.
+Mar 20 19:20:01 odyssey systemd: Starting Session 1782 of user achille.
+Mar 20 19:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 19:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 19:26:24 odyssey chronyd[834]: Source 129.128.12.20 replaced with 158.69.223.100
+Mar 20 19:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 19:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 19:30:01 odyssey systemd: Started Session 1783 of user achille.
+Mar 20 19:30:01 odyssey systemd: Starting Session 1783 of user achille.
+Mar 20 19:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 19:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 19:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 19:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 19:40:01 odyssey systemd: Started Session 1784 of user achille.
+Mar 20 19:40:01 odyssey systemd: Starting Session 1784 of user achille.
+Mar 20 19:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 19:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 19:43:00 odyssey python: detected unhandled Python exception in 'reconstruct_bb.py'
+Mar 20 19:44:45 odyssey python: detected unhandled Python exception in 'reconstruct_bb.py'
+Mar 20 19:45:24 odyssey python: detected unhandled Python exception in 'reconstruct_bb.py'
+Mar 20 19:45:46 odyssey python: detected unhandled Python exception in 'reconstruct_bb.py'
+Mar 20 19:46:28 odyssey python: detected unhandled Python exception in 'reconstruct_bb.py'
+Mar 20 19:48:14 odyssey python: detected unhandled Python exception in 'reconstruct_bb.py'
+Mar 20 19:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 19:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 19:50:01 odyssey systemd: Started Session 1785 of user achille.
+Mar 20 19:50:01 odyssey systemd: Starting Session 1785 of user achille.
+Mar 20 19:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 19:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 20:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 20:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 20:00:01 odyssey systemd: Started Session 1786 of user achille.
+Mar 20 20:00:01 odyssey systemd: Starting Session 1786 of user achille.
+Mar 20 20:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 20:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 20:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 20:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 20:01:01 odyssey systemd: Started Session 1787 of user achille.
+Mar 20 20:01:01 odyssey systemd: Starting Session 1787 of user achille.
+Mar 20 20:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 20:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 20:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 20:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 20:10:01 odyssey systemd: Started Session 1788 of user achille.
+Mar 20 20:10:01 odyssey systemd: Starting Session 1788 of user achille.
+Mar 20 20:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 20:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 20:10:12 odyssey chronyd[834]: Source 70.79.92.55 replaced with 174.142.39.145
+Mar 20 20:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 20:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 20:20:01 odyssey systemd: Started Session 1789 of user achille.
+Mar 20 20:20:01 odyssey systemd: Starting Session 1789 of user achille.
+Mar 20 20:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 20:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 20:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 20:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 20:30:01 odyssey systemd: Started Session 1790 of user achille.
+Mar 20 20:30:01 odyssey systemd: Starting Session 1790 of user achille.
+Mar 20 20:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 20:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 20:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 20:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 20:40:01 odyssey systemd: Started Session 1791 of user achille.
+Mar 20 20:40:01 odyssey systemd: Starting Session 1791 of user achille.
+Mar 20 20:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 20:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 20:43:59 odyssey dhclient[1273]: DHCPREQUEST on enp0s31f6 to 132.205.96.229 port 67 (xid=0x6a7e10e3)
+Mar 20 20:43:59 odyssey dhclient[1273]: DHCPACK from 132.205.96.229 (xid=0x6a7e10e3)
+Mar 20 20:43:59 odyssey NetworkManager[955]: <info>    address 123.32.18.31
+Mar 20 20:43:59 odyssey dhclient[1273]: bound to 123.32.18.31 -- renewal in 21057 seconds.
+Mar 20 20:43:59 odyssey NetworkManager[955]: <info>    plen 24 (255.255.255.0)
+Mar 20 20:43:59 odyssey NetworkManager[955]: <info>    gateway 123.32.18.1
+Mar 20 20:43:59 odyssey NetworkManager[955]: <info>    server identifier 132.205.96.229
+Mar 20 20:43:59 odyssey NetworkManager[955]: <info>    lease time 43200
+Mar 20 20:43:59 odyssey NetworkManager[955]: <info>    hostname 'odyssey.encs.concordia.ca'
+Mar 20 20:43:59 odyssey NetworkManager[955]: <info>    nameserver '132.205.96.93'
+Mar 20 20:43:59 odyssey NetworkManager[955]: <info>    nameserver '132.205.96.94'
+Mar 20 20:43:59 odyssey NetworkManager[955]: <info>    domain name 'encs.concordia.ca'
+Mar 20 20:43:59 odyssey NetworkManager[955]: <info>    domain name 'concordia.ca'
+Mar 20 20:43:59 odyssey NetworkManager[955]: <info>    domain search 'encs.concordia.ca.'
+Mar 20 20:43:59 odyssey NetworkManager[955]: <info>    domain search 'concordia.ca.'
+Mar 20 20:43:59 odyssey NetworkManager[955]: <info>  (enp0s31f6): DHCPv4 state changed bound -> bound
+Mar 20 20:43:59 odyssey dbus-daemon: dbus[810]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 20:43:59 odyssey dbus[810]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 20 20:43:59 odyssey systemd: Starting Network Manager Script Dispatcher Service...
+Mar 20 20:43:59 odyssey dbus[810]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 20:43:59 odyssey systemd: Started Network Manager Script Dispatcher Service.
+Mar 20 20:43:59 odyssey dbus-daemon: dbus[810]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 20 20:43:59 odyssey nm-dispatcher: Dispatching action 'dhcp4-change' for enp0s31f6
+Mar 20 20:46:58 odyssey chronyd[834]: Source 47.54.236.184 replaced with 208.81.1.244
+Mar 20 20:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 20:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 20:50:01 odyssey systemd: Started Session 1792 of user achille.
+Mar 20 20:50:01 odyssey systemd: Starting Session 1792 of user achille.
+Mar 20 20:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 20:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 21:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 21:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 21:00:01 odyssey systemd: Started Session 1793 of user achille.
+Mar 20 21:00:01 odyssey systemd: Starting Session 1793 of user achille.
+Mar 20 21:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 21:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 21:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 21:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 21:01:01 odyssey systemd: Started Session 1794 of user achille.
+Mar 20 21:01:01 odyssey systemd: Starting Session 1794 of user achille.
+Mar 20 21:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 21:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 21:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 21:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 21:10:01 odyssey systemd: Started Session 1795 of user achille.
+Mar 20 21:10:01 odyssey systemd: Starting Session 1795 of user achille.
+Mar 20 21:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 21:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 21:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 21:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 21:20:01 odyssey systemd: Started Session 1796 of user achille.
+Mar 20 21:20:01 odyssey systemd: Starting Session 1796 of user achille.
+Mar 20 21:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 21:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 21:27:44 odyssey chronyd[834]: Source 198.50.135.212 replaced with 67.230.163.10
+Mar 20 21:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 21:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 21:30:01 odyssey systemd: Started Session 1797 of user achille.
+Mar 20 21:30:01 odyssey systemd: Starting Session 1797 of user achille.
+Mar 20 21:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 21:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 21:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 21:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 21:40:01 odyssey systemd: Started Session 1798 of user achille.
+Mar 20 21:40:01 odyssey systemd: Starting Session 1798 of user achille.
+Mar 20 21:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 21:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 21:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 21:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 21:50:01 odyssey systemd: Started Session 1799 of user achille.
+Mar 20 21:50:01 odyssey systemd: Starting Session 1799 of user achille.
+Mar 20 21:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 21:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 22:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 22:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 22:00:01 odyssey systemd: Started Session 1800 of user achille.
+Mar 20 22:00:01 odyssey systemd: Starting Session 1800 of user achille.
+Mar 20 22:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 22:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 22:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 22:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 22:01:01 odyssey systemd: Started Session 1801 of user achille.
+Mar 20 22:01:01 odyssey systemd: Starting Session 1801 of user achille.
+Mar 20 22:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 22:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 22:01:16 odyssey chronyd[834]: Source 158.69.223.100 replaced with 70.79.92.55
+Mar 20 22:09:35 odyssey systemd-logind: Removed session 1773.
+Mar 20 22:09:37 odyssey systemd-logind: Removed session 1692.
+Mar 20 22:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 22:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 22:10:02 odyssey systemd: Started Session 1802 of user achille.
+Mar 20 22:10:02 odyssey systemd: Starting Session 1802 of user achille.
+Mar 20 22:10:02 odyssey systemd: Removed slice user-0.slice.
+Mar 20 22:10:02 odyssey systemd: Stopping user-0.slice.
+Mar 20 22:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 22:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 22:20:01 odyssey systemd: Started Session 1803 of user achille.
+Mar 20 22:20:01 odyssey systemd: Starting Session 1803 of user achille.
+Mar 20 22:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 22:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 22:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 22:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 22:30:01 odyssey systemd: Started Session 1804 of user achille.
+Mar 20 22:30:01 odyssey systemd: Starting Session 1804 of user achille.
+Mar 20 22:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 22:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 22:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 22:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 22:40:01 odyssey systemd: Started Session 1805 of user achille.
+Mar 20 22:40:01 odyssey systemd: Starting Session 1805 of user achille.
+Mar 20 22:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 22:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 22:45:25 odyssey chronyd[834]: Source 174.142.39.145 replaced with 144.217.242.53
+Mar 20 22:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 22:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 22:50:01 odyssey systemd: Started Session 1806 of user achille.
+Mar 20 22:50:01 odyssey systemd: Starting Session 1806 of user achille.
+Mar 20 22:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 22:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 23:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 23:00:01 odyssey systemd: Starting user-0.slice.
+Mar 20 23:00:01 odyssey systemd: Started Session 1807 of user achille.
+Mar 20 23:00:01 odyssey systemd: Starting Session 1807 of user achille.
+Mar 20 23:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 23:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 23:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 23:01:01 odyssey systemd: Starting user-0.slice.
+Mar 20 23:01:01 odyssey systemd: Started Session 1808 of user achille.
+Mar 20 23:01:01 odyssey systemd: Starting Session 1808 of user achille.
+Mar 20 23:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 23:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 23:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 23:10:01 odyssey systemd: Starting user-0.slice.
+Mar 20 23:10:01 odyssey systemd: Started Session 1809 of user achille.
+Mar 20 23:10:01 odyssey systemd: Starting Session 1809 of user achille.
+Mar 20 23:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 23:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 23:12:56 odyssey chronyd[834]: Selected source 132.205.96.93
+Mar 20 23:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 23:20:01 odyssey systemd: Starting user-0.slice.
+Mar 20 23:20:01 odyssey systemd: Started Session 1810 of user achille.
+Mar 20 23:20:01 odyssey systemd: Starting Session 1810 of user achille.
+Mar 20 23:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 23:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 23:21:48 odyssey chronyd[834]: Source 208.81.1.244 replaced with 206.108.0.131
+Mar 20 23:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 23:30:01 odyssey systemd: Starting user-0.slice.
+Mar 20 23:30:01 odyssey systemd: Started Session 1811 of user achille.
+Mar 20 23:30:01 odyssey systemd: Starting Session 1811 of user achille.
+Mar 20 23:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 23:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 23:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 23:40:01 odyssey systemd: Starting user-0.slice.
+Mar 20 23:40:01 odyssey systemd: Started Session 1812 of user achille.
+Mar 20 23:40:01 odyssey systemd: Starting Session 1812 of user achille.
+Mar 20 23:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 23:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 23:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 23:50:01 odyssey systemd: Starting user-0.slice.
+Mar 20 23:50:01 odyssey systemd: Started Session 1813 of user achille.
+Mar 20 23:50:01 odyssey systemd: Starting Session 1813 of user achille.
+Mar 20 23:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 23:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 23:53:01 odyssey systemd: Created slice user-0.slice.
+Mar 20 23:53:01 odyssey systemd: Starting user-0.slice.
+Mar 20 23:53:01 odyssey systemd: Started Session 1814 of user achille.
+Mar 20 23:53:01 odyssey systemd: Starting Session 1814 of user achille.
+Mar 20 23:53:01 odyssey systemd: Removed slice user-0.slice.
+Mar 20 23:53:01 odyssey systemd: Stopping user-0.slice.
+Mar 20 23:53:59 odyssey chronyd[834]: Selected source 132.205.96.94
+Mar 21 00:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 00:00:01 odyssey systemd: Starting user-0.slice.
+Mar 21 00:00:01 odyssey systemd: Started Session 1815 of user achille.
+Mar 21 00:00:01 odyssey systemd: Starting Session 1815 of user achille.
+Mar 21 00:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 00:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 00:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 00:01:01 odyssey systemd: Starting user-0.slice.
+Mar 21 00:01:01 odyssey systemd: Started Session 1816 of user achille.
+Mar 21 00:01:01 odyssey systemd: Starting Session 1816 of user achille.
+Mar 21 00:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 00:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 00:03:10 odyssey chronyd[834]: Source 67.230.163.10 replaced with 208.81.1.244
+Mar 21 00:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 00:10:01 odyssey systemd: Starting user-0.slice.
+Mar 21 00:10:01 odyssey systemd: Started Session 1817 of user achille.
+Mar 21 00:10:01 odyssey systemd: Starting Session 1817 of user achille.
+Mar 21 00:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 00:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 00:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 00:20:01 odyssey systemd: Starting user-0.slice.
+Mar 21 00:20:01 odyssey systemd: Started Session 1818 of user achille.
+Mar 21 00:20:01 odyssey systemd: Starting Session 1818 of user achille.
+Mar 21 00:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 00:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 00:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 00:30:01 odyssey systemd: Starting user-0.slice.
+Mar 21 00:30:01 odyssey systemd: Started Session 1819 of user achille.
+Mar 21 00:30:01 odyssey systemd: Starting Session 1819 of user achille.
+Mar 21 00:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 00:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 00:36:18 odyssey chronyd[834]: Source 70.79.92.55 replaced with 199.182.221.110
+Mar 21 00:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 00:40:01 odyssey systemd: Starting user-0.slice.
+Mar 21 00:40:01 odyssey systemd: Started Session 1820 of user achille.
+Mar 21 00:40:01 odyssey systemd: Starting Session 1820 of user achille.
+Mar 21 00:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 00:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 00:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 00:50:01 odyssey systemd: Starting user-0.slice.
+Mar 21 00:50:01 odyssey systemd: Started Session 1821 of user achille.
+Mar 21 00:50:01 odyssey systemd: Starting Session 1821 of user achille.
+Mar 21 00:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 00:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 00:56:03 odyssey systemd-logind: New session 1822 of user ares.
+Mar 21 00:56:03 odyssey systemd: Started Session 1822 of user ares.
+Mar 21 00:56:03 odyssey systemd: Starting Session 1822 of user ares.
+Mar 21 00:56:03 odyssey dbus-daemon: dbus[810]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 21 00:56:03 odyssey dbus[810]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 21 00:56:03 odyssey dbus[810]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 21 00:56:03 odyssey dbus-daemon: dbus[810]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 21 00:57:07 odyssey python: detected unhandled Python exception in 'reconstruct_bb.py'
+Mar 21 00:58:34 odyssey python: detected unhandled Python exception in 'reconstruct_bb.py'
+Mar 21 01:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 01:00:01 odyssey systemd: Starting user-0.slice.
+Mar 21 01:00:01 odyssey systemd: Started Session 1823 of user achille.
+Mar 21 01:00:01 odyssey systemd: Starting Session 1823 of user achille.
+Mar 21 01:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 01:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 01:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 01:01:01 odyssey systemd: Starting user-0.slice.
+Mar 21 01:01:01 odyssey systemd: Started Session 1824 of user achille.
+Mar 21 01:01:01 odyssey systemd: Starting Session 1824 of user achille.
+Mar 21 01:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 01:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 01:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 01:10:01 odyssey systemd: Starting user-0.slice.
+Mar 21 01:10:01 odyssey systemd: Started Session 1825 of user achille.
+Mar 21 01:10:01 odyssey systemd: Starting Session 1825 of user achille.
+Mar 21 01:10:02 odyssey systemd: Removed slice user-0.slice.
+Mar 21 01:10:02 odyssey systemd: Stopping user-0.slice.
+Mar 21 01:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 01:20:01 odyssey systemd: Starting user-0.slice.
+Mar 21 01:20:01 odyssey systemd: Started Session 1826 of user achille.
+Mar 21 01:20:01 odyssey systemd: Starting Session 1826 of user achille.
+Mar 21 01:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 01:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 01:20:30 odyssey chronyd[834]: Source 144.217.242.53 replaced with 159.203.31.244
+Mar 21 01:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 01:30:01 odyssey systemd: Starting user-0.slice.
+Mar 21 01:30:01 odyssey systemd: Started Session 1827 of user achille.
+Mar 21 01:30:01 odyssey systemd: Starting Session 1827 of user achille.
+Mar 21 01:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 01:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 01:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 01:40:01 odyssey systemd: Starting user-0.slice.
+Mar 21 01:40:01 odyssey systemd: Started Session 1828 of user achille.
+Mar 21 01:40:01 odyssey systemd: Starting Session 1828 of user achille.
+Mar 21 01:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 01:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 01:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 01:50:01 odyssey systemd: Starting user-0.slice.
+Mar 21 01:50:01 odyssey systemd: Started Session 1829 of user achille.
+Mar 21 01:50:01 odyssey systemd: Starting Session 1829 of user achille.
+Mar 21 01:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 01:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 01:56:56 odyssey chronyd[834]: Source 206.108.0.131 replaced with 144.217.242.53
+Mar 21 02:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 02:00:01 odyssey systemd: Starting user-0.slice.
+Mar 21 02:00:01 odyssey systemd: Started Session 1830 of user achille.
+Mar 21 02:00:01 odyssey systemd: Starting Session 1830 of user achille.
+Mar 21 02:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 02:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 02:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 02:01:01 odyssey systemd: Starting user-0.slice.
+Mar 21 02:01:01 odyssey systemd: Started Session 1831 of user achille.
+Mar 21 02:01:01 odyssey systemd: Starting Session 1831 of user achille.
+Mar 21 02:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 02:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 02:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 02:10:01 odyssey systemd: Starting user-0.slice.
+Mar 21 02:10:01 odyssey systemd: Started Session 1832 of user achille.
+Mar 21 02:10:01 odyssey systemd: Starting Session 1832 of user achille.
+Mar 21 02:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 02:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 02:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 02:20:01 odyssey systemd: Starting user-0.slice.
+Mar 21 02:20:01 odyssey systemd: Started Session 1833 of user achille.
+Mar 21 02:20:01 odyssey systemd: Starting Session 1833 of user achille.
+Mar 21 02:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 02:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 02:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 02:30:01 odyssey systemd: Starting user-0.slice.
+Mar 21 02:30:01 odyssey systemd: Started Session 1834 of user achille.
+Mar 21 02:30:01 odyssey systemd: Starting Session 1834 of user achille.
+Mar 21 02:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 02:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 02:34:56 odyssey dhclient[1273]: DHCPREQUEST on enp0s31f6 to 132.205.96.229 port 67 (xid=0x6a7e10e3)
+Mar 21 02:34:56 odyssey dhclient[1273]: DHCPACK from 132.205.96.229 (xid=0x6a7e10e3)
+Mar 21 02:34:56 odyssey NetworkManager[955]: <info>    address 123.32.18.31
+Mar 21 02:34:56 odyssey NetworkManager[955]: <info>    plen 24 (255.255.255.0)
+Mar 21 02:34:56 odyssey NetworkManager[955]: <info>    gateway 123.32.18.1
+Mar 21 02:34:56 odyssey NetworkManager[955]: <info>    server identifier 132.205.96.229
+Mar 21 02:34:56 odyssey dhclient[1273]: bound to 123.32.18.31 -- renewal in 16304 seconds.
+Mar 21 02:34:56 odyssey NetworkManager[955]: <info>    lease time 43200
+Mar 21 02:34:56 odyssey NetworkManager[955]: <info>    hostname 'odyssey.encs.concordia.ca'
+Mar 21 02:34:56 odyssey NetworkManager[955]: <info>    nameserver '132.205.96.93'
+Mar 21 02:34:56 odyssey NetworkManager[955]: <info>    nameserver '132.205.96.94'
+Mar 21 02:34:56 odyssey NetworkManager[955]: <info>    domain name 'encs.concordia.ca'
+Mar 21 02:34:56 odyssey NetworkManager[955]: <info>    domain name 'concordia.ca'
+Mar 21 02:34:56 odyssey NetworkManager[955]: <info>    domain search 'encs.concordia.ca.'
+Mar 21 02:34:56 odyssey NetworkManager[955]: <info>    domain search 'concordia.ca.'
+Mar 21 02:34:56 odyssey NetworkManager[955]: <info>  (enp0s31f6): DHCPv4 state changed bound -> bound
+Mar 21 02:34:56 odyssey dbus-daemon: dbus[810]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 21 02:34:56 odyssey dbus[810]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 21 02:34:56 odyssey systemd: Starting Network Manager Script Dispatcher Service...
+Mar 21 02:34:56 odyssey dbus[810]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 21 02:34:56 odyssey systemd: Started Network Manager Script Dispatcher Service.
+Mar 21 02:34:56 odyssey dbus-daemon: dbus[810]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 21 02:34:56 odyssey nm-dispatcher: Dispatching action 'dhcp4-change' for enp0s31f6
+Mar 21 02:38:28 odyssey chronyd[834]: Source 208.81.1.244 replaced with 47.54.236.184
+Mar 21 02:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 02:40:01 odyssey systemd: Starting user-0.slice.
+Mar 21 02:40:01 odyssey systemd: Started Session 1835 of user achille.
+Mar 21 02:40:01 odyssey systemd: Starting Session 1835 of user achille.
+Mar 21 02:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 02:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 02:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 02:50:01 odyssey systemd: Starting user-0.slice.
+Mar 21 02:50:01 odyssey systemd: Started Session 1836 of user achille.
+Mar 21 02:50:01 odyssey systemd: Starting Session 1836 of user achille.
+Mar 21 02:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 02:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 03:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 03:00:01 odyssey systemd: Starting user-0.slice.
+Mar 21 03:00:01 odyssey systemd: Started Session 1837 of user achille.
+Mar 21 03:00:01 odyssey systemd: Starting Session 1837 of user achille.
+Mar 21 03:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 03:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 03:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 03:01:01 odyssey systemd: Starting user-0.slice.
+Mar 21 03:01:01 odyssey systemd: Started Session 1838 of user achille.
+Mar 21 03:01:01 odyssey systemd: Starting Session 1838 of user achille.
+Mar 21 03:10:01 odyssey systemd: Started Session 1839 of user achille.
+Mar 21 03:10:01 odyssey systemd: Starting Session 1839 of user achille.
+Mar 21 03:11:14 odyssey chronyd[834]: Source 199.182.221.110 replaced with 199.19.167.36
+Mar 21 03:20:01 odyssey systemd: Started Session 1840 of user achille.
+Mar 21 03:20:01 odyssey systemd: Starting Session 1840 of user achille.
+Mar 21 03:30:01 odyssey systemd: Started Session 1841 of user achille.
+Mar 21 03:30:01 odyssey systemd: Starting Session 1841 of user achille.
+Mar 21 03:40:01 odyssey systemd: Started Session 1842 of user achille.
+Mar 21 03:40:01 odyssey systemd: Starting Session 1842 of user achille.
+Mar 21 03:50:01 odyssey systemd: Started Session 1843 of user achille.
+Mar 21 03:50:01 odyssey systemd: Starting Session 1843 of user achille.
+Mar 21 03:55:20 odyssey chronyd[834]: Source 159.203.31.244 replaced with 208.81.1.244
+Mar 21 04:00:01 odyssey systemd: Started Session 1844 of user achille.
+Mar 21 04:00:01 odyssey systemd: Starting Session 1844 of user achille.
+Mar 21 04:01:01 odyssey systemd: Started Session 1845 of user achille.
+Mar 21 04:01:01 odyssey systemd: Starting Session 1845 of user achille.
+Mar 21 04:08:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 04:08:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 04:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 04:10:01 odyssey systemd: Starting user-0.slice.
+Mar 21 04:10:01 odyssey systemd: Started Session 1846 of user achille.
+Mar 21 04:10:01 odyssey systemd: Starting Session 1846 of user achille.
+Mar 21 04:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 04:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 04:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 04:20:01 odyssey systemd: Starting user-0.slice.
+Mar 21 04:20:01 odyssey systemd: Started Session 1847 of user achille.
+Mar 21 04:20:01 odyssey systemd: Starting Session 1847 of user achille.
+Mar 21 04:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 04:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 04:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 04:30:01 odyssey systemd: Starting user-0.slice.
+Mar 21 04:30:01 odyssey systemd: Started Session 1848 of user achille.
+Mar 21 04:30:01 odyssey systemd: Starting Session 1848 of user achille.
+Mar 21 04:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 04:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 04:31:50 odyssey chronyd[834]: Source 144.217.242.53 replaced with 129.128.12.20
+Mar 21 04:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 04:40:01 odyssey systemd: Starting user-0.slice.
+Mar 21 04:40:01 odyssey systemd: Started Session 1849 of user achille.
+Mar 21 04:40:01 odyssey systemd: Starting Session 1849 of user achille.
+Mar 21 04:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 04:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 04:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 04:50:01 odyssey systemd: Starting user-0.slice.
+Mar 21 04:50:01 odyssey systemd: Started Session 1850 of user achille.
+Mar 21 04:50:01 odyssey systemd: Starting Session 1850 of user achille.
+Mar 21 04:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 04:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 05:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 05:00:01 odyssey systemd: Starting user-0.slice.
+Mar 21 05:00:01 odyssey systemd: Started Session 1851 of user achille.
+Mar 21 05:00:01 odyssey systemd: Starting Session 1851 of user achille.
+Mar 21 05:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 05:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 05:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 05:01:01 odyssey systemd: Starting user-0.slice.
+Mar 21 05:01:01 odyssey systemd: Started Session 1852 of user achille.
+Mar 21 05:01:01 odyssey systemd: Starting Session 1852 of user achille.
+Mar 21 05:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 05:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 05:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 05:10:01 odyssey systemd: Starting user-0.slice.
+Mar 21 05:10:01 odyssey systemd: Started Session 1853 of user achille.
+Mar 21 05:10:01 odyssey systemd: Starting Session 1853 of user achille.
+Mar 21 05:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 05:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 05:13:39 odyssey chronyd[834]: Source 47.54.236.184 replaced with 69.165.222.176
+Mar 21 05:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 05:20:01 odyssey systemd: Starting user-0.slice.
+Mar 21 05:20:01 odyssey systemd: Started Session 1854 of user achille.
+Mar 21 05:20:01 odyssey systemd: Starting Session 1854 of user achille.
+Mar 21 05:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 05:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 05:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 05:30:01 odyssey systemd: Starting user-0.slice.
+Mar 21 05:30:01 odyssey systemd: Started Session 1855 of user achille.
+Mar 21 05:30:01 odyssey systemd: Starting Session 1855 of user achille.
+Mar 21 05:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 05:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 05:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 05:40:01 odyssey systemd: Starting user-0.slice.
+Mar 21 05:40:01 odyssey systemd: Started Session 1856 of user achille.
+Mar 21 05:40:01 odyssey systemd: Starting Session 1856 of user achille.
+Mar 21 05:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 05:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 05:46:35 odyssey chronyd[834]: Source 199.19.167.36 replaced with 24.122.14.21
+Mar 21 05:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 05:50:01 odyssey systemd: Starting user-0.slice.
+Mar 21 05:50:01 odyssey systemd: Started Session 1857 of user achille.
+Mar 21 05:50:01 odyssey systemd: Starting Session 1857 of user achille.
+Mar 21 05:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 05:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 06:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 06:00:01 odyssey systemd: Starting user-0.slice.
+Mar 21 06:00:01 odyssey systemd: Started Session 1858 of user achille.
+Mar 21 06:00:01 odyssey systemd: Starting Session 1858 of user achille.
+Mar 21 06:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 06:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 06:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 06:01:01 odyssey systemd: Starting user-0.slice.
+Mar 21 06:01:01 odyssey systemd: Started Session 1859 of user achille.
+Mar 21 06:01:01 odyssey systemd: Starting Session 1859 of user achille.
+Mar 21 06:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 06:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 06:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 06:10:01 odyssey systemd: Starting user-0.slice.
+Mar 21 06:10:01 odyssey systemd: Started Session 1860 of user achille.
+Mar 21 06:10:01 odyssey systemd: Starting Session 1860 of user achille.
+Mar 21 06:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 06:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 06:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 06:20:01 odyssey systemd: Starting user-0.slice.
+Mar 21 06:20:01 odyssey systemd: Started Session 1861 of user achille.
+Mar 21 06:20:01 odyssey systemd: Starting Session 1861 of user achille.
+Mar 21 06:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 06:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 06:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 06:30:01 odyssey systemd: Starting user-0.slice.
+Mar 21 06:30:01 odyssey systemd: Started Session 1862 of user achille.
+Mar 21 06:30:01 odyssey systemd: Starting Session 1862 of user achille.
+Mar 21 06:30:02 odyssey systemd: Removed slice user-0.slice.
+Mar 21 06:30:02 odyssey systemd: Stopping user-0.slice.
+Mar 21 06:30:46 odyssey chronyd[834]: Source 208.81.1.244 replaced with 47.54.236.184
+Mar 21 06:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 06:40:01 odyssey systemd: Starting user-0.slice.
+Mar 21 06:40:01 odyssey systemd: Started Session 1863 of user achille.
+Mar 21 06:40:01 odyssey systemd: Starting Session 1863 of user achille.
+Mar 21 06:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 06:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 06:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 06:50:01 odyssey systemd: Starting user-0.slice.
+Mar 21 06:50:01 odyssey systemd: Started Session 1864 of user achille.
+Mar 21 06:50:01 odyssey systemd: Starting Session 1864 of user achille.
+Mar 21 06:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 06:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 07:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 07:00:01 odyssey systemd: Starting user-0.slice.
+Mar 21 07:00:01 odyssey systemd: Started Session 1865 of user achille.
+Mar 21 07:00:01 odyssey systemd: Starting Session 1865 of user achille.
+Mar 21 07:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 07:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 07:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 07:01:01 odyssey systemd: Starting user-0.slice.
+Mar 21 07:01:01 odyssey systemd: Started Session 1866 of user achille.
+Mar 21 07:01:01 odyssey systemd: Starting Session 1866 of user achille.
+Mar 21 07:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 07:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 07:06:40 odyssey dhclient[1273]: DHCPREQUEST on enp0s31f6 to 132.205.96.229 port 67 (xid=0x6a7e10e3)
+Mar 21 07:06:40 odyssey dhclient[1273]: DHCPACK from 132.205.96.229 (xid=0x6a7e10e3)
+Mar 21 07:06:40 odyssey NetworkManager[955]: <info>    address 123.32.18.31
+Mar 21 07:06:40 odyssey NetworkManager[955]: <info>    plen 24 (255.255.255.0)
+Mar 21 07:06:40 odyssey dhclient[1273]: bound to 123.32.18.31 -- renewal in 19579 seconds.
+Mar 21 07:06:40 odyssey NetworkManager[955]: <info>    gateway 123.32.18.1
+Mar 21 07:06:40 odyssey NetworkManager[955]: <info>    server identifier 132.205.96.229
+Mar 21 07:06:40 odyssey NetworkManager[955]: <info>    lease time 43200
+Mar 21 07:06:40 odyssey NetworkManager[955]: <info>    hostname 'odyssey.encs.concordia.ca'
+Mar 21 07:06:40 odyssey NetworkManager[955]: <info>    nameserver '132.205.96.93'
+Mar 21 07:06:40 odyssey NetworkManager[955]: <info>    nameserver '132.205.96.94'
+Mar 21 07:06:40 odyssey NetworkManager[955]: <info>    domain name 'encs.concordia.ca'
+Mar 21 07:06:40 odyssey NetworkManager[955]: <info>    domain name 'concordia.ca'
+Mar 21 07:06:40 odyssey NetworkManager[955]: <info>    domain search 'encs.concordia.ca.'
+Mar 21 07:06:40 odyssey NetworkManager[955]: <info>    domain search 'concordia.ca.'
+Mar 21 07:06:40 odyssey NetworkManager[955]: <info>  (enp0s31f6): DHCPv4 state changed bound -> bound
+Mar 21 07:06:40 odyssey dbus-daemon: dbus[810]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 21 07:06:40 odyssey dbus[810]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 21 07:06:40 odyssey systemd: Starting Network Manager Script Dispatcher Service...
+Mar 21 07:06:40 odyssey dbus[810]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 21 07:06:40 odyssey dbus-daemon: dbus[810]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 21 07:06:40 odyssey systemd: Started Network Manager Script Dispatcher Service.
+Mar 21 07:06:40 odyssey nm-dispatcher: Dispatching action 'dhcp4-change' for enp0s31f6
+Mar 21 07:07:15 odyssey chronyd[834]: Source 129.128.12.20 replaced with 206.108.0.133
+Mar 21 07:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 07:10:01 odyssey systemd: Starting user-0.slice.
+Mar 21 07:10:01 odyssey systemd: Started Session 1867 of user achille.
+Mar 21 07:10:01 odyssey systemd: Starting Session 1867 of user achille.
+Mar 21 07:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 07:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 07:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 07:20:01 odyssey systemd: Starting user-0.slice.
+Mar 21 07:20:01 odyssey systemd: Started Session 1868 of user achille.
+Mar 21 07:20:01 odyssey systemd: Starting Session 1868 of user achille.
+Mar 21 07:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 07:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 07:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 07:30:01 odyssey systemd: Starting user-0.slice.
+Mar 21 07:30:01 odyssey systemd: Started Session 1869 of user achille.
+Mar 21 07:30:01 odyssey systemd: Starting Session 1869 of user achille.
+Mar 21 07:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 07:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 07:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 07:40:01 odyssey systemd: Starting user-0.slice.
+Mar 21 07:40:01 odyssey systemd: Started Session 1870 of user achille.
+Mar 21 07:40:01 odyssey systemd: Starting Session 1870 of user achille.
+Mar 21 07:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 07:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 07:48:42 odyssey chronyd[834]: Source 69.165.222.176 replaced with 192.95.25.79
+Mar 21 07:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 07:50:01 odyssey systemd: Starting user-0.slice.
+Mar 21 07:50:01 odyssey systemd: Started Session 1871 of user achille.
+Mar 21 07:50:01 odyssey systemd: Starting Session 1871 of user achille.
+Mar 21 07:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 07:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 08:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 08:00:01 odyssey systemd: Starting user-0.slice.
+Mar 21 08:00:01 odyssey systemd: Started Session 1872 of user achille.
+Mar 21 08:00:01 odyssey systemd: Starting Session 1872 of user achille.
+Mar 21 08:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 08:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 08:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 08:01:01 odyssey systemd: Starting user-0.slice.
+Mar 21 08:01:01 odyssey systemd: Started Session 1873 of user achille.
+Mar 21 08:01:01 odyssey systemd: Starting Session 1873 of user achille.
+Mar 21 08:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 08:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 08:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 08:10:01 odyssey systemd: Starting user-0.slice.
+Mar 21 08:10:01 odyssey systemd: Started Session 1874 of user achille.
+Mar 21 08:10:01 odyssey systemd: Starting Session 1874 of user achille.
+Mar 21 08:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 08:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 08:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 08:20:01 odyssey systemd: Starting user-0.slice.
+Mar 21 08:20:01 odyssey systemd: Started Session 1875 of user achille.
+Mar 21 08:20:01 odyssey systemd: Starting Session 1875 of user achille.
+Mar 21 08:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 08:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 08:21:31 odyssey chronyd[834]: Source 24.122.14.21 replaced with 158.69.125.231
+Mar 21 08:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 08:30:01 odyssey systemd: Starting user-0.slice.
+Mar 21 08:30:01 odyssey systemd: Started Session 1876 of user achille.
+Mar 21 08:30:01 odyssey systemd: Starting Session 1876 of user achille.
+Mar 21 08:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 08:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 08:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 08:40:01 odyssey systemd: Starting user-0.slice.
+Mar 21 08:40:01 odyssey systemd: Started Session 1877 of user achille.
+Mar 21 08:40:01 odyssey systemd: Starting Session 1877 of user achille.
+Mar 21 08:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 08:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 08:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 08:50:01 odyssey systemd: Starting user-0.slice.
+Mar 21 08:50:01 odyssey systemd: Started Session 1878 of user achille.
+Mar 21 08:50:01 odyssey systemd: Starting Session 1878 of user achille.
+Mar 21 08:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 08:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 08:52:19 odyssey systemd-logind: New session 1879 of user ares.
+Mar 21 08:52:19 odyssey systemd: Started Session 1879 of user ares.
+Mar 21 08:52:19 odyssey systemd: Starting Session 1879 of user ares.
+Mar 21 08:52:19 odyssey dbus-daemon: dbus[810]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 21 08:52:19 odyssey dbus[810]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 21 08:52:19 odyssey dbus-daemon: dbus[810]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 21 08:52:19 odyssey dbus[810]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 21 09:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 09:00:01 odyssey systemd: Starting user-0.slice.
+Mar 21 09:00:01 odyssey systemd: Started Session 1880 of user achille.
+Mar 21 09:00:01 odyssey systemd: Starting Session 1880 of user achille.
+Mar 21 09:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 09:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 09:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 09:01:01 odyssey systemd: Starting user-0.slice.
+Mar 21 09:01:01 odyssey systemd: Started Session 1881 of user achille.
+Mar 21 09:01:01 odyssey systemd: Starting Session 1881 of user achille.
+Mar 21 09:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 09:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 09:06:07 odyssey chronyd[834]: Source 47.54.236.184 replaced with 144.217.241.147
+Mar 21 09:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 09:10:01 odyssey systemd: Starting user-0.slice.
+Mar 21 09:10:01 odyssey systemd: Started Session 1882 of user achille.
+Mar 21 09:10:01 odyssey systemd: Starting Session 1882 of user achille.
+Mar 21 09:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 09:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 09:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 09:20:01 odyssey systemd: Starting user-0.slice.
+Mar 21 09:20:01 odyssey systemd: Started Session 1883 of user achille.
+Mar 21 09:20:01 odyssey systemd: Starting Session 1883 of user achille.
+Mar 21 09:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 09:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 09:22:47 odyssey systemd-logind: Removed session 1879.
+Mar 21 09:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 09:30:01 odyssey systemd: Starting user-0.slice.
+Mar 21 09:30:01 odyssey systemd: Started Session 1884 of user achille.
+Mar 21 09:30:01 odyssey systemd: Starting Session 1884 of user achille.
+Mar 21 09:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 09:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 09:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 09:40:01 odyssey systemd: Starting user-0.slice.
+Mar 21 09:40:01 odyssey systemd: Started Session 1885 of user achille.
+Mar 21 09:40:01 odyssey systemd: Starting Session 1885 of user achille.
+Mar 21 09:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 09:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 09:42:33 odyssey chronyd[834]: Source 206.108.0.133 replaced with 144.217.242.53
+Mar 21 09:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 09:50:01 odyssey systemd: Starting user-0.slice.
+Mar 21 09:50:01 odyssey systemd: Started Session 1886 of user achille.
+Mar 21 09:50:01 odyssey systemd: Starting Session 1886 of user achille.
+Mar 21 09:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 09:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 10:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 10:00:01 odyssey systemd: Starting user-0.slice.
+Mar 21 10:00:01 odyssey systemd: Started Session 1887 of user achille.
+Mar 21 10:00:01 odyssey systemd: Starting Session 1887 of user achille.
+Mar 21 10:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 10:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 10:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 10:01:01 odyssey systemd: Starting user-0.slice.
+Mar 21 10:01:01 odyssey systemd: Started Session 1888 of user achille.
+Mar 21 10:01:01 odyssey systemd: Starting Session 1888 of user achille.
+Mar 21 10:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 10:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 10:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 10:10:01 odyssey systemd: Starting user-0.slice.
+Mar 21 10:10:01 odyssey systemd: Started Session 1889 of user achille.
+Mar 21 10:10:01 odyssey systemd: Starting Session 1889 of user achille.
+Mar 21 10:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 10:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 10:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 10:20:01 odyssey systemd: Starting user-0.slice.
+Mar 21 10:20:01 odyssey systemd: Started Session 1890 of user achille.
+Mar 21 10:20:01 odyssey systemd: Starting Session 1890 of user achille.
+Mar 21 10:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 10:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 10:23:51 odyssey chronyd[834]: Source 192.95.25.79 replaced with 167.114.204.238
+Mar 21 10:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 10:30:01 odyssey systemd: Starting user-0.slice.
+Mar 21 10:30:01 odyssey systemd: Started Session 1891 of user achille.
+Mar 21 10:30:01 odyssey systemd: Starting Session 1891 of user achille.
+Mar 21 10:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 10:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 10:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 10:40:01 odyssey systemd: Starting user-0.slice.
+Mar 21 10:40:01 odyssey systemd: Started Session 1892 of user achille.
+Mar 21 10:40:01 odyssey systemd: Starting Session 1892 of user achille.
+Mar 21 10:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 10:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 10:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 10:50:01 odyssey systemd: Starting user-0.slice.
+Mar 21 10:50:01 odyssey systemd: Started Session 1893 of user achille.
+Mar 21 10:50:01 odyssey systemd: Starting Session 1893 of user achille.
+Mar 21 10:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 10:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 10:56:40 odyssey chronyd[834]: Source 158.69.125.231 replaced with 206.108.0.131
+Mar 21 10:59:09 odyssey systemd: Created slice user-0.slice.
+Mar 21 10:59:09 odyssey systemd: Starting user-0.slice.
+Mar 21 10:59:09 odyssey systemd-logind: New session 1894 of user achille.
+Mar 21 10:59:09 odyssey systemd: Started Session 1894 of user achille.
+Mar 21 10:59:09 odyssey systemd: Starting Session 1894 of user achille.
+Mar 21 10:59:09 odyssey systemd-logind: Removed session 1894.
+Mar 21 10:59:09 odyssey systemd: Removed slice user-0.slice.
+Mar 21 10:59:09 odyssey systemd: Stopping user-0.slice.
+Mar 21 10:59:10 odyssey systemd: Created slice user-0.slice.
+Mar 21 10:59:10 odyssey systemd: Starting user-0.slice.
+Mar 21 10:59:10 odyssey systemd-logind: New session 1895 of user achille.
+Mar 21 10:59:10 odyssey systemd: Started Session 1895 of user achille.
+Mar 21 10:59:10 odyssey systemd: Starting Session 1895 of user achille.
+Mar 21 10:59:10 odyssey systemd-logind: Removed session 1895.
+Mar 21 10:59:10 odyssey systemd: Removed slice user-0.slice.
+Mar 21 10:59:10 odyssey systemd: Stopping user-0.slice.
+Mar 21 10:59:10 odyssey systemd: Created slice user-0.slice.
+Mar 21 10:59:10 odyssey systemd: Starting user-0.slice.
+Mar 21 10:59:10 odyssey systemd-logind: New session 1896 of user achille.
+Mar 21 10:59:10 odyssey systemd: Started Session 1896 of user achille.
+Mar 21 10:59:10 odyssey systemd: Starting Session 1896 of user achille.
+Mar 21 10:59:10 odyssey systemd-logind: New session 1897 of user achille.
+Mar 21 10:59:10 odyssey systemd: Started Session 1897 of user achille.
+Mar 21 10:59:10 odyssey systemd: Starting Session 1897 of user achille.
+Mar 21 11:00:01 odyssey systemd: Started Session 1898 of user achille.
+Mar 21 11:00:01 odyssey systemd: Starting Session 1898 of user achille.
+Mar 21 11:00:15 odyssey systemd-logind: Removed session 1897.
+Mar 21 11:00:15 odyssey systemd-logind: New session 1899 of user achille.
+Mar 21 11:00:15 odyssey systemd: Started Session 1899 of user achille.
+Mar 21 11:00:15 odyssey systemd: Starting Session 1899 of user achille.
+Mar 21 11:00:26 odyssey systemd-logind: Removed session 1899.
+Mar 21 11:00:26 odyssey systemd-logind: New session 1900 of user achille.
+Mar 21 11:00:26 odyssey systemd: Started Session 1900 of user achille.
+Mar 21 11:00:26 odyssey systemd: Starting Session 1900 of user achille.
+Mar 21 11:00:58 odyssey systemd-logind: Removed session 1900.
+Mar 21 11:00:58 odyssey systemd-logind: New session 1901 of user achille.
+Mar 21 11:00:58 odyssey systemd: Started Session 1901 of user achille.
+Mar 21 11:00:58 odyssey systemd: Starting Session 1901 of user achille.
+Mar 21 11:01:01 odyssey systemd: Started Session 1902 of user achille.
+Mar 21 11:01:01 odyssey systemd: Starting Session 1902 of user achille.
+Mar 21 11:01:09 odyssey systemd-logind: Removed session 1901.
+Mar 21 11:01:11 odyssey systemd-logind: Removed session 1896.
+Mar 21 11:01:11 odyssey systemd: Removed slice user-0.slice.
+Mar 21 11:01:11 odyssey systemd: Stopping user-0.slice.
+Mar 21 11:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 11:10:01 odyssey systemd: Starting user-0.slice.
+Mar 21 11:10:01 odyssey systemd: Started Session 1903 of user achille.
+Mar 21 11:10:01 odyssey systemd: Starting Session 1903 of user achille.
+Mar 21 11:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 11:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 11:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 11:20:01 odyssey systemd: Starting user-0.slice.
+Mar 21 11:20:01 odyssey systemd: Started Session 1904 of user achille.
+Mar 21 11:20:01 odyssey systemd: Starting Session 1904 of user achille.
+Mar 21 11:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 11:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 11:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 11:30:01 odyssey systemd: Starting user-0.slice.
+Mar 21 11:30:01 odyssey systemd: Started Session 1905 of user achille.
+Mar 21 11:30:01 odyssey systemd: Starting Session 1905 of user achille.
+Mar 21 11:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 11:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 11:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 11:40:01 odyssey systemd: Starting user-0.slice.
+Mar 21 11:40:01 odyssey systemd: Started Session 1906 of user achille.
+Mar 21 11:40:01 odyssey systemd: Starting Session 1906 of user achille.
+Mar 21 11:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 11:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 11:41:03 odyssey chronyd[834]: Source 144.217.241.147 replaced with 206.108.0.133
+Mar 21 11:50:02 odyssey systemd: Created slice user-0.slice.
+Mar 21 11:50:02 odyssey systemd: Starting user-0.slice.
+Mar 21 11:50:02 odyssey systemd: Started Session 1907 of user achille.
+Mar 21 11:50:02 odyssey systemd: Starting Session 1907 of user achille.
+Mar 21 11:50:02 odyssey systemd: Removed slice user-0.slice.
+Mar 21 11:50:02 odyssey systemd: Stopping user-0.slice.
+Mar 21 12:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 12:00:01 odyssey systemd: Starting user-0.slice.
+Mar 21 12:00:01 odyssey systemd: Started Session 1908 of user achille.
+Mar 21 12:00:01 odyssey systemd: Starting Session 1908 of user achille.
+Mar 21 12:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 12:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 12:00:24 odyssey firefox.desktop: 1490112024049#011addons.update-checker#011WARN#011Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Mar 21 12:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 12:01:01 odyssey systemd: Starting user-0.slice.
+Mar 21 12:01:01 odyssey systemd: Started Session 1909 of user achille.
+Mar 21 12:01:01 odyssey systemd: Starting Session 1909 of user achille.
+Mar 21 12:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 12:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 12:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 12:10:01 odyssey systemd: Starting user-0.slice.
+Mar 21 12:10:01 odyssey systemd: Started Session 1910 of user achille.
+Mar 21 12:10:01 odyssey systemd: Starting Session 1910 of user achille.
+Mar 21 12:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 12:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 12:17:51 odyssey chronyd[834]: Source 144.217.242.53 replaced with 158.69.125.231
+Mar 21 12:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 12:20:01 odyssey systemd: Starting user-0.slice.
+Mar 21 12:20:01 odyssey systemd: Started Session 1911 of user achille.
+Mar 21 12:20:01 odyssey systemd: Starting Session 1911 of user achille.
+Mar 21 12:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 12:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 12:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 12:30:01 odyssey systemd: Starting user-0.slice.
+Mar 21 12:30:01 odyssey systemd: Started Session 1912 of user achille.
+Mar 21 12:30:01 odyssey systemd: Starting Session 1912 of user achille.
+Mar 21 12:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 12:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 12:32:59 odyssey dhclient[1273]: DHCPREQUEST on enp0s31f6 to 132.205.96.229 port 67 (xid=0x6a7e10e3)
+Mar 21 12:32:59 odyssey dhclient[1273]: DHCPACK from 132.205.96.229 (xid=0x6a7e10e3)
+Mar 21 12:32:59 odyssey NetworkManager[955]: <info>    address 123.32.18.31
+Mar 21 12:32:59 odyssey dhclient[1273]: bound to 123.32.18.31 -- renewal in 16956 seconds.
+Mar 21 12:32:59 odyssey NetworkManager[955]: <info>    plen 24 (255.255.255.0)
+Mar 21 12:32:59 odyssey NetworkManager[955]: <info>    gateway 123.32.18.1
+Mar 21 12:32:59 odyssey NetworkManager[955]: <info>    server identifier 132.205.96.229
+Mar 21 12:32:59 odyssey NetworkManager[955]: <info>    lease time 43200
+Mar 21 12:32:59 odyssey NetworkManager[955]: <info>    hostname 'odyssey.encs.concordia.ca'
+Mar 21 12:32:59 odyssey NetworkManager[955]: <info>    nameserver '132.205.96.93'
+Mar 21 12:32:59 odyssey NetworkManager[955]: <info>    nameserver '132.205.96.94'
+Mar 21 12:32:59 odyssey NetworkManager[955]: <info>    domain name 'encs.concordia.ca'
+Mar 21 12:32:59 odyssey NetworkManager[955]: <info>    domain name 'concordia.ca'
+Mar 21 12:32:59 odyssey NetworkManager[955]: <info>    domain search 'encs.concordia.ca.'
+Mar 21 12:32:59 odyssey NetworkManager[955]: <info>    domain search 'concordia.ca.'
+Mar 21 12:32:59 odyssey NetworkManager[955]: <info>  (enp0s31f6): DHCPv4 state changed bound -> bound
+Mar 21 12:32:59 odyssey dbus-daemon: dbus[810]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 21 12:32:59 odyssey dbus[810]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Mar 21 12:32:59 odyssey systemd: Starting Network Manager Script Dispatcher Service...
+Mar 21 12:32:59 odyssey dbus[810]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 21 12:32:59 odyssey dbus-daemon: dbus[810]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 21 12:32:59 odyssey systemd: Started Network Manager Script Dispatcher Service.
+Mar 21 12:32:59 odyssey nm-dispatcher: Dispatching action 'dhcp4-change' for enp0s31f6
+Mar 21 12:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 12:40:01 odyssey systemd: Starting user-0.slice.
+Mar 21 12:40:01 odyssey systemd: Started Session 1913 of user achille.
+Mar 21 12:40:01 odyssey systemd: Starting Session 1913 of user achille.
+Mar 21 12:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 12:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 12:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 12:50:01 odyssey systemd: Starting user-0.slice.
+Mar 21 12:50:01 odyssey systemd: Started Session 1914 of user achille.
+Mar 21 12:50:01 odyssey systemd: Starting Session 1914 of user achille.
+Mar 21 12:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 12:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 12:58:54 odyssey chronyd[834]: Source 167.114.204.238 replaced with 208.80.96.70
+Mar 21 13:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 13:00:01 odyssey systemd: Starting user-0.slice.
+Mar 21 13:00:01 odyssey systemd: Started Session 1915 of user achille.
+Mar 21 13:00:01 odyssey systemd: Starting Session 1915 of user achille.
+Mar 21 13:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 13:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 13:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 13:01:01 odyssey systemd: Starting user-0.slice.
+Mar 21 13:01:01 odyssey systemd: Started Session 1916 of user achille.
+Mar 21 13:01:01 odyssey systemd: Starting Session 1916 of user achille.
+Mar 21 13:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 13:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 13:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 13:10:01 odyssey systemd: Starting user-0.slice.
+Mar 21 13:10:01 odyssey systemd: Started Session 1917 of user achille.
+Mar 21 13:10:01 odyssey systemd: Starting Session 1917 of user achille.
+Mar 21 13:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 13:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 13:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 13:20:01 odyssey systemd: Starting user-0.slice.
+Mar 21 13:20:01 odyssey systemd: Started Session 1918 of user achille.
+Mar 21 13:20:01 odyssey systemd: Starting Session 1918 of user achille.
+Mar 21 13:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 13:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 13:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 13:30:01 odyssey systemd: Starting user-0.slice.
+Mar 21 13:30:01 odyssey systemd: Started Session 1919 of user achille.
+Mar 21 13:30:01 odyssey systemd: Starting Session 1919 of user achille.
+Mar 21 13:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 13:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 13:31:13 odyssey chronyd[834]: Source 206.108.0.131 replaced with 192.95.25.79
+Mar 21 13:39:45 odyssey systemd: Starting Cleanup of Temporary Directories...
+Mar 21 13:39:45 odyssey systemd: Started Cleanup of Temporary Directories.
+Mar 21 13:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 13:40:01 odyssey systemd: Starting user-0.slice.
+Mar 21 13:40:01 odyssey systemd: Started Session 1920 of user achille.
+Mar 21 13:40:01 odyssey systemd: Starting Session 1920 of user achille.
+Mar 21 13:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 13:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 13:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 13:50:01 odyssey systemd: Starting user-0.slice.
+Mar 21 13:50:01 odyssey systemd: Started Session 1921 of user achille.
+Mar 21 13:50:01 odyssey systemd: Starting Session 1921 of user achille.
+Mar 21 13:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 13:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 14:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 14:00:01 odyssey systemd: Starting user-0.slice.
+Mar 21 14:00:01 odyssey systemd: Started Session 1922 of user achille.
+Mar 21 14:00:01 odyssey systemd: Starting Session 1922 of user achille.
+Mar 21 14:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 14:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 14:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 14:01:01 odyssey systemd: Starting user-0.slice.
+Mar 21 14:01:01 odyssey systemd: Started Session 1923 of user achille.
+Mar 21 14:01:01 odyssey systemd: Starting Session 1923 of user achille.
+Mar 21 14:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 14:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 14:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 14:10:01 odyssey systemd: Starting user-0.slice.
+Mar 21 14:10:01 odyssey systemd: Started Session 1924 of user achille.
+Mar 21 14:10:01 odyssey systemd: Starting Session 1924 of user achille.
+Mar 21 14:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 14:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 14:16:46 odyssey chronyd[834]: Source 206.108.0.133 replaced with 144.217.242.53
+Mar 21 14:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 14:20:01 odyssey systemd: Starting user-0.slice.
+Mar 21 14:20:01 odyssey systemd: Started Session 1925 of user achille.
+Mar 21 14:20:01 odyssey systemd: Starting Session 1925 of user achille.
+Mar 21 14:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 14:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 14:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 14:30:01 odyssey systemd: Starting user-0.slice.
+Mar 21 14:30:01 odyssey systemd: Started Session 1926 of user achille.
+Mar 21 14:30:01 odyssey systemd: Starting Session 1926 of user achille.
+Mar 21 14:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 14:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 14:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 14:40:01 odyssey systemd: Starting user-0.slice.
+Mar 21 14:40:01 odyssey systemd: Started Session 1927 of user achille.
+Mar 21 14:40:01 odyssey systemd: Starting Session 1927 of user achille.
+Mar 21 14:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 14:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 14:50:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 14:50:01 odyssey systemd: Starting user-0.slice.
+Mar 21 14:50:01 odyssey systemd: Started Session 1928 of user achille.
+Mar 21 14:50:01 odyssey systemd: Starting Session 1928 of user achille.
+Mar 21 14:50:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 14:50:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 14:53:10 odyssey chronyd[834]: Source 158.69.125.231 replaced with 104.167.113.95
+Mar 21 15:00:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 15:00:01 odyssey systemd: Starting user-0.slice.
+Mar 21 15:00:01 odyssey systemd: Started Session 1929 of user achille.
+Mar 21 15:00:01 odyssey systemd: Starting Session 1929 of user achille.
+Mar 21 15:00:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 15:00:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 15:01:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 15:01:01 odyssey systemd: Starting user-0.slice.
+Mar 21 15:01:01 odyssey systemd: Started Session 1930 of user achille.
+Mar 21 15:01:01 odyssey systemd: Starting Session 1930 of user achille.
+Mar 21 15:01:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 15:01:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 15:10:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 15:10:01 odyssey systemd: Starting user-0.slice.
+Mar 21 15:10:01 odyssey systemd: Started Session 1931 of user achille.
+Mar 21 15:10:01 odyssey systemd: Starting Session 1931 of user achille.
+Mar 21 15:10:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 15:10:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 15:20:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 15:20:01 odyssey systemd: Starting user-0.slice.
+Mar 21 15:20:01 odyssey systemd: Started Session 1932 of user achille.
+Mar 21 15:20:01 odyssey systemd: Starting Session 1932 of user achille.
+Mar 21 15:20:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 15:20:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 15:30:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 15:30:01 odyssey systemd: Starting user-0.slice.
+Mar 21 15:30:01 odyssey systemd: Started Session 1933 of user achille.
+Mar 21 15:30:01 odyssey systemd: Starting Session 1933 of user achille.
+Mar 21 15:30:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 15:30:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 15:34:19 odyssey chronyd[834]: Source 208.80.96.70 replaced with 158.69.125.231
+Mar 21 15:40:01 odyssey systemd: Created slice user-0.slice.
+Mar 21 15:40:01 odyssey systemd: Starting user-0.slice.
+Mar 21 15:40:01 odyssey systemd: Started Session 1934 of user achille.
+Mar 21 15:40:01 odyssey systemd: Starting Session 1934 of user achille.
+Mar 21 15:40:01 odyssey systemd: Removed slice user-0.slice.
+Mar 21 15:40:01 odyssey systemd: Stopping user-0.slice.
+Mar 21 15:45:56 odyssey systemd: Created slice user-0.slice.
+Mar 21 15:45:56 odyssey systemd: Starting user-0.slice.
+Mar 21 15:45:56 odyssey systemd-logind: New session 1935 of user achille.
+Mar 21 15:45:56 odyssey systemd: Started Session 1935 of user achille.
+Mar 21 15:45:56 odyssey systemd: Starting Session 1935 of user achille.
+Mar 21 15:45:56 odyssey dbus-daemon: dbus[810]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 21 15:45:56 odyssey dbus[810]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Mar 21 15:45:56 odyssey dbus-daemon: dbus[810]: [system] Successfully activated service 'org.freedesktop.problems'
+Mar 21 15:45:56 odyssey dbus[810]: [system] Successfully activated service 'org.freedesktop.problems'
