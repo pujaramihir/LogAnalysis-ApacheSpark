@@ -24,9 +24,7 @@ while getopts ":q:" o; do
 					spark-submit FrequentErrors.py $3 $4
 					;;
 				7)
-					echo $q
-					echo $3
-					echo $4
+					spark-submit UsersOnBothHost.py $3 $4
 					;;
 				8)
 					echo $q
