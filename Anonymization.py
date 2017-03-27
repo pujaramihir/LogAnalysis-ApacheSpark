@@ -13,6 +13,21 @@ def matchToUser(logString):
     else:
         return "False"
     
+    
+def replaceFirstHostUsersToAnonymizeUser(data):
+    for (user,anonymizeUser) in firstHostUsers:
+        data = str(data.encode('ascii', 'ignore'))
+        data = data.replace(user, anonymizeUser)
+        
+    return data
+    
+def replaceSecondHostUsersToAnonymizeUser(data):
+    for (user,anonymizeUser) in secondHostUsers:
+        data = str(data.encode('ascii', 'ignore'))
+        data = data.replace(user, anonymizeUser)
+        
+    return data
+    
 
 conffiguration = SparkConf().setMaster("local[*]").setAppName("LogAnalysis")
 spark = SparkContext(conf=conffiguration)
@@ -49,13 +64,33 @@ if len(arguments) == 3:
             secondHostUsers.append((user[:-1],"user-"+str(i)))
             i = i + 1            
             
-    print firstHostUsers
-    print secondHostUsers
-    #print secondResult
+    anonymizeFirstHost = firstHost.map(replaceFirstHostUsersToAnonymizeUser)
+    anonymizeSecondHost = secondHost.map(replaceSecondHostUsersToAnonymizeUser)
     
-    """
-    print "* Q8: users who started a session on exactly one host, with host name."
-    print "  + : " + str(users)
-    """    
+    no1 = 10
+    while True:
+        if not os.path.isdir(os.getcwd() + "/" + str(arguments[1]) + "-anonymized-"+str(no1)+"/"):
+            break
+        else:
+            no1 = no1 + 1
+            
+    no2 = 10
+    while True:
+        if not os.path.isdir(os.getcwd() + "/" + str(arguments[2]) + "-anonymized-"+str(no2)+"/"):
+            break
+        else:
+            no2 = no2 + 1
+                
+    anonymizeFirstHost.saveAsTextFile(os.getcwd() + "/" + str(arguments[1]) + "-anonymized-"+str(no1)+"/")
+    anonymizeSecondHost.saveAsTextFile(os.getcwd() + "/" + str(arguments[2]) + "-anonymized-"+str(no2)+"/")
+    
+    print "  + " + str(arguments[1])
+    print "  . User name mapping: " + str(firstHostUsers)
+    print "  . Anonymized files: " + str(arguments[1]) + "-anonymized-"+str(no1)
+    
+    print "  + " + str(arguments[2])
+    print "  . User name mapping: " + str(secondHostUsers)
+    print "  . Anonymized files: " + str(arguments[2]) + "-anonymized-"+str(no2)
+    
 else:
     print "Invalid arguments"
