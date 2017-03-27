@@ -30,9 +30,7 @@ while getopts ":q:" o; do
 					spark-submit UserOnlyOnOneHost.py $3 $4
 					;;
 				9)
-					echo $q
-					echo $3
-					echo $4
+					spark-submit Anonymization.py $3 $4
 					;;
 				*)
 					echo "question not found!!!"
