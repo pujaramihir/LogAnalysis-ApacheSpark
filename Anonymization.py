@@ -12,10 +12,12 @@ def matchToUser(logString):
         return user[5]
     else:
         return "False"
+    
 
 conffiguration = SparkConf().setMaster("local[*]").setAppName("LogAnalysis")
 spark = SparkContext(conf=conffiguration)
 spark.setLogLevel('ERROR')
+
 
 arguments = sys.argv
 
@@ -24,24 +26,32 @@ if len(arguments) == 3:
     secondHost = spark.textFile(str(os.getcwd()) + "/" + str(arguments[2]) + "/")
     
     firstMapResult = firstHost.map(lambda l:l.split(":")).map(matchToUser).map(lambda l: (l, 1))
-    firstResult = firstMapResult.reduceByKey(add).collect()
+    firstResult = firstMapResult.reduceByKey(add).sortByKey(ascending = True).collect()
     
     secondMapResult = secondHost.map(lambda l:l.split(":")).map(matchToUser).map(lambda l: (l, 1))
-    secondResult = secondMapResult.reduceByKey(add).collect()
+    secondResult = secondMapResult.reduceByKey(add).sortByKey(ascending = True).collect()
     
+    i = 0 
+    firstHostUsers = []
     
-    firstList = []
-    for (key, value) in firstResult:
-        if key != 'False':
-            firstList.append(str(key)[:-1])
-        
-    secondList = []
-    for (key, value) in secondResult:
-        if key != 'False':
-            secondList.append(str(key)[:-1])
+    for (user,count) in firstResult:
+        if user != 'False':
+            user = str(user)
+            firstHostUsers.append((user[:-1],"user-"+str(i)))
+            i = i + 1
+
+    i = 0
+    secondHostUsers = []
+    
+    for (user,count) in secondResult:
+        if user != 'False':
+            user = str(user)
+            secondHostUsers.append((user[:-1],"user-"+str(i)))
+            i = i + 1            
             
-    print firstList
-    print secondList
+    print firstHostUsers
+    print secondHostUsers
+    #print secondResult
     
     """
     print "* Q8: users who started a session on exactly one host, with host name."
