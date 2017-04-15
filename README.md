@@ -1,7 +1,7 @@
 # LogAnalysis-ApacheSpark
 Log files analysis using Apache Spark. We will focus on Linux syslog files and more precisely on the messages file located in /var/log on most Linux distributions. Such analyses have various applications in system administration, e.g., for security diagnosticso
 
-Used library
+Used library<br />
 Apache Spark 2.1.0
 Python 2.7
 
