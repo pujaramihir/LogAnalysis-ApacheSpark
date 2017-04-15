@@ -7,7 +7,7 @@ Python 2.7<br />
 
 To run the code follow steps below:
 1. set environment variable SPARK_HOME which consist path of spark home directory.
-2. append path of sparks bin directory in PATH variable.
+2. append path of spark's bin directory in PATH variable.
 3. run ./log_analyzer -q <i> <dir1> <dir2> (Where <dir1> and <dir2> are two directories containing log files collected on two different
 hosts, and <i> is the question number and value of i between 1 to 9.)
  
