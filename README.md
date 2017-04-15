@@ -10,4 +10,3 @@ To run the code follow steps below:
 2. append path of spark's bin directory in PATH variable.
 3. run command ./log_analyzer -q <i> <dir1> <dir2>  (Where <dir1> and <dir2> are two directories containing log files collected on two different
 hosts, and <i> is the question number and value of i between 1 to 9.)
- 
